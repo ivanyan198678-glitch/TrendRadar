@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T14:29:24.078020+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-07-11T18:47:10.678690+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "周五（7月10日），美联储隔夜逆回购协议（RRP）使用规模为5.45亿美元（交易对手3家），上个交易日报57.72亿美元。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -52,13 +52,24 @@
           "time_info": "05时41分"
         },
         {
+          "title": "SK集团董事长：若股价稳定，考虑增发美国股票、扩大在美投资、推出\"内存即服务\"新模式",
+          "url": "https://wallstreetcn.com/articles/3776682",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
+        {
           "title": "据半岛电视台：伊朗官员表示，该国研究基础设施在战争中遭受了3亿美元损失。",
           "url": "https://flash.jin10.com/detail/20260711133101594800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -127,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时32分"
+        },
+        {
+          "title": "英国最大零售银行维珍理财前首席执行官加迪亚将被任命为英国审计监管机构主席。",
+          "url": "https://flash.jin10.com/detail/20260711171641978800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时47分"
         },
         {
           "title": "伊拉克国家石油公司：伊拉克将8月销往欧洲的巴士拉中质原油官方售价设为较即期布伦特原油贴水7.35美元/桶。",
@@ -157,7 +179,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -234,7 +256,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -264,8 +286,42 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "商务部、海关总署对氦气实施临时禁止出口管理，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2058959918087018226",
+          "source": "知乎",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
+        },
+        {
+          "title": "【早报】中方：对氦气实施临时禁止出口管理；香农芯创、融捷股份等公司预计上半年业绩增长10倍",
+          "url": "https://www.cls.cn/detail/2423440",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
+        },
+        {
+          "title": "国产新能源重卡组团出海",
+          "url": "https://www.toutiao.com/trending/7660084757178433579/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
@@ -289,28 +345,6 @@
           "time_info": "[01时32分 ~ 05时41分]"
         },
         {
-          "title": "商务部、海关总署对氦气实施临时禁止出口管理，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2058959918087018226",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "【早报】中方：对氦气实施临时禁止出口管理；香农芯创、融捷股份等公司预计上半年业绩增长10倍",
-          "url": "https://www.cls.cn/detail/2423440",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "市场消息：四名美国参议员称，已与特朗普政府达成协议，将推进对俄制裁法案。",
           "url": "https://flash.jin10.com/detail/20260711011248280800",
           "source": "金十数据",
@@ -322,6 +356,18 @@
           "time_info": "01时32分"
         },
         {
+          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
+          "url": "https://wallstreetcn.com/articles/3776685",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
+        },
+        {
           "title": "存储芯片巨头SK海力士登陆美股",
           "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -331,17 +377,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 05时41分]"
-        },
-        {
-          "title": "SK海力士CEO：2027年将迎来史上最严重存储芯片短缺，供不应求或持续至2030年后",
-          "url": "https://wallstreetcn.com/articles/3776685",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "“最强厄尔尼诺”来了？全球农产品供应链“雪上加霜”",
@@ -394,7 +429,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -416,7 +451,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -446,7 +481,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "又一批A股公司业绩亮眼！5股半年报净利预计增长10倍",
@@ -456,8 +491,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 18时47分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -476,11 +511,12 @@
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
         },
         {
           "title": "午后齐跌，创业板跌超4%，商业航天掀涨停潮，芯片半导体下挫，港股AI模型“双雄”暴跌",
@@ -516,6 +552,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 05时41分]"
+        },
+        {
+          "title": "A股一周熊股出炉：最熊股跌超84%",
+          "url": "https://www.toutiao.com/trending/7660657298100764698/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -619,8 +666,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时32分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 18时47分]"
         },
         {
           "title": "一组数据看中国经济蓬勃发展",
@@ -629,7 +676,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -703,8 +750,31 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
+        },
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
+        },
         {
           "title": "长鑫科技上市在即，有望纳入哪些指数？何时能借道ETF布局？",
           "url": "https://www.cls.cn/detail/2422854",
@@ -715,17 +785,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 05时41分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "报道：京东旗下平台等组成的财团接近提交REIT在新加坡IPO的文件",
@@ -744,11 +803,24 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 18时47分]"
+        },
+        {
+          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
+          "url": "https://www.cls.cn/detail/2423530",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时32分 ~ 14时29分]"
+          "time_info": "[14时29分 ~ 18时47分]"
         },
         {
           "title": "今晚首秀！SK海力士赴美上市引爆杠杆ETF热潮 多款产品下周推出",
@@ -761,17 +833,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时32分 ~ 05时41分]"
-        },
-        {
-          "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
-          "url": "https://www.cls.cn/detail/2423530",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
         },
         {
           "title": "SK海力士ADR美国上市首日初步收涨12.9%。",
@@ -863,11 +924,12 @@
           "url": "https://www.cls.cn/detail/2423531",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 18时47分]"
         }
       ]
     }
