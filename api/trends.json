@@ -1,8 +1,146 @@
 {
-  "generated_at": "2026-07-13T04:04:36.247024+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-13T06:35:13.534476+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "布伦特原油期货周一亚市早盘高开3%，美股期货小幅走低，纳斯达克100指数期货跌0.2%。此前美伊冲突升级。",
+          "url": "https://wallstreetcn.com/livenews/3132438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "美元兑日元USD/JPY站上162，日内涨0.18%。",
+          "url": "https://flash.jin10.com/detail/20260713061352497800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "WTI原油突破74美元/桶，日内涨3.63%。",
+          "url": "https://flash.jin10.com/detail/20260713061311181800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "现货白银日内跌超2.00%，现报58.65美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260713060721876800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
+          "url": "https://wallstreetcn.com/articles/3776726",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
+          "url": "https://wallstreetcn.com/articles/3776713",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "如何看待 2026 年 7 月 12 日周星驰新电影《功夫女足》预测票房大幅飙升至 25 亿人民币？",
+          "url": "https://www.zhihu.com/question/2059770577624290592",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
+        },
+        {
+          "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
+          "url": "https://flash.jin10.com/detail/20260713025812018800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美国10年期国债期货下跌5点，联邦基金期货小幅下滑。",
+          "url": "https://flash.jin10.com/detail/20260713060258981800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "WTI原油日内大涨3.00%，现报73.57美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260713060237967800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "WTI原油周一盘初向上触及73美元/桶，日内涨2.49%。",
+          "url": "https://flash.jin10.com/detail/20260713060032163800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        },
+        {
+          "title": "美股三大股指期货周一低开，其中纳指期货跌0.3%。",
+          "url": "https://flash.jin10.com/detail/20260713060020016800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
+        }
+      ]
+    },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
       "match_count": 8,
@@ -15,8 +153,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "下周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
@@ -26,8 +164,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
+          "url": "https://wallstreetcn.com/articles/3776712",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "掌控财政，插手人事，鲁比奥已成“委内瑞拉总督”？",
+          "url": "https://news.ifeng.com/c/8uhiya0igXL",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "为什么油价下跌尚未导致通胀下降",
@@ -41,28 +201,6 @@
           "time_info": "04时04分"
         },
         {
-          "title": "财报季、沃什和美国通胀--美联储和市场将走向何方？下周“初见端倪”！",
-          "url": "https://wallstreetcn.com/articles/3776712",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "掌控财政，插手人事，鲁比奥已成“委内瑞拉总督”？",
-          "url": "https://news.ifeng.com/c/8uhiya0igXL",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
           "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
           "url": "https://www.cls.cn/detail/2423676",
           "source": "财联社热门",
@@ -70,19 +208,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "【早报】中国石化完成对中国航油重组",
           "url": "https://www.cls.cn/detail/2423679",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "掌控财政，插手人事，鲁比奥已成“委内瑞拉总督”？",
@@ -92,14 +231,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         }
       ]
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "周末要闻汇总：国常会最新部署！加快新一代通信网、算力网建设；长江存储IPO有最新进展",
@@ -109,19 +248,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "小红书前员工再发文实名举报 IPO 合规，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2058623048639689021",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "长鑫IPO在即，长存“拍马追赶”",
@@ -131,8 +271,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "赛力斯：2026年上半年将预计亏损",
+          "url": "https://wallstreetcn.com/livenews/3132415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "赛力斯预计半年净亏损15至18亿元",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8A%9B%E6%96%AF%E9%A2%84%E8%AE%A1%E5%8D%8A%E5%B9%B4%E5%87%80%E4%BA%8F%E6%8D%9F15%E8%87%B318%E4%BA%BF%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
         },
         {
           "title": "“先免妈、再上位” ：奥精医疗内斗上演连续剧 上市首任董事长“回董”被董事会拦下",
@@ -144,23 +307,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
-        },
-        {
-          "title": "赛力斯：2026年上半年将预计亏损",
-          "url": "https://wallstreetcn.com/livenews/3132415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
         }
       ]
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "全球存储扩产+海外设备供应告急，国产半导体设备迎“超级时代”",
@@ -170,8 +322,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "新能源车平均车龄仅1.8年",
@@ -181,8 +333,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "存储扩产预期再度强化！三星电子晶圆厂建设提速 半导体设备增量空间可期",
@@ -192,8 +344,30 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
+        },
+        {
+          "title": "5000 元以下笔记本基本绝迹，购机门槛升至万元以上，为啥涨价幅度这么大？对行业和消费者有哪些影响？",
+          "url": "https://www.zhihu.com/question/2058111600045678958",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 06时35分]"
+        },
+        {
+          "title": "基本半导体(09971.HK)公告，其部分产品价格预计上调幅度最高不超过25%，具体调整方案将根据产品类别、订单规模、合作模式、市场区域及双方商业安排等因素综合确定，并与相关客户有序实施。",
+          "url": "https://flash.jin10.com/detail/20260713060353055800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "06时35分"
         },
         {
           "title": "欧盟再次未就第21轮对俄制裁方案达成一致",
@@ -210,79 +384,65 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "多股应声涨停！A股中报行情纵深推进，16家上市公司净利最高同比预增超10倍",
           "url": "https://www.cls.cn/detail/2423847",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "周星驰电影《功夫女足》首日票房 2.6 亿，带动大盘时隔 136 天单日破 3 亿，如何评价这一成绩？",
           "url": "https://www.zhihu.com/question/2059428102430613532",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "龙头20CM涨停 本周披露并购重组进展的A股名单一览",
           "url": "https://www.cls.cn/detail/2423581",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "英伟达路演：季度收入近千亿美元、增速还在加快，Rubin Ultra没有延期",
-          "url": "https://wallstreetcn.com/articles/3776726",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
-          "title": "美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”",
-          "url": "https://wallstreetcn.com/articles/3776713",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
-        },
-        {
-          "title": "西班牙批准80亿美元住房计划 未来四年公共住房投资将提高三倍",
-          "url": "https://flash.jin10.com/detail/20260713025812018800",
+          "title": "周一开盘，现货黄金低开约20美元，跌破4100美元/盎司。现货白银低开0.8%。",
+          "url": "https://flash.jin10.com/detail/20260713060149944800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时04分"
+          "time_info": "06时35分"
+        },
+        {
+          "title": "麦康奈尔称摔倒致短暂失去意识并住院 无骨折脑震荡",
+          "url": "https://flash.jin10.com/detail/20260713055103021800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时35分"
         }
       ]
     },
@@ -298,19 +458,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         },
         {
           "title": "调查：“扫开就近2块钱”，共享单车涨价到哪里是个头",
           "url": "https://m.thepaper.cn/newsDetail_forward_33572014",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时04分"
+          "appearance_count": 3,
+          "time_info": "[04时04分 ~ 06时35分]"
         }
       ]
     }
