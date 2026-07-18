@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T15:16:37.620316+08:00",
-  "total_titles_processed": 799,
+  "generated_at": "2026-07-18T19:34:06.107663+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -15,8 +15,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 15时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 19时34分]"
+        },
+        {
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时39分 ~ 19时34分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -42,17 +55,15 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
+          "title": "上半年我国外汇领域热点扫描",
+          "url": "https://www.toutiao.com/trending/7663318330207407652/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6,
-            10
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 15时16分]"
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "黄仁勋标志性皮衣以96万美元成交",
@@ -61,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -144,6 +155,29 @@
           "time_info": "00时39分"
         },
         {
+          "title": "乌克兰国防部：2026年上半年，乌克兰军方签署的无人机合同总额约为75亿美元，是去年总量的两倍。其中，FPV无人机所占份额最大。",
+          "url": "https://flash.jin10.com/detail/20260718190003064800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 19时34分]"
+        },
+        {
           "title": "四人操纵股票获利1.57亿被罚没6.27亿",
           "url": "https://www.toutiao.com/trending/7663451675356692521/",
           "source": "今日头条",
@@ -155,17 +189,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 08时14分]"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 15时16分]"
         },
         {
           "title": "美银警告：黄金恐跌向3315美元",
@@ -340,9 +363,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
+        },
+        {
+          "title": "7月以来股票型ETF净流入超过3200亿元",
+          "url": "https://wallstreetcn.com/livenews/3135992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持NYMEX WTI原油净多头头寸增加11,704手合约，至86,383手合约。 所持布伦特与WTI原油净多头头寸增至252,836手合约，创五周新高。 所持NYMEX天然气净空头头寸增至48,229手合约，创逾两年新高。",
@@ -384,7 +418,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -395,7 +429,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -406,7 +440,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -510,6 +544,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "中国人民银行副行长宣昌能会见布基纳法索经济财政部部长阿布巴卡尔·纳卡纳博一行",
+          "url": "https://flash.jin10.com/detail/20260718171622874800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "机构：美元将回归长期贬值趋势",
           "url": "https://wallstreetcn.com/livenews/3135811",
           "source": "华尔街见闻-快讯",
@@ -579,7 +624,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
@@ -589,8 +634,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 15时16分]"
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 19时34分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时13分 ~ 19时34分]"
         },
         {
           "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
@@ -617,18 +674,6 @@
           "time_info": "[00时39分 ~ 15时16分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 15时16分]"
-        },
-        {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
           "url": "https://www.cls.cn/detail/2429589",
           "source": "财联社热门",
@@ -651,6 +696,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 08时14分]"
+        },
+        {
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时34分]"
         },
         {
           "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
@@ -700,17 +757,6 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
-          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
-          "url": "https://www.cls.cn/detail/2430101",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
           "url": "https://flash.jin10.com/detail/20260717235319263800",
           "source": "金十数据",
@@ -731,6 +777,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时34分]"
         },
         {
           "title": "A股年内最强无差别杀跌",
@@ -755,6 +813,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时13分 ~ 08时14分]"
+        },
+        {
+          "title": "龙头9天7板 本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2430229",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "A股再现天价离婚案",
@@ -801,17 +870,6 @@
           "time_info": "04时30分"
         },
         {
-          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
-          "url": "https://wallstreetcn.com/articles/3777275",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "道琼斯指数7月17日（周五）收盘下跌406.55点，跌幅0.77%，报52146.42点；<br/>标普500指数7月17日（周五）收盘下跌76.11点，跌幅1.01%，报7457.66点；<br/>纳斯达克综合指数7月17日（周五）收盘下跌361.70点，跌幅1.40%，报25520.24点。",
           "url": "https://flash.jin10.com/detail/20260718040335383800",
           "source": "金十数据",
@@ -840,7 +898,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -884,7 +942,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -922,6 +980,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "Kimi K3引发美股震荡 月之暗面有望最快6个月内赴港上市",
+          "url": "https://wallstreetcn.com/livenews/3135984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "A股“股王”11个月25次易主",
           "url": "https://www.toutiao.com/trending/7662962275166683199/",
           "source": "今日头条",
@@ -950,7 +1019,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -969,7 +1038,7 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "我国服务出口快速增长",
@@ -983,6 +1052,20 @@
           "time_info": "[00时39分 ~ 08时14分]"
         },
         {
+          "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608521",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 19时34分]"
+        },
+        {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
@@ -994,13 +1077,24 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
+          "title": "LV法务假扮消费者买包后起诉百货店",
+          "url": "https://s.weibo.com/weibo?q=%23LV%E6%B3%95%E5%8A%A1%E5%81%87%E6%89%AE%E6%B6%88%E8%B4%B9%E8%80%85%E4%B9%B0%E5%8C%85%E5%90%8E%E8%B5%B7%E8%AF%89%E7%99%BE%E8%B4%A7%E5%BA%97%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
+        },
+        {
           "title": "锂电池要和成品油一样交消费税了",
           "url": "https://www.baidu.com/s?wd=%E9%94%82%E7%94%B5%E6%B1%A0%E8%A6%81%E5%92%8C%E6%88%90%E5%93%81%E6%B2%B9%E4%B8%80%E6%A0%B7%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1027,17 +1121,16 @@
           "time_info": "00时39分"
         },
         {
-          "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33608521",
-          "source": "澎湃新闻",
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 15时16分]"
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时34分]"
         },
         {
           "title": "住房被写成“大宗耐用消费品”意味啥",
@@ -1098,17 +1191,6 @@
           "time_info": "[08时13分 ~ 08时14分]"
         },
         {
-          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
-          "url": "https://www.cls.cn/detail/2430098",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%，本周累涨2.6%。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。",
           "url": "https://wallstreetcn.com/livenews/3135899",
           "source": "华尔街见闻-快讯",
@@ -1137,7 +1219,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1148,7 +1230,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1159,7 +1241,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1225,7 +1307,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1247,7 +1329,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1258,7 +1340,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1288,7 +1370,7 @@
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -1301,6 +1383,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 08时14分]"
+        },
+        {
+          "title": "经济学家任泽平 VIP 付费会员群「暴雷」，有人听信操作建议亏损 1000 多万，你如何看这种现象？",
+          "url": "https://www.zhihu.com/question/2061371759589323819",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时33分 ~ 19时34分]"
         },
         {
           "title": "解读邹市明冉莹颖经济链",
@@ -1320,11 +1413,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33606069",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 19时34分]"
         },
         {
           "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
@@ -1333,7 +1427,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1427,7 +1521,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1438,7 +1532,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时16分"
         },
@@ -1468,7 +1562,7 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "再向韩国芯片巨头伸手：SK海力士与三星\"超额利润\"或需与美国分享",
@@ -1480,8 +1574,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 19时34分]"
         },
         {
           "title": "蔡磊牵线研发国产渐冻症药有望上市",
@@ -1517,6 +1611,17 @@
           "time_info": "00时39分"
         },
         {
+          "title": "VIP群成员满仓融资亏超千万元？任泽平回应",
+          "url": "https://wallstreetcn.com/livenews/3135980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "安巴尼旗下信实工业无视伊朗战争阴霾，利润超预期",
           "url": "https://wallstreetcn.com/livenews/3135810",
           "source": "华尔街见闻-快讯",
@@ -1546,17 +1651,6 @@
           "time_info": "[00时39分 ~ 08时14分]"
         },
         {
-          "title": "【早报】茅台宣布：涨价；国内油价，今起上调",
-          "url": "https://www.cls.cn/detail/2430081",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
           "title": "时隔三月再涨价：年内飞天茅台出厂价累计上调200元 这是怎样的信号？",
           "url": "https://www.cls.cn/detail/2429977",
           "source": "财联社热门",
@@ -1566,8 +1660,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时29分 ~ 15时16分]"
+          "appearance_count": 7,
+          "time_info": "[04时29分 ~ 19时34分]"
+        },
+        {
+          "title": "【早报】茅台宣布：涨价；国内油价，今起上调",
+          "url": "https://www.cls.cn/detail/2430081",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时16分 ~ 19时34分]"
         },
         {
           "title": "飞天茅台再涨价",
