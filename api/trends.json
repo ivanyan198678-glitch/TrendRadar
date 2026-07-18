@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T08:14:03.304108+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2026-07-18T15:16:37.620316+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "4人操纵股票，被证监会罚没6.27亿",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 15时16分]"
         },
         {
           "title": "科技股抛售潮蔓延，美股低开，纳指跌1.8%，半导体板块领跌，布油涨3%，黄金失守4000美元",
@@ -42,15 +42,28 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
-          "title": "邹市明冉莹颖已还清3家银行欠款",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%B7%B2%E8%BF%98%E6%B8%853%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%AC%A0%E6%AC%BE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
+          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2429875",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 15时16分]"
+        },
+        {
+          "title": "黄仁勋标志性皮衣以96万美元成交",
+          "url": "https://www.toutiao.com/trending/7663505960069906475/",
+          "source": "今日头条",
           "ranks": [
             2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "委内瑞拉临时总统：在地震后从国际货币基金组织获得了3.46亿美元的资源。",
@@ -59,7 +72,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -86,18 +99,6 @@
           "time_info": "00时39分"
         },
         {
-          "title": "纳指期货盘前跌近2% AI支出担忧重创市场情绪 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2429875",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时14分]"
-        },
-        {
           "title": "现货黄金突破4020美元/盎司，日内涨1.10%。",
           "url": "https://flash.jin10.com/detail/20260717235344451800",
           "source": "金十数据",
@@ -118,6 +119,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "邹市明冉莹颖已还清3家银行欠款",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%82%B9%E5%B8%82%E6%98%8E%E5%86%89%E8%8E%B9%E9%A2%96%E5%B7%B2%E8%BF%98%E6%B8%853%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%AC%A0%E6%AC%BE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 15时16分]"
         },
         {
           "title": "首批上报主动ETF的18家基金公司各亮“绝活”，哪些基金经理挑大梁？",
@@ -142,6 +155,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时39分 ~ 08时14分]"
+        },
+        {
+          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
+          "url": "https://www.cls.cn/detail/2430073",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 15时16分]"
         },
         {
           "title": "美银警告：黄金恐跌向3315美元",
@@ -172,17 +196,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
-        },
-        {
-          "title": "国际金价险守4000美元关口 美伊冲突升级双方扩大打击范围 | 环球市场",
-          "url": "https://www.cls.cn/detail/2430073",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -239,7 +252,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -316,9 +329,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "7月17日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260718133618373800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：7月14日当周，投机者所持NYMEX WTI原油净多头头寸增加11,704手合约，至86,383手合约。 所持布伦特与WTI原油净多头头寸增至252,836手合约，创五周新高。 所持NYMEX天然气净空头头寸增至48,229手合约，创逾两年新高。",
@@ -349,9 +373,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "迪士尼《海洋奇缘：启航》票房惨败，首周全球 9500 万美元远低预期，恐净亏损 1 亿美元，原因何在？",
+          "url": "https://www.zhihu.com/question/2059974558191285469",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "黄仁勋签名皮衣卖了96万美元",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%BE%E5%90%8D%E7%9A%AE%E8%A1%A3%E5%8D%96%E4%BA%8696%E4%B8%87%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "黄仁勋皮衣96万美元成交！超最高估价16倍",
+          "url": "https://wallstreetcn.com/livenews/3135959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "周五（7月17日）纽约尾盘，标普500股指期货最终跌1.04%，道指期货跌0.76%，纳斯达克100股指期货跌1.51%。 罗素2000股指期货跌0.48%。",
@@ -360,7 +417,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -371,7 +428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -393,7 +450,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -514,7 +571,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         }
@@ -522,8 +579,19 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
+          "url": "https://wallstreetcn.com/articles/3777186",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 15时16分]"
+        },
         {
           "title": "韩国股市暴跌！每30名韩国成年人就有1人被追保，强平率从2.1%飙至10%",
           "url": "https://wallstreetcn.com/articles/3777151",
@@ -534,6 +602,31 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时30分]"
+        },
+        {
+          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
+          "url": "https://wallstreetcn.com/articles/3777165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 15时16分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 15时16分]"
         },
         {
           "title": "【每日收评】创业板与科创50指数双双跌超7%，全市场近200股跌停，科技权重集体退潮",
@@ -560,39 +653,17 @@
           "time_info": "[00时39分 ~ 08时14分]"
         },
         {
-          "title": "Kimi冲击美科技股，纳指100一度跌2.7%、收盘跌幅收窄，芯片股进入熊市，油价大涨",
-          "url": "https://wallstreetcn.com/articles/3777186",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
-        },
-        {
-          "title": "沪指失守3800点，电力银行逆势拉升，创业板、科创50跌逾7%，医药芯片深度回调，港股AI大模型股智谱跌近30%",
-          "url": "https://wallstreetcn.com/articles/3777165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时14分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
+          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
+          "url": "https://www.cls.cn/detail/2429653",
           "source": "财联社热门",
           "ranks": [
-            4
+            9,
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 15时16分]"
         },
         {
           "title": "费城半导体指数进入熊市",
@@ -629,17 +700,15 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
-          "title": "【焦点复盘】创业板指录得周线四连阴，全市场超640股跌逾10%，电力板块逆势活跃",
-          "url": "https://www.cls.cn/detail/2429653",
+          "title": "A股再现天价离婚：分手费59.5亿元，公司上市不足一年",
+          "url": "https://www.cls.cn/detail/2430101",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "摩根大通：AI主导市场期间欧洲股市或持续跑输全球",
@@ -732,6 +801,17 @@
           "time_info": "04时30分"
         },
         {
+          "title": "单周重挫10%、连续三周大跌，较高点回撤20%！“AI牛市龙头”经历“史上最大动量抛售之一”",
+          "url": "https://wallstreetcn.com/articles/3777275",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "道琼斯指数7月17日（周五）收盘下跌406.55点，跌幅0.77%，报52146.42点；<br/>标普500指数7月17日（周五）收盘下跌76.11点，跌幅1.01%，报7457.66点；<br/>纳斯达克综合指数7月17日（周五）收盘下跌361.70点，跌幅1.40%，报25520.24点。",
           "url": "https://flash.jin10.com/detail/20260718040335383800",
           "source": "金十数据",
@@ -752,6 +832,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）全球股市指数-欧洲市场",
@@ -785,6 +876,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
+        },
+        {
+          "title": "A股一周熊股出炉：最熊股跌超41%",
+          "url": "https://www.toutiao.com/trending/7663260734738710564/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "高盛指中国股市“国家队”ETF录得15个月最大四日资金流入",
@@ -842,13 +944,24 @@
           "time_info": "00时39分"
         },
         {
+          "title": "悬而未决的疑问是股市下跌的最大“幕后黑手”",
+          "url": "https://flash.jin10.com/detail/20260718121021398800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
           "url": "https://wallstreetcn.com/livenews/3135907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         }
@@ -856,7 +969,7 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 20,
+      "match_count": 28,
       "titles": [
         {
           "title": "我国服务出口快速增长",
@@ -881,6 +994,17 @@
           "time_info": "[00时39分 ~ 04时30分]"
         },
         {
+          "title": "锂电池要和成品油一样交消费税了",
+          "url": "https://www.baidu.com/s?wd=%E9%94%82%E7%94%B5%E6%B1%A0%E8%A6%81%E5%92%8C%E6%88%90%E5%93%81%E6%B2%B9%E4%B8%80%E6%A0%B7%E4%BA%A4%E6%B6%88%E8%B4%B9%E7%A8%8E%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "墨西哥驻美国大使Roberto Lazzeri：持续围绕美国墨西哥加拿大贸易协议（USMCA）取得谈判进展。 这是翻新USMCA的好时机。 每次我们损失，都是在丧失竞争。 快速达成新版USMCA协议符合地区的最佳利益。",
           "url": "https://wallstreetcn.com/livenews/3135905",
           "source": "华尔街见闻-快讯",
@@ -903,6 +1027,19 @@
           "time_info": "00时39分"
         },
         {
+          "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33608521",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 15时16分]"
+        },
+        {
           "title": "住房被写成“大宗耐用消费品”意味啥",
           "url": "https://www.toutiao.com/trending/7663473527919808019/",
           "source": "今日头条",
@@ -915,16 +1052,16 @@
           "time_info": "[00时39分 ~ 08时14分]"
         },
         {
-          "title": "年内二度提价！飞天茅台i茅台零售价上调100元至1639元/瓶，销售合同价同步上调",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33608521",
-          "source": "澎湃新闻",
+          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
+          "url": "https://www.zhihu.com/question/2060663328502977751",
+          "source": "知乎",
           "ranks": [
-            10,
+            11,
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 08时14分]"
+          "appearance_count": 3,
+          "time_info": "[08时13分 ~ 15时16分]"
         },
         {
           "title": "零食店疯狂扩张 消费者会买账吗",
@@ -937,17 +1074,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时39分 ~ 04时30分]"
-        },
-        {
-          "title": "6 月中国原油进口大降四成，创下十年月度新低，是需求减弱还是其他原因？",
-          "url": "https://www.zhihu.com/question/2060663328502977751",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时13分 ~ 08时14分]"
         },
         {
           "title": "三部门调整部分电池消费税政策",
@@ -972,6 +1098,17 @@
           "time_info": "[08时13分 ~ 08时14分]"
         },
         {
+          "title": "费城半导体指数入熊之际：“Kimi时刻”刷屏华尔街！",
+          "url": "https://www.cls.cn/detail/2430098",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "纳斯达克金龙中国指数初步收跌1.8%，本周累涨2.6%。 热门中概股里，百度初步收跌4.8%，美团、小鹏、腾讯、理想跌超3%，拼多多、日月光半导体、阿里跌超2%，网易涨0.7%，阿特斯太阳能涨1.5%，大全新能源涨2.2%，晶科能源涨3.1%。",
           "url": "https://wallstreetcn.com/livenews/3135899",
           "source": "华尔街见闻-快讯",
@@ -992,6 +1129,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "蔚来芯片子公司神玑首次独立参展世界人工智能大会，发布多款前沿AI算力产品",
+          "url": "https://wallstreetcn.com/livenews/3135966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "比亚迪巴西工厂迎来第10万辆新能源汽车下线",
+          "url": "https://wallstreetcn.com/livenews/3135965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "三部门分步调整部分电池消费税政策，对无汞原电池、锂原电池等按 2% 税率征税，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2061492056724174422",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "加拿大野火殃及美国空气，特朗普称将以关税追偿损失",
@@ -1044,9 +1214,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "中欧班列（福州）开行4年进出口总货值超16亿元",
+          "url": "https://flash.jin10.com/detail/20260718125753672800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美国贸易办公室（USTR）：美国、墨西哥将在墨西哥城继续评估美国墨西哥加拿大贸易协议（USMCA）。 两国将于7月21日举行第三轮双边谈判，谈判团队将交流三天时间。 两国将讨论钢铁、铝、汽车贸易，并讨论农业、电子支付、劳动力。",
@@ -1055,9 +1236,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
+        },
+        {
+          "title": "平头哥真武芯片与阿里云磐久超节点服务器荣膺2026 WAIC“镇馆之宝”",
+          "url": "https://wallstreetcn.com/livenews/3135952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "上半年中国新能源车型出口前20排名",
+          "url": "https://www.toutiao.com/trending/7662735309164085286/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
@@ -1085,7 +1288,7 @@
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "财政部等三部门：调整部分电池消费税政策",
@@ -1124,6 +1327,17 @@
           "time_info": "[08时13分 ~ 08时14分]"
         },
         {
+          "title": "智能体引爆Token经济，我国日均Token调用量增长超千倍",
+          "url": "https://wallstreetcn.com/livenews/3135970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "美国总统特朗普再次赞赏6月通胀数据。",
           "url": "https://wallstreetcn.com/livenews/3135890",
           "source": "华尔街见闻-快讯",
@@ -1141,7 +1355,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时14分"
         },
@@ -1181,6 +1395,78 @@
       ]
     },
     {
+      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "信誉清零,Bin贷款冠军被嘲",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356246&amp;topic_name=%E4%BF%A1%E8%AA%89%E6%B8%85%E9%9B%B6%2CBin%E8%B4%B7%E6%AC%BE%E5%86%A0%E5%86%9B%E8%A2%AB%E5%98%B2",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时39分 ~ 08时14分]"
+        },
+        {
+          "title": "美联储7月维持利率不变的概率85.6%",
+          "url": "https://flash.jin10.com/detail/20260718060306953800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        },
+        {
+          "title": "丰业银行：在不确定性高企时期，欧洲央行7月将维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260718131721846800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "残疾老人50万存款变寿险5年损失6万",
+          "url": "https://www.toutiao.com/trending/7662559491984654342/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
+          "title": "分析师：消费者信心调查对货币政策具有安抚作用",
+          "url": "https://flash.jin10.com/detail/20260717232817557800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        },
+        {
+          "title": "市场消息：美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260718041801964800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
       "match_count": 5,
       "titles": [
@@ -1190,11 +1476,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 08时14分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 15时16分]"
         },
         {
           "title": "蔡磊牵线研发国产渐冻症药有望上市",
@@ -1243,58 +1530,8 @@
       ]
     },
     {
-      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "信誉清零,Bin贷款冠军被嘲",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356246&amp;topic_name=%E4%BF%A1%E8%AA%89%E6%B8%85%E9%9B%B6%2CBin%E8%B4%B7%E6%AC%BE%E5%86%A0%E5%86%9B%E8%A2%AB%E5%98%B2",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 08时14分]"
-        },
-        {
-          "title": "美联储7月维持利率不变的概率85.6%",
-          "url": "https://flash.jin10.com/detail/20260718060306953800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "分析师：消费者信心调查对货币政策具有安抚作用",
-          "url": "https://flash.jin10.com/detail/20260717232817557800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        },
-        {
-          "title": "市场消息：美国银行存款从上一周的19.435万亿美元下降至19.361万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260718041801964800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        }
-      ]
-    },
-    {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "飞天茅台再涨价",
@@ -1309,16 +1546,28 @@
           "time_info": "[00时39分 ~ 08时14分]"
         },
         {
+          "title": "【早报】茅台宣布：涨价；国内油价，今起上调",
+          "url": "https://www.cls.cn/detail/2430081",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
+        {
           "title": "时隔三月再涨价：年内飞天茅台出厂价累计上调200元 这是怎样的信号？",
           "url": "https://www.cls.cn/detail/2429977",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时29分 ~ 08时14分]"
+          "appearance_count": 5,
+          "time_info": "[04时29分 ~ 15时16分]"
         },
         {
           "title": "飞天茅台再涨价",
