@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-25T07:44:11.876419+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-07-25T15:36:12.167147+08:00",
+  "total_titles_processed": 677,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "“关税战”来最惨的1天！美股“科技龙头”Mag 7单日市值蒸发近8000亿美元",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 07时44分]"
+        },
+        {
+          "title": "操纵证券市场，方某军被罚1.75亿元",
+          "url": "https://www.cls.cn/detail/2436893",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "两部门明确：居民个人装入离岸信托的财产及信托存续收益，均须依法缴纳个人所得税",
+          "url": "https://wallstreetcn.com/articles/3777868",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时36分]"
         },
         {
           "title": "如何看待「詹姆斯 2 年 800 万美元加盟 76 人，第 2 年球员选项」，老詹这一决定的未来前景如何 ？",
@@ -37,7 +60,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -64,6 +87,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "三星电子：与博通签署谅解备忘录，计划至2030年在内存芯片、代工服务及先进封装等领域合作，规模最高可达2000亿美元。 将与博通合作，基于三星HBM技术开发博通下一代AI加速器。 将提供2纳米以下代工工艺及先进封装解决方案。",
+          "url": "https://wallstreetcn.com/livenews/3139723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "方某军因操纵证券市场被罚没1.75亿",
           "url": "https://www.baidu.com/s?wd=%E6%96%B9%E6%9F%90%E5%86%9B%E5%9B%A0%E6%93%8D%E7%BA%B5%E8%AF%81%E5%88%B8%E5%B8%82%E5%9C%BA%E8%A2%AB%E7%BD%9A%E6%B2%A11.75%E4%BA%BF",
           "source": "百度热搜",
@@ -88,15 +122,37 @@
           "time_info": "[03时05分 ~ 07时44分]"
         },
         {
-          "title": "两部门明确：居民个人装入离岸信托的财产及信托存续收益，均须依法缴纳个人所得税",
-          "url": "https://wallstreetcn.com/articles/3777868",
-          "source": "华尔街见闻",
+          "title": "离岸信托个税新规出台，设立、存续、清算全链条征税 适用 20% 税率，将产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2064072667435684910",
+          "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "每天赚2.4亿！宁德时代上半年净利润预增42%，拟以200亿元-400亿元回购股票注销，每10股派息14.11元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3777883",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "英伟达与SK集团推出5000亿美元AI计划",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8ESK%E9%9B%86%E5%9B%A2%E6%8E%A8%E5%87%BA5000%E4%BA%BF%E7%BE%8E%E5%85%83AI%E8%AE%A1%E5%88%92%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "詹姆斯降薪4862万美元",
@@ -127,9 +183,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "科威特与黑石、布鲁克菲尔德和KKR签署160亿美元管道协议。",
+          "url": "https://wallstreetcn.com/livenews/3139720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "洲际交易所（ICE）：7月21日当周，对冲基金所持ICE布伦特原油净多头头寸增加22,192手合约，至192,031手合约，创六周新高。",
@@ -141,6 +208,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "据韩国媒体Newsis，三星电子、SK海力士将与美国科技巨头推进1,375万亿韩元芯片合作项目。 三星电子与博通签署先进内存芯片代工合作备忘录，5年总值200亿美元。 SK集团将向包括英伟达在内的美国科技公司供应价值7500亿美元的芯片。",
+          "url": "https://wallstreetcn.com/livenews/3139717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "证监会：进一步加大对证券期货违法犯罪的惩治力度",
+          "url": "https://wallstreetcn.com/livenews/3139716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "巴西工业联合会CNI估计，将有3900种产品面临总计37.5%的美国关税，涉及金额达124亿美元。",
@@ -171,7 +260,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -182,7 +271,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -193,7 +282,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -215,7 +304,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -237,7 +326,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -248,7 +337,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -259,9 +348,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "7月24日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260725132414840800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "贝莱德启动123亿美元债券发售，为Meta数据中心项目融资",
@@ -284,24 +384,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "西南证券原二级专务彭世斌涉嫌严重违纪违法接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3139695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
+          "url": "https://wallstreetcn.com/articles/3777833",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时36分]"
+        },
         {
           "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
           "url": "https://www.cls.cn/detail/2436740",
           "source": "财联社热门",
           "ranks": [
             4,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 07时44分]"
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 15时36分]"
         },
         {
           "title": "“十五五”消费市场迎重大变化",
@@ -315,26 +438,27 @@
           "time_info": "[03时05分 ~ 07时44分]"
         },
         {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
+          "title": "两大存储芯片巨头股价大跌",
+          "url": "https://www.toutiao.com/trending/7665520668645113919/",
+          "source": "今日头条",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "商务部宣布为维护国家安全和利益，将 14 家欧盟实体列入出口管制管控名单，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2064019046736175870",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时36分]"
         },
         {
           "title": "两家企业起诉美国新关税措施违法",
@@ -343,7 +467,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -404,6 +528,17 @@
           "time_info": "[07时43分 ~ 07时44分]"
         },
         {
+          "title": "欧盟宣布4年来最大规模对俄制裁",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A7%E7%9B%9F%E5%AE%A3%E5%B8%834%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
           "title": "美国的“关税续命术”又有了新剧本",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%9A%84%E2%80%9C%E5%85%B3%E7%A8%8E%E7%BB%AD%E5%91%BD%E6%9C%AF%E2%80%9D%E5%8F%88%E6%9C%89%E4%BA%86%E6%96%B0%E5%89%A7%E6%9C%AC",
           "source": "百度热搜",
@@ -415,6 +550,17 @@
           "time_info": "[07时43分 ~ 07时44分]"
         },
         {
+          "title": "特朗普宣布新一轮加征关税",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%96%B0%E4%B8%80%E8%BD%AE%E5%8A%A0%E5%BE%81%E5%85%B3%E7%A8%8E&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
           "title": "14家欧盟实体列入出口管制名单",
           "url": "https://www.douyin.com/hot/2583653",
           "source": "抖音",
@@ -424,6 +570,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时43分 ~ 07时44分]"
+        },
+        {
+          "title": "船运调查机构ITS：马来西亚7月1日至25日棕榈油出口增长15.9%；马来西亚7月1日至25日棕榈油出口量预计为1,307,012吨。",
+          "url": "https://flash.jin10.com/detail/20260725150832016800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "塞尔维亚总统武契奇：美国已经对我国产品取消（加征）35%的关税。 塞美将谈判新的关税，税率可能会（低至）10%-12%。",
@@ -454,7 +611,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -487,7 +644,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -517,18 +674,42 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
           "url": "https://www.cls.cn/detail/2436662",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 07时44分]"
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 15时36分]"
+        },
+        {
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
+          "url": "https://www.cls.cn/detail/2436875",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时36分]"
         },
         {
           "title": "A股史上最大股票回购方案",
@@ -566,15 +747,15 @@
           "time_info": "[03时05分 ~ 07时44分]"
         },
         {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
+          "title": "沪指跌超1%逼近3800点，全市场成交不足2万亿，半导体设备逆势爆发，恒指、恒科指均跌超1%，科网股低迷",
+          "url": "https://wallstreetcn.com/articles/3777840",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 07时44分]"
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "夜盘主力合约收盘",
@@ -605,7 +786,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -616,7 +797,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -627,7 +808,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -660,7 +841,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -682,7 +863,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
@@ -690,18 +871,19 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
           "url": "https://www.cls.cn/detail/2436602",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时05分 ~ 07时44分]"
+          "appearance_count": 5,
+          "time_info": "[03时05分 ~ 15时36分]"
         },
         {
           "title": "SpaceX星舰在美国IPO后首次试飞中成功升空",
@@ -710,7 +892,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         },
@@ -725,6 +907,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 07时44分]"
+        },
+        {
+          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+          "url": "https://www.cls.cn/detail/2436840",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "AI需求引爆十五年最强增长，英特尔Q2营收增25%大超预期，指引保持高增，盘后拉涨丨财报见闻",
@@ -755,15 +948,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "北汽集团：坚定看好中国资本市场发展前景，全力支持控股上市公司高质量发展",
+          "url": "https://wallstreetcn.com/livenews/3139698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "个人贷款新规8月1日起正式实施",
@@ -777,15 +981,48 @@
           "time_info": "[07时43分 ~ 07时44分]"
         },
         {
+          "title": "大连首推二套房公积金贷款贴息 年内近90城发“房补”",
+          "url": "https://wallstreetcn.com/livenews/3139726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
+          "url": "https://www.cls.cn/detail/2436736",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
           "title": "美国两年期国债收益率本周涨15.6个基点，油价上涨让投资者关注利率前景",
           "url": "https://wallstreetcn.com/livenews/3139665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "大连首推二套房公积金贷款贴息 年内近90城发“房补”",
+          "url": "https://flash.jin10.com/detail/20260725140620307800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "美联储：美国上周银行存款19.466万亿美元，之前一周19.362万亿美元。",
@@ -794,7 +1031,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
@@ -802,7 +1039,7 @@
     },
     {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "OPPO 、 Vivo 拒绝三星存储涨价报价，后续国产手机可能都用长鑫等国产内存吗？",
@@ -827,12 +1064,45 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 07时44分]"
+        },
+        {
+          "title": "工资交一半,老哥爱宠遭毒手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "50系显卡涨价幅度扩大",
+          "url": "https://search.bilibili.com/all?keyword=50%E7%B3%BB%E6%98%BE%E5%8D%A1%E6%B6%A8%E4%BB%B7%E5%B9%85%E5%BA%A6%E6%89%A9%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "2025年我国数字产业收入39.6万亿元",
+          "url": "https://wallstreetcn.com/livenews/3139708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "解码中国经济半年报",
@@ -844,6 +1114,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时05分 ~ 07时44分]"
+        },
+        {
+          "title": "上半年农业农村经济发展势头良好",
+          "url": "https://www.toutiao.com/trending/7666351325885681190/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
+          "title": "据香港经济日报：香港天文台改发三号强风信号，今晚9时至午夜12时可能发布更高级别风力信号。",
+          "url": "https://flash.jin10.com/detail/20260725133145715800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     }
