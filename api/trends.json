@@ -1,473 +1,11 @@
 {
-  "generated_at": "2026-07-26T23:49:40.374436+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-07-27T04:18:03.701385+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "美伊谈判希望重燃，原油一度跌超5%，科技股压制美股反弹，芯片指数暴跌4%",
-          "url": "https://wallstreetcn.com/articles/3777833",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "今年消费品以旧换新销售额超万亿元",
-          "url": "https://www.toutiao.com/trending/7664881086253907994/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "高通宣布 9 月起芯片涨价两位数百分比，将对手机市场产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2064255303806465925",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "三星、SK海力士将宣布与美国科技巨头达成大规模芯片合作",
-          "url": "https://www.cls.cn/detail/2436740",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 19时49分]"
-        },
-        {
-          "title": "上半年西部陆海新通道进出口总额超5000亿元",
-          "url": "https://wallstreetcn.com/livenews/3139808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 19时49分]"
-        },
-        {
-          "title": "穿凉鞋的人越来越少，洞洞鞋、勃肯鞋、溯溪鞋接班，为什么大家这样选？反映出哪些消费趋势？",
-          "url": "https://www.zhihu.com/question/2062144078456648299",
-          "source": "知乎",
-          "ranks": [
-            10,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 19时49分]"
-        },
-        {
-          "title": "韩国芯片“爆单”背后：离不开中国，绕不开美国",
-          "url": "https://news.ifeng.com/c/8v4MNMcH8Bk",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "官方数据显示，沙特5月进口额下降19.5%。沙特非石油出口（含转口贸易）较2025年5月下降了26.1%。",
-          "url": "https://flash.jin10.com/detail/20260726134503677800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "印尼海关办公室的一位发言人表示，政府正引入独立检验机构以查明矿产出口的构成，包括检测是否含有稀土金属。 政府并非随意暂停或禁止氧化铝和镍等矿产商品的出口，并正确保符合要求的商品出口顺畅。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3139771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "官网数据显示，沙特5月石油出口增长19.5%。",
-          "url": "https://flash.jin10.com/detail/20260726134436263800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "报道：印尼金属出口因稀土核查面临延误",
-          "url": "https://wallstreetcn.com/livenews/3139770",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "官方数据显示，沙特5月商品出口增长3.9%。",
-          "url": "https://flash.jin10.com/detail/20260726134415804800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "据叙利亚国家通讯社：科威特周日谴责胡塞武装对红海商业航运的多次袭击，包括最近对沙特运营的船只NCC MASA的攻击，称这些袭击违反国际法，威胁全球海洋安全和贸易。",
-          "url": "https://flash.jin10.com/detail/20260726173851324800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "英国人工智能大臣：芯片和无人机将成为“再工业化”战略的核心",
-          "url": "https://flash.jin10.com/detail/20260726130954988800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "俄罗斯：将在市场恢复后取消柴油出口禁令",
-          "url": "https://wallstreetcn.com/livenews/3139760",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "俄罗斯将把汽油出口禁令延长至年底。（塔斯社）",
-          "url": "https://wallstreetcn.com/livenews/3139759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "三星李在镕与OpenAI据悉磋商AI与半导体领域合作方案",
-          "url": "https://flash.jin10.com/detail/20260726125707233800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "专家：特朗普一刀切关税得罪全部盟友",
-          "url": "https://www.toutiao.com/trending/7666410407686311467/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "伊朗石油部：尽管面临战争和制裁，年度石油收入预算目标已完成逾六成。",
-          "url": "https://flash.jin10.com/detail/20260726005417008800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "立新能源：公司股价近期累计涨幅较大 存在快速下跌风险",
-          "url": "https://flash.jin10.com/detail/20260726161023521800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "中国AI芯片国产替代率五年从10%升至40%",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BDAI%E8%8A%AF%E7%89%87%E5%9B%BD%E4%BA%A7%E6%9B%BF%E4%BB%A3%E7%8E%87%E4%BA%94%E5%B9%B4%E4%BB%8E10%25%E5%8D%87%E8%87%B340%25&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
-          "url": "https://www.cls.cn/detail/2436884",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 23时49分]"
-        },
-        {
-          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2436803",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 23时49分]"
-        },
-        {
-          "title": "A股下周会迎来更猛烈的震荡吗",
-          "url": "https://www.toutiao.com/trending/7666467803297222180/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "上限400亿，宁德时代抛出A股史上最大单笔回购方案",
-          "url": "https://www.cls.cn/detail/2436662",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 15时16分]"
-        },
-        {
-          "title": "控制多个证券账户封涨停操纵市场，方某军被罚没超1.75亿元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33658645",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 15时16分]"
-        },
-        {
-          "title": "Muriel Siebert首席投资官Mark Malek：在通胀和油价高企、投资者担心企业利润率扩张可能放缓的时候，现在真不是推行关税政策的时候。 我们现在必须非常非常谨慎。 尽管霍尔木兹海峡因伊朗战争而关闭，但股市此前已经出现过反弹，相当于用掉了它唯一的“免死金牌”。",
-          "url": "https://wallstreetcn.com/livenews/3139779",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 15时16分]"
-        },
-        {
-          "title": "一切都怪战争和通胀！美国股市中的“特朗普交易”正沦为输家",
-          "url": "https://wallstreetcn.com/livenews/3139778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 15时16分]"
-        },
-        {
-          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
-          "url": "https://www.cls.cn/detail/2437150",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "A股重磅新规明起实施",
-          "url": "https://www.baidu.com/s?wd=A%E8%82%A1%E9%87%8D%E7%A3%85%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "A股史上最大规模回购来了",
-          "url": "https://search.bilibili.com/all?keyword=A%E8%82%A1%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%9B%9E%E8%B4%AD%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "美股收盘：三大指数走势分化 存储&光通信重挫 闪迪跌超10%",
-          "url": "https://www.cls.cn/detail/2436875",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "市场“震荡再平衡”，静待月底大事落地，十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2437214",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "中东股市收盘播报｜沙特阿美周日收跌将近0.9%，埃及股市跌超0.9%",
-          "url": "https://wallstreetcn.com/livenews/3139834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "永杉锂业7月26日公告，公司向特定对象发行A股股票申请获得上交所受理。",
-          "url": "https://flash.jin10.com/detail/20260726174836526800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "科技股大跌是因为“量化砸盘”？中基协私募专业委员会详解A股量化交易",
-          "url": "https://wallstreetcn.com/livenews/3139765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "A股重磅新规明起实施",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%87%8D%E7%A3%85%E6%96%B0%E8%A7%84%E6%98%8E%E8%B5%B7%E5%AE%9E%E6%96%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "中信证券：二次原油冲击不改8月行情修复趋势",
-          "url": "https://flash.jin10.com/detail/20260726170350197800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "中信建投：A股市场短期维持W型底部震荡 ，AI 仍是长期主线",
-          "url": "https://flash.jin10.com/detail/20260726213859697800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "A股内幕交易新规定来了",
-          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%86%85%E5%B9%95%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%84%E5%AE%9A%E6%9D%A5%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 18,
+      "match_count": 7,
       "titles": [
         {
           "title": "操纵证券市场，方某军被罚1.75亿元",
@@ -477,33 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 23时49分]"
-        },
-        {
-          "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
-          "url": "https://www.zhihu.com/question/2063564177688597653",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "【早报】特朗普威胁对欧盟加征报复性关税；韩国存储双雄拟签下9500亿美元大单",
           "url": "https://www.cls.cn/detail/2437065",
           "source": "财联社热门",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "国际货币基金组织（IMF）：一系列主权财富基金的价值在过去十年超过翻倍。",
@@ -514,119 +38,40 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-          "url": "https://wallstreetcn.com/articles/3777926",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "美国五大科技巨头 AI 隐性债务被曝达 1.65 万亿美元，四年内增长 8 倍，巨额表外负债会成为定时炸弹吗？",
-          "url": "https://www.zhihu.com/question/2063915578427963194",
-          "source": "知乎",
-          "ranks": [
-            13,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 23时49分]"
+          "time_info": "04时18分"
         },
         {
           "title": "找准定位：多省份明确政府投资基金重点投资方向",
           "url": "https://m.thepaper.cn/newsDetail_forward_33661440",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时49分 ~ 23时49分]"
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
-          "title": "韩国养老金基金今年首次转为KOSPI净买入，重仓SK海力士",
-          "url": "https://flash.jin10.com/detail/20260726140933695800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "詹姆斯降薪 4875 万美元加盟后，费城的阵容如何调整才能避免球权冲突？球队有哪些隐患？",
-          "url": "https://www.zhihu.com/question/2064281439982576241",
+          "title": "郑州银行利润 18.95 亿却不分红，将 3.37 亿砸进总部大楼建设，中小股东的反对票说明了什么？",
+          "url": "https://www.zhihu.com/question/2063564177688597653",
           "source": "知乎",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
-          "title": "中国工商银行董事长廖林会见巴拿马银行监管总署署长米尔顿·阿永",
-          "url": "https://wallstreetcn.com/livenews/3139768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "期货盯盘神器专属文章",
-          "url": "https://flash.jin10.com/detail/20260726224109449800",
+          "title": "SpaceX欧洲竞争对手拟寻求融资3亿美元",
+          "url": "https://flash.jin10.com/detail/20260727024649850800",
           "source": "金十数据",
           "ranks": [
-            18
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "中国证券投资基金业协会私募证券投资基金专业委员会称，对于一些极端情况，监管部门也进行严密监控。 目前沪深北交易所已针对性设置了“短时间大额成交”的监控指标，明确短时间内大量交易引发指数大幅波动等行为属于异常交易。一旦触发，交易所会及时采取自律监管措施，减少量化交易对市场平稳运行的不利影响。（第一财经）",
-          "url": "https://wallstreetcn.com/livenews/3139766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "纳指ETF广发：提示基金二级市场交易价格溢价风险",
-          "url": "https://flash.jin10.com/detail/20260726171306292800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "华夏基金：旗下部分ETF长鑫科技上市首日或存净值差异风险",
-          "url": "https://flash.jin10.com/detail/20260726171205996800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "04时18分"
         },
         {
           "title": "希音通过港交所上市聆讯：去年营收418亿美元，净利20.6亿美元",
@@ -637,126 +82,96 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "04时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "龙头“20cm”3连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2436803",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
-          "title": "伊朗：在战争及停火期间合计出售180亿美元石油",
-          "url": "https://flash.jin10.com/detail/20260726005108655800",
+          "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
+          "url": "https://www.cls.cn/detail/2436884",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "周末要闻汇总：宁德时代启动A股史上最大规模回购，韩国存储双雄拟签下9500亿美元大单",
+          "url": "https://www.cls.cn/detail/2437150",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "市场“震荡再平衡”，静待月底大事落地，十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2437214",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "中东股市收盘播报｜沙特阿美周日收跌将近0.9%，埃及股市跌超0.9%",
+          "url": "https://wallstreetcn.com/livenews/3139834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "芝商所（CME）周一将推出个股期货，使投资者能够对50多只美国龙头股进行对冲或投机。相关合约将以挂钩股票的收盘价进行现金结算，并提供比期权更为简单的杠杆方式。个股期货将每周交易五天、每天23小时，并有两种规模：大型合约以100股股票为基础，微型合约以10股为基础。",
+          "url": "https://flash.jin10.com/detail/20260727010322157800",
           "source": "金十数据",
           "ranks": [
-            26
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "威尔逊资产管理公司（Wilson Asset Management）对冲基金经理Matthew Haupt：韩国综合股价指数波幅指数（KOSPI VIX）依然非常高，市场正在等待杠杆仓位清算完毕。 目前有比韩国更稳定的市场来进行主题交易。",
-          "url": "https://wallstreetcn.com/livenews/3139754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "亚洲大型股票基金转向落后股，来规避AI波动风险",
-          "url": "https://wallstreetcn.com/livenews/3139752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "time_info": "04时18分"
         }
       ]
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "希音国际控股有限公司通过港交所上市聆讯",
-          "url": "https://flash.jin10.com/detail/20260726191700004800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
-          "url": "https://www.cls.cn/detail/2436840",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时15分 ~ 19时49分]"
-        },
         {
           "title": "究竟丨付费学员投资亏损，任泽平“不荐股”声明能否免责？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33624220",
           "source": "澎湃新闻",
           "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 23时49分]"
-        },
-        {
-          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
-          "url": "https://www.cls.cn/detail/2437061",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 19时49分]"
-        },
-        {
-          "title": "交流会纪要外泄影响DeepSeek融资？内部人士：不可信",
-          "url": "https://wallstreetcn.com/livenews/3139801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 19时49分]"
-        },
-        {
-          "title": "中国旺旺：4月至6月营收预计下滑约6%",
-          "url": "https://flash.jin10.com/detail/20260726183712567800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "长鑫科技股价管控“小作文”先于上市登场，谣言为何密集出现？七大拆解",
-          "url": "https://www.cls.cn/detail/2436602",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "长鑫科技员工：上市和我们没啥关系",
@@ -765,31 +180,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "SK海力士下周放榜：Q2营业利润或突破64万亿韩元创新高，同比增长近600%",
-          "url": "https://wallstreetcn.com/articles/3777948",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "长鑫上市 合肥能赚多少",
-          "url": "https://s.weibo.com/weibo?q=%E9%95%BF%E9%91%AB%E4%B8%8A%E5%B8%82%20%E5%90%88%E8%82%A5%E8%83%BD%E8%B5%9A%E5%A4%9A%E5%B0%91&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "长鑫上市 合肥能赚多少",
@@ -798,20 +191,9 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "奇瑞风云A9正式上市",
-          "url": "https://www.toutiao.com/trending/7665626188970426387/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "长鑫科技上市前夕记者探访",
@@ -820,114 +202,132 @@
           "ranks": [
             30
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "今年消费品以旧换新销售额超万亿元",
+          "url": "https://www.toutiao.com/trending/7664881086253907994/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "电动车为什么要做大车?",
+          "url": "https://www.zhihu.com/question/353099267",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "欧盟对俄制裁留缺口说明什么",
+          "url": "https://www.toutiao.com/trending/7666832346905054739/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        },
+        {
+          "title": "巴西总统卢拉：美持续在关税上对巴施压系战略错误",
+          "url": "https://flash.jin10.com/detail/20260727020249903800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "04时18分"
         }
       ]
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "下周“加息”并非“天方夜谭”？飙升的油价、“不给指引”的沃什，这都让市场紧张",
           "url": "https://wallstreetcn.com/articles/3777938",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时16分 ~ 23时49分]"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "下周全球瞩目！美日央行利率决议+MAG7与存储巨头财报+国内重磅会议+长鑫挂牌",
           "url": "https://wallstreetcn.com/articles/3777856",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国首相拒绝透露将国防开支占GDP比重提高至3%的具体时间表",
+          "url": "https://wallstreetcn.com/livenews/3139849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "04时18分"
         },
         {
-          "title": "存款有100万的人舍不得花30万买车",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%98%E6%AC%BE%E6%9C%89100%E4%B8%87%E7%9A%84%E4%BA%BA%E8%88%8D%E4%B8%8D%E5%BE%97%E8%8A%B130%E4%B8%87%E4%B9%B0%E8%BD%A6%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "央行将7月末前后开展4次隔夜逆回购 对冲月底资金波动",
-          "url": "https://www.cls.cn/detail/2436736",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "分析师：油价重新接近百元大关，全球央行加息警铃再响",
-          "url": "https://flash.jin10.com/detail/20260726172020074800",
+          "title": "叙利亚外长：感谢联合国秘书长古特雷斯对叙利亚的访问。与古特雷斯先生讨论了多个共同关心的议题，包括联合国在支持恢复优先事项、人权、经济发展等方面的作用，以增强叙利亚在建设更稳定未来方面的努力。",
+          "url": "https://flash.jin10.com/detail/20260727015653912800",
           "source": "金十数据",
           "ranks": [
-            18
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "04时18分"
         }
       ]
     },
     {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "工资交一半,老哥爱宠遭毒手",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356494&amp;topic_name=%E5%B7%A5%E8%B5%84%E4%BA%A4%E4%B8%80%E5%8D%8A%2C%E8%80%81%E5%93%A5%E7%88%B1%E5%AE%A0%E9%81%AD%E6%AF%92%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            15,
-            22,
-            24,
-            27
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 23时49分]"
-        },
-        {
-          "title": "横店演员失业卖凉皮：演太监都得1米8",
-          "url": "https://www.baidu.com/s?wd=%E6%A8%AA%E5%BA%97%E6%BC%94%E5%91%98%E5%A4%B1%E4%B8%9A%E5%8D%96%E5%87%89%E7%9A%AE%EF%BC%9A%E6%BC%94%E5%A4%AA%E7%9B%91%E9%83%BD%E5%BE%971%E7%B1%B38",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        },
-        {
-          "title": "有人说医学专业就业难、工作压力大，但我感觉学医就业途径多、收入不菲，真实的情况究竟是怎样?",
-          "url": "https://www.zhihu.com/question/1916279312321083336",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         },
         {
           "title": "调查显示日本8月将有近1900种食品涨价",
@@ -938,69 +338,7 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时49分"
-        },
-        {
-          "title": "横店演员失业卖凉皮",
-          "url": "https://www.toutiao.com/trending/7666598612654243903/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "多家外媒：中国经济展现出较强韧性",
-          "url": "https://www.toutiao.com/trending/7666633756211757119/",
-          "source": "今日头条",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时49分"
-        },
-        {
-          "title": "31省份上半年GDP公布 6省位次变了",
-          "url": "https://www.baidu.com/s?wd=31%E7%9C%81%E4%BB%BD%E4%B8%8A%E5%8D%8A%E5%B9%B4GDP%E5%85%AC%E5%B8%83+6%E7%9C%81%E4%BD%8D%E6%AC%A1%E5%8F%98%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时16分 ~ 19时49分]"
-        },
-        {
-          "title": "经济日报：携程为何挨了最重的罚？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33656915",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "英国首相拒绝透露将国防开支占GDP比重提高至3%的具体时间表",
-          "url": "https://wallstreetcn.com/livenews/3139849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
+          "time_info": "04时18分"
         }
       ]
     },
@@ -1013,11 +351,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33651642",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时17分 ~ 04时18分]"
         }
       ]
     }
