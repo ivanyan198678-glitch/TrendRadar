@@ -1,163 +1,229 @@
 {
-  "generated_at": "2026-07-28T01:23:15.681059+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-28T05:53:00.102132+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 14,
+      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
+      "match_count": 20,
       "titles": [
         {
-          "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
-          "url": "https://wallstreetcn.com/articles/3777983",
-          "source": "华尔街见闻",
+          "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
+          "url": "https://wallstreetcn.com/livenews/3140523",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
-          "url": "https://www.zhihu.com/question/2065005981617107684",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "长鑫上市首日雷军浮盈7个多亿",
-          "url": "https://www.toutiao.com/trending/7666243604578435078/",
-          "source": "今日头条",
+          "title": "LME期铜收涨88美元，报13732美元/吨。 LME期铝收涨8美元，报3168美元/吨。 LME期锌收涨20美元，报3612美元/吨。 LME期铅收涨4美元，报1891美元/吨。 LME期镍收跌166美元，报17213美元/吨。 LME期锡收涨560美元，报54341美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3140447",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
-          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
-          "url": "https://www.cls.cn/detail/2437945",
-          "source": "财联社热门",
+          "title": "周一（7月27日）纽约尾盘，标普500股指期货最终涨0.06%，道指期货涨0.52%，纳斯达克100股指期货跌0.30%。 罗素2000股指期货涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/3140518",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "长鑫科技上市 哪些城市是赢家",
-          "url": "https://www.toutiao.com/trending/7667218293643546153/",
-          "source": "今日头条",
+          "title": "国际货币基金组织（IMF）总裁Georgieva：没必要向阿根廷提供更多支持。",
+          "url": "https://wallstreetcn.com/livenews/3140442",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
-          "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665126",
-          "source": "澎湃新闻",
+          "title": "周一（7月27日）纽约尾盘（周二北京时间04:59），离岸人民币（CNH）兑美元报6.7655元，较上周五纽约尾盘涨63点，日内整体交投于6.7743-6.7630元区间。",
+          "url": "https://wallstreetcn.com/livenews/3140517",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "如何看长鑫市值超英特尔",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E9%95%BF%E9%91%AB%E5%B8%82%E5%80%BC%E8%B6%85%E8%8B%B1%E7%89%B9%E5%B0%94",
-          "source": "bilibili 热搜",
+          "title": "美光科技总市值跌破万亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "十年陪跑获万亿回报！一文起底长鑫上市的最大赢家——合肥",
-          "url": "https://wallstreetcn.com/articles/3778000",
-          "source": "华尔街见闻",
+          "title": "爱泼斯坦1亿美元遗产继承人或是她？",
+          "url": "https://news.ifeng.com/c/8v6bfDOuTgv",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3140439",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 1,
+          "time_info": "01时23分"
         },
         {
-          "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
-          "url": "https://www.cls.cn/detail/2437935",
-          "source": "财联社热门",
+          "title": "明晟公司MSCI新兴市场股票指数涨0.9%，外汇指数涨0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3140514",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
-          "url": "https://www.zhihu.com/question/2064980903453881609",
-          "source": "知乎",
+          "title": "天弘股份（Celestica Inc.，多伦多股票代码CLS.CN）ADR美股盘后涨8%。 该公司二季度营收47亿美元，分析师预期43.9亿美元。 二季度调整后每股收益（EPS）为2.54美元，分析师预期2.30美元。 预计全年营收205亿美元，分析师预期192.8亿美元，公司原本预计190亿美元。 预计全年调整后EPS为11.30美元，分析师预期10.29美元，公司原本预计10.15美元。 预计三季度营收52.5亿-55.5亿美元，分析师预期50.1亿美元。 预计三季度调整后EPS为2.88-3.08美元，分析师预期2.68美元。",
+          "url": "https://wallstreetcn.com/livenews/3140513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
+          "url": "https://flash.jin10.com/detail/20260728004419411800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "瑞银：微软财报或遇“高支出低增长”困境，下调目标价至480美元",
+          "url": "https://flash.jin10.com/detail/20260728041638856800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "周一（7月27日），美股行业ETF涨跌各异，半导体ETF收跌2.25%，能源业ETF跌2.11%，科技行业ETF、全球科技股指数ETF、银行业ETF至多跌0.9%。 生物科技指数ETF则涨0.1%，可选消费ETF涨1.31%，网络股指数ETF涨1.89%，全球航空业ETF涨2.89%。",
+          "url": "https://wallstreetcn.com/livenews/3140509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "铿腾电子（Cadence Design）二季度营收15.8亿美元，分析师预期15.7亿美元。 二季度调整后每股收益（EPS）为2.11美元，分析师预期2.06美元。 预计全年营收62.6亿-63.4亿美元，公司原本预计61.3亿-62.3亿美元。 预计全年调整后EPS为8.05-8.15美元，公司原本预计7.58-7.95美元。 预计三季度营收16.0亿-16.3亿美元，分析师预期15.5亿美元。 预计三季度调整后EPS为2.01-2.07美元，分析师预期1.95美元。 铿腾电子（CDNS）美股盘后涨7%。",
+          "url": "https://wallstreetcn.com/livenews/3140506",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "苹果总市值超越英伟达重返全球第一",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
-          "source": "百度热搜",
+          "title": "WTI原油日内重挫9.00%，现报81.16美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260728040836449800",
+          "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
-          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3140424",
+          "title": "Rambus二季度每股收益（EPS）为0.61美元，运营利润率31%。 预计三季度调整后EPS为0.75-0.82美元，产品收入1.10亿-1.16亿美元，合同与其他收入0.25亿-0.31亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3140505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "Navitas Semiconductor二季度营收1050万美元，分析师预期997万美元。 二季度每股亏损0.04美元，分析师预期亏损0.043美元。 二季度调整后净亏损931万美元，分析师预期亏损1000万美元。 二季度调整后运营亏损1140万美元，分析师预期亏损1120万美元。",
+          "url": "https://wallstreetcn.com/livenews/3140504",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时23分"
+          "time_info": "05时53分"
         },
         {
-          "title": "米其林上半年营收126.9亿欧元，分析师预期127.4亿欧元。 上半年净利润7.66亿欧元，分析师预期9.77亿欧元。 确认全年业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/3140423",
+          "title": "Amkor Technology二季度净销售19亿美元，分析师预期18.2亿美元。 二季度每股收益（EPS）为0.70美元，上年同期0.22美元。",
+          "url": "https://wallstreetcn.com/livenews/3140502",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美元指数27日上涨",
+          "url": "https://flash.jin10.com/detail/20260728040211375800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨1.34%，报25438.84点。 法国股指初步收涨0.75%，意大利股指初步收涨0.64%、银行指数涨1.33%，英国股指初步收涨0.74%。 荷兰股指初步收跌0.49%。",
+          "url": "https://wallstreetcn.com/livenews/3140415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -165,29 +231,31 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 9,
+      "match_count": 15,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
           "url": "https://wallstreetcn.com/articles/3777980",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "【每日收评】创业板指涨超3%，全市场近5200股飘红，长鑫科技全天成交额超1400亿",
           "url": "https://www.cls.cn/detail/2437874",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "同一位创始人！今日长鑫涨疯、兆易创新跌停，朱一明身价或迎最大重估",
@@ -197,19 +265,56 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "“听泉赏宝”宣布彻底告别股市",
           "url": "https://www.toutiao.com/trending/7667059764711079990/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "长鑫为何成A股新王",
+          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
@@ -217,28 +322,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "长鑫科技开盘涨471.59%，总市值超3.3万亿元，成A股市值最高公司",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33665106",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
-        },
-        {
-          "title": "长鑫科技成A股市值最高公司，银行、保险等机构受益几何",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33667417",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -256,96 +339,233 @@
           "time_info": "[01时22分 ~ 01时23分]"
         },
         {
-          "title": "长鑫为何成A股新王",
-          "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E9%91%AB%E4%B8%BA%E4%BD%95%E6%88%90A%E8%82%A1%E6%96%B0%E7%8E%8B",
-          "source": "bilibili 热搜",
+          "title": "A股隐形龙头涨幅远超长鑫科技",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E9%9A%90%E5%BD%A2%E9%BE%99%E5%A4%B4%E6%B6%A8%E5%B9%85%E8%BF%9C%E8%B6%85%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            28
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "time_info": "[05时52分 ~ 05时53分]"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040603858800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "道琼斯指数7月27日（周一）收盘上涨262.44点，涨幅0.51%，报52209.69点；<br/>标普500指数7月27日（周一）收盘上涨1.28点，涨幅0.02%，报7413.26点；<br/>纳斯达克综合指数7月27日（周一）收盘下跌43.74点，跌幅0.18%，报24932.08点。",
+          "url": "https://flash.jin10.com/detail/20260728040601661800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040600311800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "金十图示：2026年07月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260728040558187800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
+        },
+        {
+          "title": "美股收盘：海力士跌超7%，苹果市值直逼5万亿美元",
+          "url": "https://flash.jin10.com/detail/20260728040127842800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
     {
-      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 7,
+      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
+      "match_count": 14,
       "titles": [
         {
-          "title": "LME期铜收涨88美元，报13732美元/吨。 LME期铝收涨8美元，报3168美元/吨。 LME期锌收涨20美元，报3612美元/吨。 LME期铅收涨4美元，报1891美元/吨。 LME期镍收跌166美元，报17213美元/吨。 LME期锡收涨560美元，报54341美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3140447",
-          "source": "华尔街见闻-快讯",
+          "title": "长鑫上市前，高盛紧急召开电话会：中国DRAM产能有望翻倍",
+          "url": "https://wallstreetcn.com/articles/3777983",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "芯片巨舰长鑫科技上市：一个人，一座城，与一个国家的存储产业十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663468",
+          "source": "澎湃新闻",
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "国际货币基金组织（IMF）总裁Georgieva：没必要向阿根廷提供更多支持。",
-          "url": "https://wallstreetcn.com/livenews/3140442",
-          "source": "华尔街见闻-快讯",
+          "title": "如何看长鑫市值超英特尔",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E9%95%BF%E9%91%AB%E5%B8%82%E5%80%BC%E8%B6%85%E8%8B%B1%E7%89%B9%E5%B0%94",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "8家券商持长鑫科技市值约509亿，哪家进账最多？跟投、直投与承销齐齐进入兑现期",
+          "url": "https://www.cls.cn/detail/2437945",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "2026上半年规上工业企业利润增长18.7%，国家统计局解读",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33665126",
+          "source": "澎湃新闻",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "美光科技总市值跌破万亿美元",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%85%89%E7%A7%91%E6%8A%80%E6%80%BB%E5%B8%82%E5%80%BC%E8%B7%8C%E7%A0%B4%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
+          "title": "长鑫上市首日雷军浮盈7个多亿",
+          "url": "https://www.toutiao.com/trending/7666243604578435078/",
+          "source": "今日头条",
           "ranks": [
-            6
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "爱泼斯坦1亿美元遗产继承人或是她？",
-          "url": "https://news.ifeng.com/c/8v6bfDOuTgv",
-          "source": "凤凰网",
+          "title": "长鑫科技上市首日高开 471%，市值突破 3 万亿，成 A 股新「一哥」，如何看待其表现？",
+          "url": "https://www.zhihu.com/question/2065005981617107684",
+          "source": "知乎",
           "ranks": [
-            9
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3140439",
-          "source": "华尔街见闻-快讯",
+          "title": "长鑫科技上市 哪些城市是赢家",
+          "url": "https://www.toutiao.com/trending/7667218293643546153/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "【焦点复盘】科创50深V回升收复1800点，全市场超180股涨逾10%，长鑫科技上市首日登顶总市值“一哥”",
+          "url": "https://www.cls.cn/detail/2437935",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "十年陪跑获万亿回报！一文起底长鑫上市的最大赢家——合肥",
+          "url": "https://wallstreetcn.com/articles/3778000",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "美、布两油短线下挫超0.5美元，现分别报81.86美元/桶和86.18美元/桶，此前特朗普表示，与伊朗的谈判进展良好，会同意与伊朗会面。",
-          "url": "https://flash.jin10.com/detail/20260728004419411800",
-          "source": "金十数据",
+          "title": "苹果总市值超越英伟达重返全球第一",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E6%80%BB%E5%B8%82%E5%80%BC%E8%B6%85%E8%B6%8A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E8%BF%94%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80",
+          "source": "百度热搜",
           "ranks": [
-            10
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时23分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
-          "title": "德国DAX 30指数初步收涨1.34%，报25438.84点。 法国股指初步收涨0.75%，意大利股指初步收涨0.64%、银行指数涨1.33%，英国股指初步收涨0.74%。 荷兰股指初步收跌0.49%。",
-          "url": "https://wallstreetcn.com/livenews/3140415",
+          "title": "长鑫科技挂牌上市，员工称「上市和我们没啥关系」，更关心未来薪资、待遇，上市对员工有哪些隐藏的好处吗？",
+          "url": "https://www.zhihu.com/question/2064980903453881609",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
+        },
+        {
+          "title": "LVMH集团（路易威登母公司）二季度时装与皮草有机销售增长1%，分析师预期增长1.52%。 二季度有机营收增长3%，分析师预期增长2.32%。 二季度美国有机营收增长6%，分析师预期增长4%。 二季度亚洲（剔除日本）有机增长4%，分析师预期增长4.6%。 二季度红酒与烈酒有机销售增长5%，分析师预期下滑1.94%。 该公司ADR美股盘中涨幅2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3140424",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            18
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时23分"
+        },
+        {
+          "title": "米其林上半年营收126.9亿欧元，分析师预期127.4亿欧元。 上半年净利润7.66亿欧元，分析师预期9.77亿欧元。 确认全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3140423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -353,7 +573,7 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -363,8 +583,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "特朗普威胁对欧盟加征巨额报复性关税，为何又是“301调查”？",
@@ -374,8 +594,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "美国参议院助手表示，参议院预计最早将于当地时间周二（乌克兰总统泽连斯基访美期间）开始对俄罗斯制裁法案进行投票。",
+          "url": "https://flash.jin10.com/detail/20260728050412307800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "巴西总统卢拉：我们将成立工作组推进与韩国的南方共同市场贸易协议谈判。",
@@ -384,9 +615,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "韩国7月消费者信心指数 106.8，前值106.6。",
+          "url": "https://flash.jin10.com/detail/20260728050002120800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "LVMH首席财务官：美国第二季度的需求来自本土销售的强劲势头以及在此基础上旅游消费的加速增长。",
@@ -395,31 +637,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "新能源车平均车龄仅1.8年系误读背后",
-          "url": "https://www.toutiao.com/trending/7666777093032181787/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
         },
         {
           "title": "酒店夜晚关空调 消费者被热醒",
           "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%A4%9C%E6%99%9A%E5%85%B3%E7%A9%BA%E8%B0%83+%E6%B6%88%E8%B4%B9%E8%80%85%E8%A2%AB%E7%83%AD%E9%86%92",
           "source": "百度热搜",
           "ranks": [
-            25
+            25,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "新能源车平均车龄仅1.8年系误读背后",
+          "url": "https://www.toutiao.com/trending/7666777093032181787/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "纳指科技指数收跌0.5%，半导体指数跌超2.2%",
+          "url": "https://wallstreetcn.com/livenews/3140500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         },
         {
           "title": "英国首相伯纳姆：希望与阿联酋加强贸易关系。",
@@ -428,9 +683,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "周一（7月27日）纽约尾盘，彭博电动汽车价格回报指数涨1.56%，报3280.64点。 指数全天处于上涨状态，亚太时段持续走高，美股盘初刷新日高至3290.35点。 成分股中，小米集团H股收涨7.34%，禾赛科技ADR目前涨5.6%，文远知行ADR涨5.2%，Lucid集团涨5%，特斯拉劲敌Rivian涨4.8%，地平线H股收涨4.52%，特斯拉目前跌1.4%表现倒数第三，意法半导体法国巴黎股价收跌1.88%，淡水河谷印尼公司收跌2.05%。",
+          "url": "https://wallstreetcn.com/livenews/3140495",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时53分"
         }
       ]
     },
@@ -445,7 +711,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -456,7 +722,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -467,7 +733,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -478,7 +744,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -489,7 +755,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -500,7 +766,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -508,7 +774,7 @@
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "数说中国硬核经济亮点",
@@ -518,8 +784,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "数说中国经济新亮点",
@@ -529,8 +795,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
         },
         {
           "title": "经济日报：中国学者开出菲尔兹奖“双响”，欣喜之余亦需清醒看到不足",
@@ -540,8 +806,19 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时22分 ~ 05时53分]"
+        },
+        {
+          "title": "美财政部威胁制裁中国模型，硅谷 200 家企业联名反对，硅谷的态度反弹说明了什么？",
+          "url": "https://www.zhihu.com/question/2064030510549054193",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时22分 ~ 01时23分]"
+          "time_info": "[05时52分 ~ 05时53分]"
         },
         {
           "title": "德国10年期国债收益率跌约4个基点，美国暂停袭击伊朗使得油价回撤",
@@ -550,7 +827,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         },
@@ -561,7 +838,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
         }
@@ -578,9 +855,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉Optimus项目遭“泼冷水” 知名投资人：短期不会产生收入",
+          "url": "https://www.cls.cn/detail/2437832",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 05时53分]"
         }
       ]
     }
