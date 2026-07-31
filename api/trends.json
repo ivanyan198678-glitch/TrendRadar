@@ -1,12 +1,338 @@
 {
-  "generated_at": "2026-08-01T00:15:54.739815+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-01T04:52:54.138864+08:00",
+  "total_titles_processed": 430,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 14,
+      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
+      "match_count": 28,
       "titles": [
+        {
+          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
+          "url": "https://wallstreetcn.com/articles/3778287",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "美元兑日元跌0.9%，报158.03。",
+          "url": "https://wallstreetcn.com/livenews/3143462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
+          "url": "https://wallstreetcn.com/articles/3778371",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
+          "url": "https://www.zhihu.com/question/2066288437683032785",
+          "source": "知乎",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "美元指数31日上涨",
+          "url": "https://flash.jin10.com/detail/20260801041117348800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "截止至7月28日当周CFTC外汇类非商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260801040632393800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "欧洲天然气期货7月份涨35%",
+          "url": "https://wallstreetcn.com/livenews/3143365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "截止至7月28日当周CFTC外汇类商业持仓报告在金十数据中心更新啦！欢迎点击查看>>",
+          "url": "https://flash.jin10.com/detail/20260801040626882800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "7月份，美股存储芯片指数跌28.6%，半导体指数跌19.8%，美国科技股七巨头指数涨4.9%，标普大致持平，道指涨0.5%，纳指跌2.5%，银行指数涨3.4%。 周五当天，标普500指数初步收涨0.8%，可选消费板块涨6.2%，电信板块涨4.7%，科技板块跌0.2%，原材料板块跌2.7%。 纳斯达克100指数初步收涨0.7%，成分股中，亚马逊初步收涨15.6%，德康医疗涨11.9%，谷歌A涨7%，新思科技涨4.5%，英伟达涨3.4%，SpaceX跌3.6%，Strategy跌4%，闪迪跌5.4%，美光科技跌5.6%，恩智浦跌6%，苹果跌7.1%。",
+          "url": "https://wallstreetcn.com/livenews/3143446",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "德国DAX 30指数初步收涨0.31%，报25692.28点。 法国股指初步收涨0.60%，意大利股指初步收涨0.22%、银行指数涨0.45%，英国股指初步收跌0.07%。",
+          "url": "https://wallstreetcn.com/livenews/3143362",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "CFTC持仓：美元多头头寸终于创下新纪录",
+          "url": "https://wallstreetcn.com/livenews/3143442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美元兑日元本周跌2.9%",
+          "url": "https://wallstreetcn.com/livenews/3143441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
+          "url": "https://flash.jin10.com/detail/20260731233529953800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：7月28日当周，投机者所持COMEX黄金净多头头寸减少3,258手合约，至120,328手合约。 所持COMEX白银净多头头寸降低至8,387手合约，创21周新低。 所持NYMEX钯金净空头头寸降低至6,173手合约，创四周新低。",
+          "url": "https://wallstreetcn.com/livenews/3143440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "据媒体报道：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
+          "url": "https://wallstreetcn.com/livenews/3143357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：7月28日当周，投机者所持NYMEX WTI原油净多头头寸增加21,402手合约，至108,307手合约，创六周新高。 所持布伦特与WTI原油净多头头寸增至308,385手合约，创七周新高。 所持NYMEX汽油净多头头寸增至73,967手合约，创19周新高。",
+          "url": "https://wallstreetcn.com/livenews/3143439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美元指数7月份跌超1.2%",
+          "url": "https://wallstreetcn.com/livenews/3143438",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，股票基金经理将标普500指数CME净多头头寸增加了12,702份合约，至939,115份。股票基金投机者将标普500指数CME净空头头寸减少了28,795份合约，至287,277份。",
+          "url": "https://flash.jin10.com/detail/20260801034321010800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，天然气投机者将NYMEX和ICE四大市场净空头头寸增加了5,281手，至60,997手。",
+          "url": "https://flash.jin10.com/detail/20260801033737646800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，投机客将CBOT美国10年期国债期货净空头头寸减少了3,587手，至876,119手。投机客将CBOT美国超长期国债期货净空头头寸减少了642手，至320,708手。",
+          "url": "https://flash.jin10.com/detail/20260801033734817800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "芝加哥小麦期货周五跌超3.8%，7月份累涨约8.3%",
+          "url": "https://wallstreetcn.com/livenews/3143435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，投机客将CBOT美国2年期国债期货净空头头寸减少了30,023手，至1,124,574手。投机客将CBOT美国5年期国债期货净空头头寸减少了126,929手，至1,146,400手。",
+          "url": "https://flash.jin10.com/detail/20260801033727381800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，原油投机者将WTI净多头头寸增加了28,159手，至106,507手。",
+          "url": "https://flash.jin10.com/detail/20260801033140628800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，COMEX黄金投机客将净多头头寸减少3,258手，降至120,328手。COMEX白银投机客将净多头头寸减少1,614手，降至8,387手。COMEX铜投机客将净多头头寸减少7,195手，降至66,490手。",
+          "url": "https://flash.jin10.com/detail/20260801033116887800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "内盘期货夜市涨跌各异，低硫燃油收涨超3.3%，铁矿石跌超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3143347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "中东原油期货本周跌19.1%，美国原油期货7月份涨超22.2%",
+          "url": "https://wallstreetcn.com/livenews/3143427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
+          "url": "https://wallstreetcn.com/articles/3778381",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
         {
           "title": "巴西股市逐步恢复交易，此前已经暂停数小时。",
           "url": "https://wallstreetcn.com/livenews/3143376",
@@ -19,26 +345,52 @@
           "time_info": "00时15分"
         },
         {
-          "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
-          "url": "https://wallstreetcn.com/articles/3778381",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
           "url": "https://www.cls.cn/detail/2442641",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
+          "url": "https://www.cls.cn/detail/2442689",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "顾客因大盘鸡里有土豆报警",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%9B%A0%E5%A4%A7%E7%9B%98%E9%B8%A1%E9%87%8C%E6%9C%89%E5%9C%9F%E8%B1%86%E6%8A%A5%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "上海一顾客因大盘鸡里有土豆报警",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A1%BE%E5%AE%A2%E5%9B%A0%E5%A4%A7%E7%9B%98%E9%B8%A1%E9%87%8C%E6%9C%89%E5%9C%9F%E8%B1%86%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
         },
         {
           "title": "金十图示：2026年07月31日（周五）全球股市指数-欧洲市场",
@@ -50,6 +402,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）全球股市指数-美洲市场",
+          "url": "https://flash.jin10.com/detail/20260801041105382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "巴西互换合约交易恢复，但股市仍然暂停交易。",
@@ -74,15 +437,26 @@
           "time_info": "00时15分"
         },
         {
-          "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
-          "url": "https://www.cls.cn/detail/2442689",
-          "source": "财联社热门",
+          "title": "金十图示：2026年07月31日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040734896800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260801040711867800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "美国总统特朗普兜售股市。",
@@ -129,26 +503,48 @@
           "time_info": "00时15分"
         },
         {
-          "title": "上海一顾客因大盘鸡里有土豆报警",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E9%A1%BE%E5%AE%A2%E5%9B%A0%E5%A4%A7%E7%9B%98%E9%B8%A1%E9%87%8C%E6%9C%89%E5%9C%9F%E8%B1%86%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "道琼斯指数7月31日（周五）收盘上涨277.45点，涨幅0.53%，报52485.51点；<br/>标普500指数7月31日（周五）收盘上涨52.13点，涨幅0.70%，报7489.76点；<br/>纳斯达克综合指数7月31日（周五）收盘上涨251.68点，涨幅1.00%，报25373.85点。",
+          "url": "https://flash.jin10.com/detail/20260801040544735800",
+          "source": "金十数据",
           "ranks": [
-            24
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
         },
         {
-          "title": "顾客因大盘鸡里有土豆报警",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A2%E5%9B%A0%E5%A4%A7%E7%9B%98%E9%B8%A1%E9%87%8C%E6%9C%89%E5%9C%9F%E8%B1%86%E6%8A%A5%E8%AD%A6",
-          "source": "百度热搜",
+          "title": "美股收盘：三大股指收涨 亚马逊大涨15%",
+          "url": "https://flash.jin10.com/detail/20260801040338031800",
+          "source": "金十数据",
           "ranks": [
-            28
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7525元，较周四夜盘收盘涨3点。成交量382.00亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3143430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "民警调解大盘鸡放土豆纠纷走红",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E8%B0%83%E8%A7%A3%E5%A4%A7%E7%9B%98%E9%B8%A1%E6%94%BE%E5%9C%9F%E8%B1%86%E7%BA%A0%E7%BA%B7%E8%B5%B0%E7%BA%A2%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
         },
         {
           "title": "日元干预行情降温，高盛等机构：警惕日本再次出手",
@@ -164,124 +560,66 @@
       ]
     },
     {
-      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
-          "url": "https://wallstreetcn.com/articles/3778287",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
-          "url": "https://wallstreetcn.com/articles/3778371",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
-          "url": "https://www.zhihu.com/question/2066288437683032785",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "欧洲天然气期货7月份涨35%",
-          "url": "https://wallstreetcn.com/livenews/3143365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "德国DAX 30指数初步收涨0.31%，报25692.28点。 法国股指初步收涨0.60%，意大利股指初步收涨0.22%、银行指数涨0.45%，英国股指初步收跌0.07%。",
-          "url": "https://wallstreetcn.com/livenews/3143362",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
-          "url": "https://flash.jin10.com/detail/20260731233529953800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "据媒体报道：美国财政部已通知各家银行，银行应做好准备，应对后续干预行动。",
-          "url": "https://wallstreetcn.com/livenews/3143357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "内盘期货夜市涨跌各异，低硫燃油收涨超3.3%，铁矿石跌超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3143347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
           "url": "https://www.cls.cn/detail/2442818",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
+          "url": "https://wallstreetcn.com/livenews/3143461",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
+        },
+        {
+          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2442973",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
+          "url": "https://www.cls.cn/detail/2442483",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "长鑫上市，对合肥普通市民能有影响吗？",
+          "url": "https://www.zhihu.com/question/2065114398650283660",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
         },
         {
           "title": "墨西哥石油公司Pemex二季度净利润180亿墨西哥比索。 二季度原油处理量101万桶/日，同比增长2.9%。",
@@ -306,26 +644,26 @@
           "time_info": "00时15分"
         },
         {
-          "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2442973",
-          "source": "财联社热门",
+          "title": "95后股民：上半年赚的利润全吐光",
+          "url": "https://www.toutiao.com/trending/7668287208545878057/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "Roblox Corp.（RBLX）收跌27%，创美国IPO以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3143451",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
-          "url": "https://www.cls.cn/detail/2442483",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
         },
         {
           "title": "据港交所文件：立景创新科技股份有限公司向港交所提交上市申请书。",
@@ -339,15 +677,15 @@
           "time_info": "00时15分"
         },
         {
-          "title": "长鑫上市，对合肥普通市民能有影响吗？",
-          "url": "https://www.zhihu.com/question/2065114398650283660",
-          "source": "知乎",
+          "title": "Reddit收跌21%，创2024年美国IPO以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3143450",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "04时52分"
         },
         {
           "title": "埃克森美孚财报电话会议要点总结",
@@ -382,11 +720,12 @@
           "url": "https://www.cls.cn/detail/2442480",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
         },
         {
           "title": "美国：5月石油出口创历史新高",
@@ -435,6 +774,57 @@
       ]
     },
     {
+      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "下半年经济工作发力方向划重点",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%8A%9B%E6%96%B9%E5%90%91%E5%88%92%E9%87%8D%E7%82%B9",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "高投入低回报,WBG或将重组",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356660&amp;topic_name=%E9%AB%98%E6%8A%95%E5%85%A5%E4%BD%8E%E5%9B%9E%E6%8A%A5%2CWBG%E6%88%96%E5%B0%86%E9%87%8D%E7%BB%84",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "原美联储副主席克拉里达敦促美联储明确通胀目标，此前沃什暗示可能做出调整",
+          "url": "https://wallstreetcn.com/livenews/3143432",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        },
+        {
+          "title": "英国财政大臣Healey要求内阁大臣准备削减预算。（英国泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3143434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
       "match_count": 4,
       "titles": [
@@ -457,8 +847,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
         },
         {
           "title": "河南两市可申领备孕补贴系谣言",
@@ -489,6 +879,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "医保个人账户里的钱怎么用才不浪费",
+          "url": "https://www.toutiao.com/trending/7668212376966512686/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
           "title": "国务院：拓宽住房公积金提取使用范围",
           "url": "https://www.toutiao.com/trending/7668650115694886975/",
           "source": "今日头条",
@@ -509,17 +911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
-        },
-        {
-          "title": "医保个人账户里的钱怎么用才不浪费",
-          "url": "https://www.toutiao.com/trending/7668212376966512686/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
         }
       ]
     },
@@ -535,8 +926,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 04时52分]"
         },
         {
           "title": "“新美联储通讯社”Nick Timiraos：在7月份FOMC货币政策会议上支持加息的三位美联储主席（异议者），对他们决定的理由阐述， 可以说（arguably）比美联储多数派在周三的声明或新闻发布会上提供的还要充分。 7月31日，达拉斯联储主席洛根（Lorie Logan）基本上重申了两周前的看法：即使在剔除近期的外部冲击后，潜在通胀仍接近2.5%，她认为这为采取更紧缩的政策立场提供了依据。",
@@ -544,34 +935,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "下半年经济工作发力方向划重点",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8B%E5%8D%8A%E5%B9%B4%E7%BB%8F%E6%B5%8E%E5%B7%A5%E4%BD%9C%E5%8F%91%E5%8A%9B%E6%96%B9%E5%90%91%E5%88%92%E9%87%8D%E7%82%B9",
-          "source": "百度热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "高投入低回报,WBG或将重组",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356660&amp;topic_name=%E9%AB%98%E6%8A%95%E5%85%A5%E4%BD%8E%E5%9B%9E%E6%8A%A5%2CWBG%E6%88%96%E5%B0%86%E9%87%8D%E7%BB%84",
-          "source": "贴吧",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
