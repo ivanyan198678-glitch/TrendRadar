@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T04:52:54.138864+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-01T08:16:12.802100+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 28,
+      "match_count": 36,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -34,11 +34,35 @@
           "url": "https://wallstreetcn.com/articles/3778371",
           "source": "华尔街见闻",
           "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
+          "url": "https://www.cls.cn/detail/2443161",
+          "source": "财联社热门",
+          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "time_info": "[08时15分 ~ 08时16分]"
         },
         {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
@@ -53,26 +77,26 @@
           "time_info": "[00时15分 ~ 04时52分]"
         },
         {
-          "title": "新闻蒸馏器｜想留美工作？先交10万美元：特朗普政府拟对国际毕业生下手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33688682",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
-        },
-        {
           "title": "美元指数31日上涨",
           "url": "https://flash.jin10.com/detail/20260801041117348800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
+          "url": "https://wallstreetcn.com/livenews/3143503",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "本周，谷歌A、亚马逊、微软市值合计增长大约1.5万亿美元",
@@ -81,7 +105,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -92,7 +116,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -114,7 +138,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -125,7 +149,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -141,15 +165,37 @@
           "time_info": "00时15分"
         },
         {
+          "title": "新兴市场股票指数涨6.6%，创2008年美国次贷危机以来最佳单日表现。",
+          "url": "https://flash.jin10.com/detail/20260801043401365800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "CFTC持仓：美元多头头寸终于创下新纪录",
           "url": "https://wallstreetcn.com/livenews/3143442",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美元兑日元USD/JPY跌破158关口，现报157.99，日内跌0.92%，30分钟内跳水逾100点。",
+          "url": "https://flash.jin10.com/detail/20260801043329135800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美元兑日元本周跌2.9%",
@@ -158,7 +204,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -180,7 +226,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -202,9 +248,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "CFTC：美联储7月决议前，交易员美元看涨押注升至2014年以来最高",
+          "url": "https://wallstreetcn.com/livenews/3143490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美元指数7月份跌超1.2%",
@@ -213,7 +270,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -224,7 +281,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -235,7 +292,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -246,7 +303,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -257,7 +314,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -268,9 +325,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "周五（7月31日）纽约尾盘，标普500股指期货最终涨0.50%，道指期货涨0.31%，纳斯达克100股指期货涨0.26%。 罗素2000股指期货跌0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3143482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，原油投机者将WTI净多头头寸增加了28,159手，至106,507手。",
@@ -279,9 +347,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "周五（7月31日）纽约尾盘（周六北京时间04:59），离岸人民币（CNH）兑美元报6.7524元，较周四纽约尾盘跌44点，日内整体交投于6.7423-6.7553元区间。 本周，离岸人民币累计上涨大约0.28%，7月份累计上涨大约0.57%、整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3143481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，COMEX黄金投机客将净多头头寸减少3,258手，降至120,328手。COMEX白银投机客将净多头头寸减少1,614手，降至8,387手。COMEX铜投机客将净多头头寸减少7,195手，降至66,490手。",
@@ -290,7 +369,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -306,13 +385,24 @@
           "time_info": "00时15分"
         },
         {
+          "title": "国海证券：超节点产业爆发在即 回调或是布局良机",
+          "url": "https://wallstreetcn.com/livenews/3143478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "中东原油期货本周跌19.1%，美国原油期货7月份涨超22.2%",
           "url": "https://wallstreetcn.com/livenews/3143427",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
@@ -320,18 +410,30 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
           "url": "https://wallstreetcn.com/articles/3778381",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
+          "url": "https://www.cls.cn/detail/2443155",
+          "source": "财联社热门",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "time_info": "[08时15分 ~ 08时16分]"
         },
         {
           "title": "巴西股市逐步恢复交易，此前已经暂停数小时。",
@@ -350,11 +452,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
         },
         {
           "title": "中报“大考”倒计时！复盘近十年8月行情，哪些板块历史表现较佳？",
@@ -365,8 +468,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
         },
         {
           "title": "顾客因大盘鸡里有土豆报警",
@@ -374,11 +477,12 @@
           "source": "百度热搜",
           "ranks": [
             28,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
         },
         {
           "title": "上海一顾客因大盘鸡里有土豆报警",
@@ -386,11 +490,12 @@
           "source": "微博",
           "ranks": [
             24,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
         },
         {
           "title": "金十图示：2026年07月31日（周五）全球股市指数-欧洲市场",
@@ -410,7 +515,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -443,7 +548,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -454,7 +559,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -509,7 +614,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -520,7 +625,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -531,7 +636,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -542,7 +647,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -556,12 +661,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "A股科技板块全线反攻，机构称调整或接近尾声",
+          "url": "https://wallstreetcn.com/livenews/3143477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -572,8 +688,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -582,9 +698,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "马斯克财富在遭遇重挫后回落至SpaceX IPO前水平",
+          "url": "https://wallstreetcn.com/livenews/3143515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "亚马逊财报提振AI信心 美股期指走高 苹果盘前跌近8% | 今夜看点",
@@ -592,11 +719,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
+          "url": "https://www.zhihu.com/question/2066287957024281069",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "time_info": "[08时15分 ~ 08时16分]"
         },
         {
           "title": "SpaceX即将发布IPO后首份财报 大摩警告最危险时刻来临",
@@ -650,7 +789,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -661,7 +800,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -683,7 +822,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -702,7 +841,7 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
@@ -726,6 +865,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时15分 ~ 04时52分]"
+        },
+        {
+          "title": "白宫：特朗普认定未来4年对进口石英表面产品实施关税配额是适当的。",
+          "url": "https://flash.jin10.com/detail/20260801050537920800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "白宫：特朗普签署公告，促进美国对石英表面产品进口竞争作出积极调整。",
+          "url": "https://flash.jin10.com/detail/20260801050448584800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "美国：5月石油出口创历史新高",
@@ -770,12 +931,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "美国宣布：对进口自墨西哥与加拿大的石英台面产品实施为期四年的关税配额",
+          "url": "https://wallstreetcn.com/livenews/3143479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "下半年经济工作发力方向划重点",
@@ -785,8 +957,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗最高国家安全委员会秘书表示，美国政权持续实施海上封锁和煽动战火，不仅会进一步封锁霍尔木兹海峡，还会关闭其他海峡和交通要道。全球经济、能源市场和美国选民都将为此付出代价。",
+          "url": "https://flash.jin10.com/detail/20260801055438503800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "高投入低回报,WBG或将重组",
@@ -797,8 +980,30 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "美国10年期国债收益率创去年1月份以来新高，7月份累涨超25个基点",
+          "url": "https://wallstreetcn.com/livenews/3143507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
+          "url": "https://wallstreetcn.com/livenews/3143491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "原美联储副主席克拉里达敦促美联储明确通胀目标，此前沃什暗示可能做出调整",
@@ -807,7 +1012,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         },
@@ -818,65 +1023,15 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
         }
       ]
     },
     {
-      "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
-          "url": "https://www.zhihu.com/question/2066526486505461299",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "“河南两市可领备孕补贴”系假消息",
-          "url": "https://www.toutiao.com/trending/7667913209707348009/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
-        },
-        {
-          "title": "河南两市可申领备孕补贴系谣言",
-          "url": "https://www.douyin.com/hot/2592508",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "月涨10%！MDI再掀涨价潮，多家全球聚氨酯巨头业绩大增",
-          "url": "https://wallstreetcn.com/livenews/3143350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产 调控 首付 按揭 公积金 社保 养老金 医保 税收 个税 增值税",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "医保个人账户里的钱怎么用才不浪费",
@@ -884,11 +1039,34 @@
           "source": "今日头条",
           "ranks": [
             30,
-            8
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "医保个人账户里的钱怎么用才不浪费",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E4%BF%9D%E4%B8%AA%E4%BA%BA%E8%B4%A6%E6%88%B7%E9%87%8C%E7%9A%84%E9%92%B1%E6%80%8E%E4%B9%88%E7%94%A8%E6%89%8D%E4%B8%8D%E6%B5%AA%E8%B4%B9%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "time_info": "[08时15分 ~ 08时16分]"
+        },
+        {
+          "title": "两项社保标准公开征求意见",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E9%A1%B9%E7%A4%BE%E4%BF%9D%E6%A0%87%E5%87%86%E5%85%AC%E5%BC%80%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时15分 ~ 08时16分]"
         },
         {
           "title": "国务院：拓宽住房公积金提取使用范围",
@@ -916,7 +1094,7 @@
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "铠侠Q1营业利润1.27万亿日元不及预期，毛利率78%，2028年长协拟锁定50%产能 | 财报见闻",
@@ -926,8 +1104,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 04时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "日本政府与央行连续第二日干预汇市",
+          "url": "https://flash.jin10.com/detail/20260801060215026800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "“新美联储通讯社”Nick Timiraos：在7月份FOMC货币政策会议上支持加息的三位美联储主席（异议者），对他们决定的理由阐述， 可以说（arguably）比美联储多数派在周三的声明或新闻发布会上提供的还要充分。 7月31日，达拉斯联储主席洛根（Lorie Logan）基本上重申了两周前的看法：即使在剔除近期的外部冲击后，潜在通胀仍接近2.5%，她认为这为采取更紧缩的政策立场提供了依据。",
@@ -935,6 +1124,67 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "哥伦比亚比索创七年新高，央行将积累外汇储备以引导汇率回落",
+          "url": "https://wallstreetcn.com/livenews/3143499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
+          "url": "https://www.zhihu.com/question/2066526486505461299",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "“河南两市可领备孕补贴”系假消息",
+          "url": "https://www.toutiao.com/trending/7667913209707348009/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "河南两市可申领备孕补贴系谣言",
+          "url": "https://www.douyin.com/hot/2592508",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "月涨10%！MDI再掀涨价潮，多家全球聚氨酯巨头业绩大增",
+          "url": "https://wallstreetcn.com/livenews/3143350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
