@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T08:16:12.802100+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-08-01T16:59:30.423423+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 36,
+      "match_count": 41,
       "titles": [
         {
           "title": "大奇迹日！美通胀降温与微软大涨刺激，美芯片指数暴涨8%，纳指大反弹，日元急涨美元跳水",
@@ -28,6 +28,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "四大行集齐！工商银行今日重启5年期大额存单发行，最高1.6%的一致定价意味着什么？",
+          "url": "https://www.cls.cn/detail/2443209",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
+          "url": "https://www.cls.cn/detail/2443161",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时59分]"
         },
         {
           "title": "亚马逊电话会：在手订单近5000亿美元，CEO豪言“AWS将成万亿美元业务”，内存成本推高资本支出",
@@ -54,17 +77,6 @@
           "time_info": "[00时15分 ~ 08时16分]"
         },
         {
-          "title": "【早报】事关核电，国常会最新部署；7月股票ETF净流入超5000亿元",
-          "url": "https://www.cls.cn/detail/2443161",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
-        },
-        {
           "title": "日元偷袭，美元盘中跌破 100 且兑日元急挫超 3%，美股 SOX 指数盘内涨超 8%，大宗商品异动，发生了什么？",
           "url": "https://www.zhihu.com/question/2066288437683032785",
           "source": "知乎",
@@ -88,13 +100,35 @@
           "time_info": "04时52分"
         },
         {
+          "title": "“AI股神”致信投资者：遭遇“银行挤兑”，再也不加杠杆了，今年仍涨80%，我们能东山再起",
+          "url": "https://wallstreetcn.com/articles/3778476",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "美军坠机,1亿美元化成灰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356700&amp;topic_name=%E7%BE%8E%E5%86%9B%E5%9D%A0%E6%9C%BA%2C1%E4%BA%BF%E7%BE%8E%E5%85%83%E5%8C%96%E6%88%90%E7%81%B0",
+          "source": "贴吧",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "美国四大科技巨头竞逐AI，支出承诺总计超2万亿美元",
           "url": "https://wallstreetcn.com/livenews/3143503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -171,7 +205,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -193,7 +227,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -207,6 +241,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "美国五角大楼欲动用上百亿美元采购拦截导弹",
+          "url": "https://wallstreetcn.com/livenews/3143560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "韩国杠杆限制措施立竿见影，AI基金疑似被狙击？ | Plus日报",
@@ -259,7 +304,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -284,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        },
+        {
+          "title": "黄金逼近关键区域，多空正围绕4XXX美元展开争夺——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260801145649115800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至7月28日当周，天然气投机者将NYMEX和ICE四大市场净空头头寸增加了5,281手，至60,997手。",
@@ -336,7 +392,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -358,7 +414,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -391,7 +447,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -410,7 +466,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "本轮牛市“最大神话”落幕！短短数周，“AI股神”被击溃，Citadel出手收购全部仓位",
@@ -429,11 +485,12 @@
           "url": "https://www.cls.cn/detail/2443155",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时15分 ~ 08时16分]"
+          "appearance_count": 3,
+          "time_info": "[08时15分 ~ 16时59分]"
         },
         {
           "title": "巴西股市逐步恢复交易，此前已经暂停数小时。",
@@ -445,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "大盘鸡里有土豆 该报警吗",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E7%9B%98%E9%B8%A1%E9%87%8C%E6%9C%89%E5%9C%9F%E8%B1%86+%E8%AF%A5%E6%8A%A5%E8%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "【每日收评】创业板指冲高回落涨3.06%，AI应用端全线爆发，存储芯片板块尾盘跳水",
@@ -553,6 +621,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "龙头九连板！本周披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2443284",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "金十图示：2026年07月31日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260801040711867800",
           "source": "金十数据",
@@ -573,6 +652,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "韩国股市今年以来第九次触发熔断机制，120 万人爆仓，但为什么对韩国人日常生活的冲击看起来好像并不明显？",
+          "url": "https://www.zhihu.com/question/2064266887324775991",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "德国DAX30指数7月31日（周五）收盘上涨68.42点，涨幅0.27%，报25642.92点；<br/>英国富时100指数7月31日（周五）收盘下跌21.08点，跌幅0.19%，报10876.19点；<br/>法国CAC40指数7月31日（周五）收盘上涨24.00点，涨幅0.28%，报8509.64点；<br/>欧洲斯托克50指数7月31日（周五）收盘上涨14.95点，涨幅0.24%，报6359.35点；<br/>西班牙IBEX35指数7月31日（周五）收盘上涨15.58点，涨幅0.08%，报19773.28点；<br/>意大利富时MIB指数7月31日（周五）收盘上涨52.62点，涨幅0.10%，报52157.00点。",
@@ -669,7 +759,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
@@ -677,7 +767,7 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股财报季后的思考：科技巨头们，谁能更快将AI算力变成真金白银？",
@@ -688,8 +778,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 08时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 16时59分]"
         },
         {
           "title": "周五（7月31日），美股存储芯片与硬件供应链指数跌1.58%，报189.63点，本周累跌5.30%，7月份累计下跌29.25%、整体持续下挫。 2026年1-7月，成分股闪迪累积上涨411.77%，西部数据涨216.5%，希捷科技涨211.64%，美光科技涨188.53%，应用材料涨98.04%，泰瑞达涨90.11%，拉姆研究涨71.50%，Rambus跌0.94%。此外，最近美国IPO的SK海力士ADR跌14.45%。",
@@ -709,7 +799,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -720,11 +810,12 @@
           "ranks": [
             10,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 08时16分]"
+          "appearance_count": 5,
+          "time_info": "[00时15分 ~ 16时59分]"
         },
         {
           "title": "宇树科技 IPO 时间定了，8 月 10 日开启新股申购，怎样看待其市场前景？",
@@ -827,6 +918,17 @@
           "time_info": "04时52分"
         },
         {
+          "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
+          "url": "https://www.cls.cn/detail/2443270",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
           "title": "埃克森美孚财报电话会议要点总结",
           "url": "https://wallstreetcn.com/livenews/3143360",
           "source": "华尔街见闻-快讯",
@@ -836,13 +938,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "印度石油公司高管：预计公司7-9月液化石油气零售业务每售出一个14.2千克装气瓶将亏损约250卢比。",
+          "url": "https://flash.jin10.com/detail/20260801145647335800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美国对40余家中国企业实施单边制裁，商务部回应",
+          "url": "https://news.ifeng.com/c/8vEIU657hn0",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
+        {
+          "title": "匈牙利总理毛焦尔：新政府法令将寻求大型用户自愿削减电力需求，若未达成将施加制裁。",
+          "url": "https://flash.jin10.com/detail/20260801162227591800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
+        },
         {
           "title": "事关半导体！特朗普政府再出手：将入股七家科技公司",
           "url": "https://www.cls.cn/detail/2442363",
@@ -853,6 +988,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "三大运营商停止第三方互联网渠道号卡办理，低价大流量卡将集体退场，出于哪些考量？对普通消费者有什么影响？",
+          "url": "https://www.zhihu.com/question/2066605797186823402",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "苏伊士运河也危险！埃及港口遇袭 中东能源出口恐彻底“走投无路”？",
@@ -873,7 +1019,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -884,9 +1030,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "中微尹志尧：未来五年内至少覆盖六成半导体高端设备",
+          "url": "https://flash.jin10.com/detail/20260801152643355800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "美国：5月石油出口创历史新高",
@@ -909,6 +1066,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时15分"
+        },
+        {
+          "title": "中国芯片行业不能只靠“卷老头”",
+          "url": "https://www.toutiao.com/trending/7668877656300981769/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "老挝为什么能向中国出口电力",
@@ -939,7 +1107,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
@@ -947,7 +1115,7 @@
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "下半年经济工作发力方向划重点",
@@ -967,9 +1135,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "这四个字读懂上半年中国经济",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%9B%9B%E4%B8%AA%E5%AD%97%E8%AF%BB%E6%87%82%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "高投入低回报,WBG或将重组",
@@ -990,9 +1169,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "美财政部据传罕见出手干预日元 核电巨头启动IPO | 环球市场",
+          "url": "https://www.cls.cn/detail/2443165",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：全球经济、能源市场和美国选民将为持续的海上封锁和美国的局势升级付出代价。",
@@ -1001,7 +1191,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -1026,6 +1216,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "铠侠Q1营业利润1.27万亿日元不及预期，毛利率78%，2028年长协拟锁定50%产能 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778409",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "日本政府与央行连续第二日干预汇市",
+          "url": "https://flash.jin10.com/detail/20260801060215026800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "“新美联储通讯社”Nick Timiraos：在7月份FOMC货币政策会议上支持加息的三位美联储主席（异议者），对他们决定的理由阐述， 可以说（arguably）比美联储多数派在周三的声明或新闻发布会上提供的还要充分。 7月31日，达拉斯联储主席洛根（Lorie Logan）基本上重申了两周前的看法：即使在剔除近期的外部冲击后，潜在通胀仍接近2.5%，她认为这为采取更紧缩的政策立场提供了依据。",
+          "url": "https://wallstreetcn.com/livenews/3143367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "哥伦比亚比索创七年新高，央行将积累外汇储备以引导汇率回落",
+          "url": "https://wallstreetcn.com/livenews/3143499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "小伙辞职贷款百万开制冰厂月赚30万",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E4%BC%99%E8%BE%9E%E8%81%8C%E8%B4%B7%E6%AC%BE%E7%99%BE%E4%B8%87%E5%BC%80%E5%88%B6%E5%86%B0%E5%8E%82%E6%9C%88%E8%B5%9A30%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -1093,58 +1344,8 @@
       ]
     },
     {
-      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "铠侠Q1营业利润1.27万亿日元不及预期，毛利率78%，2028年长协拟锁定50%产能 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778409",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时15分 ~ 08时16分]"
-        },
-        {
-          "title": "日本政府与央行连续第二日干预汇市",
-          "url": "https://flash.jin10.com/detail/20260801060215026800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "“新美联储通讯社”Nick Timiraos：在7月份FOMC货币政策会议上支持加息的三位美联储主席（异议者），对他们决定的理由阐述， 可以说（arguably）比美联储多数派在周三的声明或新闻发布会上提供的还要充分。 7月31日，达拉斯联储主席洛根（Lorie Logan）基本上重申了两周前的看法：即使在剔除近期的外部冲击后，潜在通胀仍接近2.5%，她认为这为采取更紧缩的政策立场提供了依据。",
-          "url": "https://wallstreetcn.com/livenews/3143367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "哥伦比亚比索创七年新高，央行将积累外汇储备以引导汇率回落",
-          "url": "https://wallstreetcn.com/livenews/3143499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek V4 正式版发布，使用体验如何？和降价后的 GPT5.6 luna 对比谁更有优势？",
@@ -1178,6 +1379,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时15分 ~ 08时16分]"
+        },
+        {
+          "title": "澳门7月幸运博彩毛收入202.6亿亿澳门元，同比下降8.4%，预估为下降6.2%。 澳门1-7月份幸运博彩毛收入1,471.6亿澳门元，同比增长4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3143559",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "月涨10%！MDI再掀涨价潮，多家全球聚氨酯巨头业绩大增",
