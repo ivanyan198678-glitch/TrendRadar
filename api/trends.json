@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T04:39:48.646923+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-08-09T05:38:57.747173+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长 17.3% ，如何看待这一数据？",
@@ -41,8 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -56,8 +56,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
@@ -68,8 +68,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "沙特方面呼吁国际社会对威胁航运和国际贸易安全采取坚定立场。",
@@ -77,11 +77,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 05时38分]"
         },
         {
           "title": "美国问题专家：美国新对俄制裁法案或成为“沉默法案”",
@@ -131,8 +132,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "政治局会议后北京率先出手：下调非京籍五环内购房门槛 公积金贷款最高可达340万元",
@@ -142,8 +143,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
@@ -153,8 +154,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -164,8 +165,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -176,19 +177,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "贝莱德大佬解读非农转负 放言“如今加息已经没有太大意义”",
           "url": "https://www.cls.cn/detail/2448946",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
@@ -207,11 +209,12 @@
           "source": "今日头条",
           "ranks": [
             28,
-            24
+            24,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时51分]"
+          "appearance_count": 3,
+          "time_info": "[01时38分 ~ 05时38分]"
         }
       ]
     },
@@ -227,8 +230,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -240,8 +243,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -252,8 +255,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -264,8 +267,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
@@ -276,8 +279,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
@@ -288,8 +291,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
@@ -300,8 +303,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
@@ -312,8 +315,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         }
       ]
     },
@@ -329,8 +332,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -340,8 +343,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -353,8 +356,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -365,8 +368,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         }
       ]
     },
@@ -382,8 +385,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
@@ -395,8 +398,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "我国多家上市公司宣布收到美国关税退税",
@@ -407,8 +410,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时44分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时44分 ~ 05时38分]"
         }
       ]
     },
@@ -424,8 +427,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
@@ -436,8 +439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -448,8 +451,36 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+          "url": "https://wallstreetcn.com/articles/3778982",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
+          "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
+          "url": "https://flash.jin10.com/detail/20260809043806090800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -465,25 +496,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时43分 ~ 04时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
-          "url": "https://wallstreetcn.com/articles/3778982",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
+          "appearance_count": 7,
+          "time_info": "[00时43分 ~ 05时38分]"
         }
       ]
     }
