@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-08T21:05:06.921762+08:00",
-  "total_titles_processed": 1397,
+  "generated_at": "2026-08-08T22:40:49.983140+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 22时40分]"
         },
         {
           "title": "内地居民买香港保险收益要缴税？税务总局回应：并非新政，更不是专门针对香港保险市场，无需过度解读",
@@ -147,17 +147,6 @@
           "time_info": "[10时07分 ~ 16时53分]"
         },
         {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "美铜暗盘跌破6.7美元，日内跌幅1.6%。",
           "url": "https://wallstreetcn.com/livenews/3146939",
           "source": "华尔街见闻-快讯",
@@ -223,6 +212,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 12时17分]"
+        },
+        {
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
         },
         {
           "title": "伊拉克石油部长：新巴士拉-费什哈布尔石油管道预计成本不超过150亿美元。",
@@ -469,6 +470,18 @@
           "time_info": "[01时58分 ~ 03时10分]"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：自第三季度（7月1日）起至7月29日，已动用超过33亿美元回购公司股票。",
+          "url": "https://flash.jin10.com/detail/20260808202905426800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
           "title": "法务AI公司Harvey洽谈按155亿美元估值融资至少5亿美元，该公司当前年化收入超过3.5亿美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3146852",
           "source": "华尔街见闻-快讯",
@@ -479,6 +492,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 03时10分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度斥资约45亿美元回购股票 为一年多来首次",
+          "url": "https://flash.jin10.com/detail/20260808202446166800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
         },
         {
           "title": "欧洲天然气期货本周跌约7%",
@@ -493,6 +530,66 @@
           "time_info": "[01时01分 ~ 01时58分]"
         },
         {
+          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至6月30日，66%的股权投资总公允价值集中在美国运通、苹果、美国银行、Alphabet和可口可乐。",
+          "url": "https://flash.jin10.com/detail/20260808201557267800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年第二季度末现金储备降至3647亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201415586800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
           "title": "英伟达拟向Lancium投资至多30亿美元，支持AI数据中心电力基础设施",
           "url": "https://flash.jin10.com/detail/20260808100104329800",
           "source": "金十数据",
@@ -503,6 +600,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时17分 ~ 13时49分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808200552629800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：截至8月4日当周，投机者将芝加哥期货交易所（CBOT）美国国债期货净空头头寸减少41,225份合约，至176,272份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国5年期国债期货净空头头寸增加179,319份合约，至1,325,719份合约。 将CBOT美国2年期国债期货净空头头寸减少120,346份合约，至1,004,228份合约。 将CBOT美国超长期国债期货净空头头寸减少5,723份合约，至314,985份合约。",
@@ -573,48 +694,15 @@
           "time_info": "01时01分"
         },
         {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：自第三季度（7月1日）起至7月29日，已动用超过33亿美元回购公司股票。",
-          "url": "https://flash.jin10.com/detail/20260808202905426800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦二季度斥资约45亿美元回购股票 为一年多来首次",
-          "url": "https://flash.jin10.com/detail/20260808202446166800",
-          "source": "金十数据",
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "22时40分"
         },
         {
           "title": "WTI 9月原油期货收涨0.89美元，涨幅1.15%，报78.18美元/桶，本周累计下跌超过7.66%。 布伦特10月原油期货收涨1.06美元，涨幅超过1.28%，报83.55美元/桶，本周累计下跌4.98%。 中东Abu Dhabi Murban原油期货涨1.97%，报81.10美元/桶，本周累跌5.14%。 NYMEX 9月天然气期货收报2.6620美元/百万英热单位。 NYMEX 9月汽油期货收报2.9853美元/加仑，NYMEX 9月取暖油期货收报3.9024美元/加仑。",
@@ -626,28 +714,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
-        {
-          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至6月30日，66%的股权投资总公允价值集中在美国运通、苹果、美国银行、Alphabet和可口可乐。",
-          "url": "https://flash.jin10.com/detail/20260808201557267800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "上期所原油期货2609合约夜盘收涨1.44%，报533.60元人民币/桶。 沪金夜盘收涨1.53%，沪银收涨1.66%。",
@@ -667,29 +733,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：2026年第二季度末现金储备降至3647亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808201415586800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
-          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -705,17 +749,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808201231128800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "美国国务院：美国与国会合作，计划宣布向哥伦比亚提供10亿美元的安全援助。",
           "url": "https://flash.jin10.com/detail/20260808083739753800",
           "source": "金十数据",
@@ -725,17 +758,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
-        },
-        {
-          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年6月30日，保险浮存金约为1775亿美元。",
-          "url": "https://flash.jin10.com/detail/20260808200552629800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         },
         {
           "title": "LME期铜收跌28美元，报14076美元/吨。 LME期铝收涨21美元，报3280美元/吨。 LME期锌收跌56美元，报3707美元/吨。 LME期铅收涨2美元，报1887美元/吨。 LME期镍收涨242美元，报17004美元/吨。 LME期锡收跌565美元，报55530美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -766,7 +788,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -777,7 +799,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -799,7 +821,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -810,7 +832,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -826,13 +848,24 @@
           "time_info": "03时10分"
         },
         {
+          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3147002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q2营收为129.83亿美元。",
           "url": "https://flash.jin10.com/detail/20260808200100671800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         },
@@ -950,7 +983,7 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "泸溪河发布“桃酥现金属牙冠”调查结论，称消费者已澄清所发视频不属实",
@@ -1086,17 +1119,6 @@
           "time_info": "03时10分"
         },
         {
-          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
-          "url": "https://wallstreetcn.com/livenews/3147010",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
-        },
-        {
           "title": "19.9元门票引爆76亿消费",
           "url": "https://www.baidu.com/s?wd=19.9%E5%85%83%E9%97%A8%E7%A5%A8%E5%BC%95%E7%88%8676%E4%BA%BF%E6%B6%88%E8%B4%B9",
           "source": "百度热搜",
@@ -1119,6 +1141,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 12时17分]"
+        },
+        {
+          "title": "IMF驻华首席代表：中国服务消费增长强劲，且“后劲十足”",
+          "url": "https://wallstreetcn.com/livenews/3147010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
         },
         {
           "title": "阳光电源：FCC政策主要限制新产品认证 公司目前在美销售的光伏逆变器、储能系统不受影响",
@@ -1268,6 +1302,17 @@
           "time_info": "03时10分"
         },
         {
+          "title": "英国海事贸易组织：有可靠消息来源报告称，一艘船只遭到不明飞行物袭击导致火灾，现已被扑灭。船员已报告安全，无环境影响。",
+          "url": "https://flash.jin10.com/detail/20260808211407439800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "霍尔木兹海峡关闭致伊拉克石油出口骤降75%",
           "url": "https://flash.jin10.com/detail/20260808183540475800",
           "source": "金十数据",
@@ -1277,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "英国海事贸易组织：已收到关于在阿曼哈萨布东18海里发生事件的报告。",
+          "url": "https://flash.jin10.com/detail/20260808210901468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "美国将13个实体列入涉伊朗制裁名单。",
@@ -1345,6 +1401,17 @@
           "time_info": "17时47分"
         },
         {
+          "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长 17.3% ，如何看待这一数据？",
+          "url": "https://www.zhihu.com/question/2069008146291496844",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "据路透社：消息人士透露，加拿大知道其将不得不接受美国对钢铁和铝征收部分关税。加拿大希望任何有关关税减免的协议都能通过附加函形式达成，而不是写入更新后的《美墨加协定》正文。",
           "url": "https://flash.jin10.com/detail/20260808020809855800",
           "source": "金十数据",
@@ -1403,7 +1470,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1417,8 +1484,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时47分 ~ 21时05分]"
+          "appearance_count": 16,
+          "time_info": "[06时47分 ~ 22时40分]"
+        },
+        {
+          "title": "多家A股公司：收到美国关税退税",
+          "url": "https://www.cls.cn/detail/2449086",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 22时40分]"
         },
         {
           "title": "【焦点复盘】创业板指终结周线6连阴，AI硬件端持续回暖，4600亿CXO龙头创近4年新高",
@@ -1434,19 +1514,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[01时01分 ~ 13时49分]"
-        },
-        {
-          "title": "多家A股公司：收到美国关税退税",
-          "url": "https://www.cls.cn/detail/2449086",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时53分 ~ 21时05分]"
         },
         {
           "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
@@ -1493,6 +1560,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
+          "url": "https://wallstreetcn.com/livenews/3147021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         },
         {
           "title": "道琼斯指数8月7日（周五）收盘上涨151.42点，涨幅0.28%，报54036.52点；<br/>标普500指数8月7日（周五）收盘上涨47.63点，涨幅0.62%，报7757.59点；<br/>纳斯达克综合指数8月7日（周五）收盘上涨342.26点，涨幅1.30%，报26690.62点。",
@@ -1543,22 +1621,23 @@
           "time_info": "[03时09分 ~ 05时49分]"
         },
         {
+          "title": "A股多家上市公司收到美政府退税",
+          "url": "https://www.douyin.com/hot/2602233",
+          "source": "抖音",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
+        },
+        {
           "title": "多家A股公司收到美国关税退款",
           "url": "https://www.toutiao.com/trending/7671564964749905451/",
           "source": "今日头条",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
-          "title": "A股多家上市公司收到美政府退税",
-          "url": "https://www.douyin.com/hot/2602233",
-          "source": "抖音",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1674,6 +1753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "A股存储巨头定增大幅溢价",
+          "url": "https://s.weibo.com/weibo?q=%23A%E8%82%A1%E5%AD%98%E5%82%A8%E5%B7%A8%E5%A4%B4%E5%AE%9A%E5%A2%9E%E5%A4%A7%E5%B9%85%E6%BA%A2%E4%BB%B7%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
@@ -1935,8 +2025,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时40分 ~ 21时05分]"
+          "appearance_count": 15,
+          "time_info": "[07时40分 ~ 22时40分]"
         },
         {
           "title": "政治局会议后北京率先出手：下调非京籍五环内购房门槛 公积金贷款最高可达340万元",
@@ -1949,8 +2039,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 22时40分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -1964,8 +2054,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时01分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[01时01分 ~ 22时40分]"
         },
         {
           "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
@@ -1978,8 +2068,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时17分 ~ 21时05分]"
+          "appearance_count": 12,
+          "time_info": "[12时17分 ~ 22时40分]"
         },
         {
           "title": "中国央行连续21个月增持黄金，7月购金力度提速",
@@ -2017,8 +2107,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时07分 ~ 21时05分]"
+          "appearance_count": 13,
+          "time_info": "[10时07分 ~ 22时40分]"
         },
         {
           "title": "北京楼市新政：非京籍五环内社保满1年即可购房，适度提高公积金最高贷款额度",
@@ -2071,6 +2161,19 @@
           "time_info": "[04时52分 ~ 10时07分]"
         },
         {
+          "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
+          "url": "https://wallstreetcn.com/articles/3778971",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时42分 ~ 22时40分]"
+        },
+        {
           "title": "美联储9月还敢加息吗",
           "url": "https://www.toutiao.com/trending/7671302184394296882/",
           "source": "今日头条",
@@ -2082,18 +2185,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 05时49分]"
-        },
-        {
-          "title": "7月非农没给美联储清晰答案！“新美联储通讯社”：9月是否加息还得看通胀",
-          "url": "https://wallstreetcn.com/articles/3778971",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时42分 ~ 21时05分]"
         },
         {
           "title": "美联储：美国上周银行存款19.363万亿美元，之前一周19.400万亿美元。",
@@ -2142,11 +2233,12 @@
           "url": "https://wallstreetcn.com/articles/3778987",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
         },
         {
           "title": "特朗普谈降息：希望利率下调，但这不完全取决于沃什一人",
@@ -2177,7 +2269,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
@@ -2185,7 +2277,7 @@
     },
     {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "爆冷！美国7月非农就业人数意外减少2.3万，前两月就业下修10.3万人",
@@ -2208,8 +2300,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时01分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[01时01分 ~ 22时40分]"
         },
         {
           "title": "存储涨价的“天花板”快到了？",
@@ -2238,11 +2330,12 @@
             19,
             21,
             23,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时01分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[01时01分 ~ 22时40分]"
         },
         {
           "title": "AI算力浪潮驱动元器件业务增长：松下机电订单排队产能紧张，预计下半年原材料新一轮涨价",
@@ -2311,6 +2404,17 @@
           "time_info": "19时37分"
         },
         {
+          "title": "AI硬件涨价潮传导3C租赁：需求翻倍，租赁商拆售显卡内存|一线",
+          "url": "https://www.cls.cn/detail/2449139",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
           "title": "粉笔因降价风波用「自曝家丑」的方式回应争议，为什么反而赢得用户好感？",
           "url": "https://www.zhihu.com/question/2068967230704807941",
           "source": "知乎",
@@ -2336,7 +2440,7 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国光模块龙头AAOI电话会：预计产能两年扩张10倍，1.6T最快两周获大客户认证 | 财报见闻",
@@ -2430,22 +2534,57 @@
           "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "百度热搜",
           "ranks": [
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[21时04分 ~ 22时40分]"
         },
         {
           "title": "伯克希尔哈撒韦二季度净利润大幅增长，现金储备有所下降",
           "url": "https://flash.jin10.com/detail/20260808202218015800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 22时40分]"
+        },
+        {
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时05分"
+          "time_info": "22时40分"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
+        },
+        {
+          "title": "张凌赫参加阿维塔07L上市发布会",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%8F%82%E5%8A%A0%E9%98%BF%E7%BB%B4%E5%A1%9407L%E4%B8%8A%E5%B8%82%E5%8F%91%E5%B8%83%E4%BC%9A%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时40分"
         }
       ]
     },
@@ -2485,8 +2624,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时01分 ~ 21时05分]"
+          "appearance_count": 23,
+          "time_info": "[01时01分 ~ 22时40分]"
         }
       ]
     }
