@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T16:54:53.584823+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-08-09T17:50:19.980218+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -33,6 +33,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
@@ -52,17 +65,17 @@
           "time_info": "[00时44分 ~ 15时08分]"
         },
         {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
-            4
+            4,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "time_info": "[12时26分 ~ 17时50分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -77,19 +90,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时44分 ~ 10时19分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时54分]"
         },
         {
           "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
@@ -150,9 +150,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
@@ -163,8 +163,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
@@ -178,8 +178,33 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
+        },
+        {
+          "title": "方正证券：市场超跌反弹进入攻坚期，科技与景气赛道分化演绎",
+          "url": "https://flash.jin10.com/detail/20260809165833532800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
+          "url": "https://www.zhihu.com/question/2069330740664439572",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            11,
+            12
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "time_info": "[12时26分 ~ 17时50分]"
         },
         {
           "title": "老人买200万保险退保只退108万",
@@ -194,17 +219,17 @@
           "time_info": "[15时08分 ~ 16时54分]"
         },
         {
-          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
-          "url": "https://www.zhihu.com/question/2069330740664439572",
-          "source": "知乎",
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
           "ranks": [
-            8,
-            6,
-            11
+            23,
+            17,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时50分]"
         },
         {
           "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
@@ -219,27 +244,16 @@
           "time_info": "[15时08分 ~ 16时54分]"
         },
         {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
-          "ranks": [
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
-        },
-        {
           "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
           "url": "https://flash.jin10.com/detail/20260809155351803800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
@@ -248,20 +262,21 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "老人买200万保险退保只退108万",
@@ -270,7 +285,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         },
@@ -289,7 +304,7 @@
     },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
@@ -302,8 +317,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -317,8 +332,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "一组数据读懂中国经济底气",
@@ -328,8 +343,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时50分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "国家统计局：7月份，PPI同比涨幅有所回落",
@@ -372,19 +400,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
         },
         {
           "title": "澳洲联储下周料按兵不动 关注通胀风险",
@@ -438,6 +453,18 @@
           "time_info": "[13时53分 ~ 15时08分]"
         },
         {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 17时50分]"
+        },
+        {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
           "url": "https://flash.jin10.com/detail/20260809043806090800",
           "source": "金十数据",
@@ -476,15 +503,16 @@
           "time_info": "[10时19分 ~ 13时53分]"
         },
         {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            20,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时54分]"
+          "time_info": "[15时08分 ~ 17时50分]"
         },
         {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
@@ -547,16 +575,15 @@
           "time_info": "[10时19分 ~ 12时26分]"
         },
         {
-          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
-          "source": "澎湃新闻",
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            17
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
@@ -579,8 +606,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 16时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 17时50分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -597,8 +624,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 16时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 17时50分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -656,8 +683,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 17时50分]"
         },
         {
           "title": "国家统计局：7月份居民消费价格同比上涨0.5%",
@@ -671,8 +698,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         },
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -680,11 +707,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 16时54分]"
+          "appearance_count": 5,
+          "time_info": "[12时26分 ~ 17时50分]"
         },
         {
           "title": "沙特方面呼吁国际社会对威胁航运和国际贸易安全采取坚定立场。",
@@ -736,6 +764,18 @@
           "time_info": "[01时38分 ~ 02时51分]"
         },
         {
+          "title": "不足半月茅台自营店再调价！飞天零售价涨至1753元，较i茅台售价高出114元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33745878",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
+        },
+        {
           "title": "台铃电动车仅骑一年就断电趴窝",
           "url": "https://www.toutiao.com/trending/7671579485590503465/",
           "source": "今日头条",
@@ -767,17 +807,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "不足半月茅台自营店再调价！飞天零售价涨至1753元，较i茅台售价高出114元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33745878",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
         }
       ]
     },
@@ -793,8 +822,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -910,7 +939,7 @@
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "几元成本的AI广告导致千万市值蒸发",
@@ -937,8 +966,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "我国多家上市公司宣布收到美国关税退税",
@@ -964,42 +993,56 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "力源信息：上半年净利润2.98亿元 同比增长209.5%",
           "url": "https://flash.jin10.com/detail/20260809155757290800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
           "url": "https://www.cls.cn/detail/2449266",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
         },
         {
           "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
           "url": "https://flash.jin10.com/detail/20260809154347647800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
+        },
+        {
+          "title": "一线豪华品牌卖车也到了亏损边缘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E5%8D%96%E8%BD%A6%E4%B9%9F%E5%88%B0%E4%BA%86%E4%BA%8F%E6%8D%9F%E8%BE%B9%E7%BC%98",
+          "source": "百度热搜",
+          "ranks": [
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "17时50分"
         },
         {
           "title": "宇树科技上市",
@@ -1016,7 +1059,7 @@
     },
     {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -1040,8 +1083,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -1070,6 +1113,19 @@
           "time_info": "[10时19分 ~ 15时08分]"
         },
         {
+          "title": "iPhone17下周或涨价",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时08分 ~ 17时50分]"
+        },
+        {
           "title": "iPhone18Pro涨价",
           "url": "https://www.baidu.com/s?wd=iPhone18Pro%E6%B6%A8%E4%BB%B7",
           "source": "百度热搜",
@@ -1083,22 +1139,21 @@
           "time_info": "[12时26分 ~ 15时08分]"
         },
         {
-          "title": "iPhone17下周或涨价",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
+          "title": "工资5000能存4999的吃法",
+          "url": "https://s.weibo.com/weibo?q=%E5%B7%A5%E8%B5%845000%E8%83%BD%E5%AD%984999%E7%9A%84%E5%90%83%E6%B3%95&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            18,
-            17
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时08分 ~ 16时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -1108,8 +1163,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1122,8 +1177,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时43分 ~ 16时54分]"
+          "appearance_count": 15,
+          "time_info": "[00时43分 ~ 17时50分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -1140,8 +1195,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时44分 ~ 16时54分]"
+          "appearance_count": 14,
+          "time_info": "[00时44分 ~ 17时50分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -1168,6 +1223,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "A股下周怎么走",
+          "url": "https://www.toutiao.com/trending/7671194499733012489/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时50分"
         }
       ]
     },
@@ -1199,8 +1265,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时19分 ~ 16时54分]"
+          "appearance_count": 6,
+          "time_info": "[10时19分 ~ 17时50分]"
         }
       ]
     }
