@@ -1,8 +1,292 @@
 {
-  "generated_at": "2026-08-09T15:08:56.866606+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-08-09T16:54:53.584823+08:00",
+  "total_titles_processed": 977,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
+        },
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
+          "url": "https://wallstreetcn.com/livenews/3147012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            13,
+            14,
+            23,
+            25,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时08分]"
+        },
+        {
+          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
+          "url": "https://wallstreetcn.com/articles/3778995",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18,
+            19,
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 10时19分]"
+        },
+        {
+          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
+          "url": "https://wallstreetcn.com/articles/3778998",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时54分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时37分]"
+        },
+        {
+          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时37分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
+          "url": "https://wallstreetcn.com/livenews/3147002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时37分]"
+        },
+        {
+          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时37分]"
+        },
+        {
+          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
+          "url": "https://wallstreetcn.com/livenews/3147055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
+        },
+        {
+          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
+          "url": "https://wallstreetcn.com/livenews/3147037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            11,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
+        },
+        {
+          "title": "老人买200万保险退保只退108万",
+          "url": "https://www.toutiao.com/trending/7671263736380145718/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
+          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
+          "url": "https://www.zhihu.com/question/2069330740664439572",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时54分]"
+        },
+        {
+          "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
+          "url": "https://flash.jin10.com/detail/20260809141456774800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
+          "title": "伦纳德被曝隐匿收入超5000万美元",
+          "url": "https://www.douyin.com/hot/2602832",
+          "source": "抖音",
+          "ranks": [
+            23,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
+        },
+        {
+          "title": "摩尔线程：筹划发行H股股票并在港交所主板上市",
+          "url": "https://flash.jin10.com/detail/20260809155351803800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "现货黄金周涨超7%站上4300美元，为何突然大涨？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33744664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "老人买200万保险退保只退108万",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B9%B0200%E4%B8%87%E4%BF%9D%E9%99%A9%E9%80%80%E4%BF%9D%E5%8F%AA%E9%80%80108%E4%B8%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伯克希尔净买入约200亿美元股票",
+          "url": "https://www.toutiao.com/trending/7671843485523119662/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
       "match_count": 21,
@@ -14,11 +298,12 @@
           "ranks": [
             10,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
         },
         {
           "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
@@ -28,11 +313,12 @@
             1,
             3,
             6,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
         },
         {
           "title": "一组数据读懂中国经济底气",
@@ -41,9 +327,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
         },
         {
           "title": "国家统计局：7月份，PPI同比涨幅有所回落",
@@ -88,16 +374,30 @@
           "time_info": "[10时19分 ~ 15时08分]"
         },
         {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
+        },
+        {
           "title": "澳洲联储下周料按兵不动 关注通胀风险",
           "url": "https://flash.jin10.com/detail/20260809132152093800",
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时08分]"
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时54分]"
         },
         {
           "title": "国家统计局：7月份，CPI环比降幅收窄",
@@ -138,19 +438,6 @@
           "time_info": "[13时53分 ~ 15时08分]"
         },
         {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
           "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
           "url": "https://flash.jin10.com/detail/20260809043806090800",
           "source": "金十数据",
@@ -189,23 +476,23 @@
           "time_info": "[10时19分 ~ 13时53分]"
         },
         {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时54分]"
+        },
+        {
           "title": "经济学家普遍预期美国通胀年率将略有放缓",
           "url": "https://flash.jin10.com/detail/20260809123549225800",
           "source": "金十数据",
           "ranks": [
             6,
             13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时08分]"
-        },
-        {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -264,240 +551,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
           "source": "澎湃新闻",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
-          "url": "https://www.cls.cn/detail/2449039",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
-        },
-        {
-          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
-          "url": "https://wallstreetcn.com/articles/3778988",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时43分 ~ 10时19分]"
-        },
-        {
-          "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
-          "url": "https://wallstreetcn.com/livenews/3147012",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            14,
-            23,
-            25,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            19,
             20,
-            29
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 10时19分]"
-        },
-        {
-          "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
-          "url": "https://wallstreetcn.com/articles/3778995",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：至6月30日，保险浮存金大约为1775亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147004",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时37分]"
-        },
-        {
-          "title": "伯克希尔连续三个季度回购股票：二季度买入45亿美元、三季度已回购超33亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时37分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦：二季度保险承保业务运营利润17.3亿美元，同比下降13%。 二季度保险投资业务运营利润 30.6亿美元，同比下降9.1%。 二季度BNSF铁路运营利润15.6亿美元，同比增长6.3%。 二季度能源运营利润8.91亿美元，同比增长27%。 二季度制造、服务及零售业务运营利润44.7亿美元，同比增长24%。 二季度其他运营利润12.7亿美元，上年同期为3200万美元。",
-          "url": "https://wallstreetcn.com/livenews/3147002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时37分]"
-        },
-        {
-          "title": "伯克希尔哈撒韦二季度运营利润129.83亿美元，同比增长16%。 二季度归属于股东的净利润256.67亿美元，上年同期123.70亿美元。 二季度投资收益109亿美元。 二季度A类股每股净收益为17,868美元。 二季度末现金降低至3655.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3147000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时37分]"
-        },
-        {
-          "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
-          "url": "https://wallstreetcn.com/articles/3778998",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时08分]"
-        },
-        {
-          "title": "老人买200万保险退保只退108万",
-          "url": "https://www.toutiao.com/trending/7671263736380145718/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
-          "url": "https://www.cls.cn/detail/2449170",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "马斯克：即将发射的V3卫星性能将比V2卫星高出一个数量级，该系统今年将实现年收200亿美元",
-          "url": "https://wallstreetcn.com/livenews/3147037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "如何看待华硕将海外用户已付 4607 美元的 5090 订单强行砍单，并随后提价至 5090 美元？",
-          "url": "https://www.zhihu.com/question/2069330740664439572",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时08分]"
-        },
-        {
-          "title": "韩国6月旅行收支实现近6亿美元顺差 创新冠疫情以来最高纪录",
-          "url": "https://flash.jin10.com/detail/20260809141456774800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "伦纳德被曝隐匿收入超5000万美元",
-          "url": "https://www.douyin.com/hot/2602832",
-          "source": "抖音",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
-        },
-        {
-          "title": "伯克希尔净买入约200亿美元股票",
-          "url": "https://www.toutiao.com/trending/7671843485523119662/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时53分"
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
         }
       ]
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "钟睒睒：感性消费被线上购物平台扼杀，必须限制平台能力",
@@ -510,11 +575,12 @@
             12,
             14,
             17,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 16时54分]"
         },
         {
           "title": "加拿大已经在贸易磋商中向美国做出让步。 加方希望，阻止特朗普在不到两周的时间内加征50%关税的计划。 加拿大要求与美国达成一项全面协议。（纽约时报）",
@@ -527,11 +593,12 @@
             13,
             15,
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 16时54分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -589,8 +656,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时08分]"
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 16时54分]"
         },
         {
           "title": "国家统计局：7月份居民消费价格同比上涨0.5%",
@@ -600,11 +667,24 @@
             4,
             6,
             9,
-            10
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
+          "time_info": "[12时26分 ~ 16时54分]"
         },
         {
           "title": "沙特方面呼吁国际社会对威胁航运和国际贸易安全采取坚定立场。",
@@ -618,18 +698,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时37分 ~ 05时38分]"
-        },
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时26分 ~ 15时08分]"
         },
         {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
@@ -699,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "不足半月茅台自营店再调价！飞天零售价涨至1753元，较i茅台售价高出114元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33745878",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
@@ -714,8 +793,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
         },
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -830,6 +909,112 @@
       ]
     },
     {
+      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时38分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
+        },
+        {
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            12,
+            21,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时08分]"
+        },
+        {
+          "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
+          "url": "https://wallstreetcn.com/livenews/3147054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "力源信息：上半年净利润2.98亿元 同比增长209.5%",
+          "url": "https://flash.jin10.com/detail/20260809155757290800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
+          "url": "https://flash.jin10.com/detail/20260809154347647800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "宇树科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
       "match_count": 6,
       "titles": [
@@ -855,8 +1040,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -902,11 +1087,12 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone17%E4%B8%8B%E5%91%A8%E6%88%96%E6%B6%A8%E4%BB%B7%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时08分 ~ 16时54分]"
         }
       ]
     },
@@ -922,8 +1108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -932,11 +1118,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 16时54分]"
         },
         {
           "title": "美议员讽刺特朗普对伊政策：他总在股市开盘前说不打了",
@@ -949,11 +1136,12 @@
             18,
             20,
             23,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时44分 ~ 16时54分]"
         },
         {
           "title": "A股多家上市公司收到美政府退税",
@@ -984,68 +1172,6 @@
       ]
     },
     {
-      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
-        },
-        {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 15时08分]"
-        },
-        {
-          "title": "我国多家上市公司宣布收到美国关税退税",
-          "url": "https://wallstreetcn.com/livenews/3147014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            12,
-            21,
-            23,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
-        },
-        {
-          "title": "宇树科技上市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时19分"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产 调控 首付 按揭 公积金 社保 养老金 医保 税收 个税 增值税",
       "match_count": 2,
       "titles": [
@@ -1069,11 +1195,12 @@
             2,
             4,
             7,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时19分 ~ 16时54分]"
         }
       ]
     }
