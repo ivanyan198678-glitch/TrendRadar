@@ -1,22 +1,396 @@
 {
-  "generated_at": "2026-08-09T21:07:42.204054+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-08-09T22:43:27.171488+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
+          "url": "https://wallstreetcn.com/articles/3778996",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 22时43分]"
+        },
+        {
+          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
+          "url": "https://www.cls.cn/detail/2449177",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 22时43分]"
+        },
+        {
+          "title": "一组数据读懂中国经济底气",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时08分 ~ 19时37分]"
+        },
+        {
+          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3147043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            6,
+            7,
+            13,
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时19分 ~ 19时37分]"
+        },
+        {
+          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
+          "url": "https://www.cls.cn/detail/2449215",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时53分 ~ 22时43分]"
+        },
+        {
+          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            17,
+            18,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 22时43分]"
+        },
+        {
+          "title": "“木头姐”：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+          "url": "https://wallstreetcn.com/livenews/3147116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 22时43分]"
+        },
+        {
+          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
+          "url": "https://flash.jin10.com/detail/20260809094144161800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时19分 ~ 15时08分]"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——周三美国CPI数据重磅来袭；国内成品油将调价、京东与腾讯等将公布二季度财报",
+          "url": "https://flash.jin10.com/detail/20260809211512723800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "国家统计局：7月份，PPI环比下降",
+          "url": "https://flash.jin10.com/detail/20260809094115453800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时19分 ~ 15时08分]"
+        },
+        {
+          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
+          "url": "https://flash.jin10.com/detail/20260809093957019800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时19分 ~ 15时08分]"
+        },
+        {
+          "title": "澳洲联储下周料按兵不动 关注通胀风险",
+          "url": "https://flash.jin10.com/detail/20260809132152093800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时53分 ~ 16时54分]"
+        },
+        {
+          "title": "国家统计局：7月份，CPI环比降幅收窄",
+          "url": "https://flash.jin10.com/detail/20260809093821444800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 13时53分]"
+        },
+        {
+          "title": "据叙利亚国家通讯社：叙利亚外交部表示，叙利亚与俄罗斯将在备忘录框架下开始重组俄罗斯在叙利亚沿海的存在。",
+          "url": "https://flash.jin10.com/detail/20260809201544809800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
+          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
+          "url": "https://wallstreetcn.com/articles/3778982",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时39分 ~ 07时37分]"
+        },
+        {
+          "title": "汇丰前瞻美国7月CPI：预计本次多项核心通胀分项会出现超预期降温，带动整体CPI与核心CPI双双低于市场预期。",
+          "url": "https://flash.jin10.com/detail/20260809124137245800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 15时08分]"
+        },
+        {
+          "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
+          "url": "https://flash.jin10.com/detail/20260809043806090800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时37分]"
+        },
+        {
+          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
+          "url": "https://flash.jin10.com/detail/20260809093547261800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 13时53分]"
+        },
+        {
+          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093106576800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时19分 ~ 13时53分]"
+        },
+        {
+          "title": "经济学家普遍预期美国通胀年率将略有放缓",
+          "url": "https://flash.jin10.com/detail/20260809123549225800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时53分 ~ 15时08分]"
+        },
+        {
+          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
+          "url": "https://flash.jin10.com/detail/20260809093023410800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 12时26分]"
+        },
+        {
+          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
+          "url": "https://flash.jin10.com/detail/20260809093020087800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 12时26分]"
+        },
+        {
+          "title": "经济日报：规范航班超售不可错开药方",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33747514",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
+          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
+          "url": "https://flash.jin10.com/detail/20260809093020051800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 12时26分]"
+        },
+        {
+          "title": "中国7月CPI年率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260809092000001800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 12时26分]"
+        },
+        {
+          "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
+          "url": "https://wallstreetcn.com/articles/3778910",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "白宫经济顾问哈塞特：我们看到的美国通胀数据正迅速下降。",
+          "url": "https://wallstreetcn.com/livenews/3147102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "分析｜受汽油价格涨幅回落影响，7月CPI同比涨幅有所回落",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748441",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
           "url": "https://www.cls.cn/detail/2449039",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 21时07分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时43分]"
         },
         {
           "title": "“新王”登基“三把火”：伯克希尔开始“花钱”了，净买入200亿美元股票",
@@ -28,8 +402,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时19分 ~ 21时07分]"
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 22时43分]"
         },
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -41,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 21时07分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 22时43分]"
         },
         {
           "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
@@ -61,6 +435,19 @@
           "time_info": "[00时43分 ~ 10时19分]"
         },
         {
+          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
+          "url": "https://www.cls.cn/detail/2449170",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时19分 ~ 22时43分]"
+        },
+        {
           "title": "国际货币基金组织(IMF)驻华首席代表马歇尔·米尔斯谈及地方行动，对天津的探索表示赞赏。 他分享道，其父20世纪90年代曾在天津参与一家合资企业的运营，助力当地工业化，如今很高兴看到天津正拥抱更加多元化的经济新篇章。 米尔斯说，天津的转变正是中国经济加速再平衡的缩影。（中新网）",
           "url": "https://wallstreetcn.com/livenews/3147012",
           "source": "华尔街见闻-快讯",
@@ -76,19 +463,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时44分 ~ 15时08分]"
-        },
-        {
-          "title": "巴菲特退休后伯克希尔首次大举动用现金 Q2回购并净买入股票",
-          "url": "https://www.cls.cn/detail/2449170",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时19分 ~ 21时07分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -191,18 +565,17 @@
           "time_info": "[00时44分 ~ 07时37分]"
         },
         {
-          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
-          "url": "https://wallstreetcn.com/livenews/3147055",
-          "source": "华尔街见闻-快讯",
+          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
+          "source": "澎湃新闻",
           "ranks": [
-            4,
+            9,
             7,
-            15,
-            28
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 22时43分]"
         },
         {
           "title": "伦纳德被曝隐匿收入超5000万美元",
@@ -217,16 +590,18 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 21时07分]"
+          "appearance_count": 7,
+          "time_info": "[15时08分 ~ 22时43分]"
         },
         {
-          "title": "消费者称被“弹窗投保”续费超千元：元保保险称过程合规，已退款",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33743326",
-          "source": "澎湃新闻",
+          "title": "摩尔线程：筹划发行H股股票并在香港联合交易所有限公司主板上市。",
+          "url": "https://wallstreetcn.com/livenews/3147055",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            7
+            4,
+            7,
+            15,
+            28
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -239,11 +614,23 @@
           "ranks": [
             19,
             18,
-            15
+            15,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 21时07分]"
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 22时43分]"
+        },
+        {
+          "title": "瑞士再保险就热浪风险发出警告",
+          "url": "https://wallstreetcn.com/livenews/3147114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "老人买200万保险退保只退108万",
@@ -312,11 +699,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33746645",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
         },
         {
           "title": "老人买200万保险退保只退108万",
@@ -343,321 +731,22 @@
       ]
     },
     {
-      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "中国7月CPI同比涨幅收窄至0.5%，PPI同比上涨3.5%，AI驱动平板电脑价格环比上涨11.3%",
-          "url": "https://wallstreetcn.com/articles/3778996",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时19分 ~ 21时07分]"
-        },
-        {
-          "title": "一组数据读懂中国经济底气",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E8%AF%BB%E6%87%82%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E5%BA%95%E6%B0%94%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时08分 ~ 19时37分]"
-        },
-        {
-          "title": "国家统计局：人工智能推动消费电子产品迭代升级，相关产品需求增加、价格上涨，平板电脑、计算机和移动电话机价格分别环比上涨11.3%、5.5%和1.0%，合计影响CPI环比上涨约0.03个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3147043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            3,
-            6,
-            7,
-            13,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时19分 ~ 19时37分]"
-        },
-        {
-          "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
-          "url": "https://www.cls.cn/detail/2449177",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时19分 ~ 21时07分]"
-        },
-        {
-          "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
-          "url": "https://www.cls.cn/detail/2449215",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时53分 ~ 21时07分]"
-        },
-        {
-          "title": "国家统计局解读：7月份CPI保持温和上涨，PPI同比涨幅有所回落",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747633",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时08分 ~ 21时07分]"
-        },
-        {
-          "title": "据叙利亚国家通讯社：叙利亚外交部表示，叙利亚与俄罗斯将在备忘录框架下开始重组俄罗斯在叙利亚沿海的存在。",
-          "url": "https://flash.jin10.com/detail/20260809201544809800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "国家统计局：7月份，PPI同比涨幅有所回落",
-          "url": "https://flash.jin10.com/detail/20260809094144161800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            18,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "国家统计局：7月份，PPI环比下降",
-          "url": "https://flash.jin10.com/detail/20260809094115453800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "国家统计局：7月份，CPI同比温和上涨，黄金饰品上涨24.6%",
-          "url": "https://flash.jin10.com/detail/20260809093957019800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时19分 ~ 15时08分]"
-        },
-        {
-          "title": "澳洲联储下周料按兵不动 关注通胀风险",
-          "url": "https://flash.jin10.com/detail/20260809132152093800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 16时54分]"
-        },
-        {
-          "title": "国家统计局：7月份，CPI环比降幅收窄",
-          "url": "https://flash.jin10.com/detail/20260809093821444800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 13时53分]"
-        },
-        {
-          "title": "本轮通胀拐点已至",
-          "url": "https://wallstreetcn.com/articles/3779008",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时50分 ~ 21时07分]"
-        },
-        {
-          "title": "Apollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击",
-          "url": "https://wallstreetcn.com/articles/3778982",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时39分 ~ 07时37分]"
-        },
-        {
-          "title": "汇丰前瞻美国7月CPI：预计本次多项核心通胀分项会出现超预期降温，带动整体CPI与核心CPI双双低于市场预期。",
-          "url": "https://flash.jin10.com/detail/20260809124137245800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时08分]"
-        },
-        {
-          "title": "机构：美国7月CPI数据或显示通胀压力有所缓和",
-          "url": "https://flash.jin10.com/detail/20260809043806090800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时37分]"
-        },
-        {
-          "title": "国家统计局：7月份，核心CPI环比上涨0.3%，同比上涨0.9%",
-          "url": "https://flash.jin10.com/detail/20260809093547261800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 13时53分]"
-        },
-        {
-          "title": "中国7月PPI月率 -0.7%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093106576800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时19分 ~ 13时53分]"
-        },
-        {
-          "title": "经济学家普遍预期美国通胀年率将略有放缓",
-          "url": "https://flash.jin10.com/detail/20260809123549225800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时53分 ~ 15时08分]"
-        },
-        {
-          "title": "中国7月CPI月率 -0.1%，预期0.2%，前值-0.3%。",
-          "url": "https://flash.jin10.com/detail/20260809093023410800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 12时26分]"
-        },
-        {
-          "title": "中国7月PPI年率 3.5%，预期3.80%，前值4.10%。",
-          "url": "https://flash.jin10.com/detail/20260809093020087800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 12时26分]"
-        },
-        {
-          "title": "中国7月CPI年率 0.5%，预期0.80%，前值1.00%。",
-          "url": "https://flash.jin10.com/detail/20260809093020051800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 12时26分]"
-        },
-        {
-          "title": "中国7月CPI年率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260809092000001800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时19分 ~ 12时26分]"
-        },
-        {
-          "title": "经济日报：规范航班超售不可错开药方",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33747514",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "“禁止对华出口光刻机，美欧将成最大输家”",
+          "url": "https://news.ifeng.com/c/8vReIAxZdCZ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 22时43分]"
+        },
         {
           "title": "钟睒睒：感性消费被线上购物平台扼杀，必须限制平台能力",
           "url": "https://wallstreetcn.com/livenews/3147027",
@@ -697,17 +786,18 @@
           "time_info": "[00时44分 ~ 18时43分]"
         },
         {
-          "title": "“禁止对华出口光刻机，美欧将成最大输家”",
-          "url": "https://news.ifeng.com/c/8vReIAxZdCZ",
-          "source": "凤凰网",
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            6,
             5,
-            4,
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 21时07分]"
+          "appearance_count": 9,
+          "time_info": "[12时26分 ~ 22时43分]"
         },
         {
           "title": "年轻人不喜欢白酒，为什么白酒却是消费主流？",
@@ -742,19 +832,6 @@
           "time_info": "[00时44分 ~ 13时53分]"
         },
         {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时26分 ~ 21时07分]"
-        },
-        {
           "title": "今年前 7 月我国货物贸易进出口总值 30.13 万亿元，同比增长 17.3% ，如何看待这一数据？",
           "url": "https://www.zhihu.com/question/2069008146291496844",
           "source": "知乎",
@@ -786,28 +863,6 @@
           "time_info": "[10时19分 ~ 19时37分]"
         },
         {
-          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
-          "url": "https://wallstreetcn.com/livenews/3147094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
-          "url": "https://wallstreetcn.com/livenews/3147092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
           "title": "不足半月茅台自营店再调价！飞天零售价涨至1753元，较i茅台售价高出114元",
           "url": "https://m.thepaper.cn/newsDetail_forward_33745878",
           "source": "澎湃新闻",
@@ -834,6 +889,30 @@
           "time_info": "[03时37分 ~ 05时38分]"
         },
         {
+          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
+          "url": "https://wallstreetcn.com/livenews/3147094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
+          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
+          "url": "https://wallstreetcn.com/livenews/3147092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
           "title": "2026年7月份居民消费价格同比上涨0.5%",
           "url": "https://flash.jin10.com/detail/20260809093034813800",
           "source": "金十数据",
@@ -858,6 +937,17 @@
           "time_info": "[10时19分 ~ 13时53分]"
         },
         {
+          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
+          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
           "title": "美国问题专家：美国新对俄制裁法案或成为“沉默法案”",
           "url": "https://flash.jin10.com/detail/20260809003936166800",
           "source": "金十数据",
@@ -870,15 +960,37 @@
           "time_info": "[01时38分 ~ 02时51分]"
         },
         {
-          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
-          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
-          "source": "凤凰网",
+          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
+          "url": "https://flash.jin10.com/detail/20260809210319951800",
+          "source": "金十数据",
           "ranks": [
-            11
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时07分"
+          "time_info": "22时43分"
+        },
+        {
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "离境退税“2.0版”政策落地满月，广州入境消费持续升温",
@@ -887,7 +999,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -927,8 +1039,191 @@
       ]
     },
     {
+      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "几元成本的AI广告导致千万市值蒸发",
+          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时43分 ~ 06时38分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            4,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时43分 ~ 21时07分]"
+        },
+        {
+          "title": "我国多家上市公司宣布收到美国关税退税",
+          "url": "https://wallstreetcn.com/livenews/3147014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            12,
+            21,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时44分 ~ 15时08分]"
+        },
+        {
+          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
+          "url": "https://www.cls.cn/detail/2449266",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时54分 ~ 22时43分]"
+        },
+        {
+          "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
+          "url": "https://wallstreetcn.com/livenews/3147054",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            16,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时54分 ~ 21时07分]"
+        },
+        {
+          "title": "欧菲光澄清： 不存在人为压低公司零部件售价、向实控人控制公司转移利润的行为",
+          "url": "https://flash.jin10.com/detail/20260809213045232800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "北京君正通过港交所上市聆讯",
+          "url": "https://flash.jin10.com/detail/20260809202735385800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
+          "title": "力源信息：上半年净利润2.98亿元 同比增长209.5%",
+          "url": "https://flash.jin10.com/detail/20260809155757290800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时54分 ~ 18时43分]"
+        },
+        {
+          "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
+          "url": "https://flash.jin10.com/detail/20260809154347647800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时54分 ~ 17时50分]"
+        },
+        {
+          "title": "宇树科技上市后或冲刺1000亿估值",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%E5%90%8E%E6%88%96%E5%86%B2%E5%88%BA1000%E4%BA%BF%E4%BC%B0%E5%80%BC",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "利润大涨超100%，这一行业，黄金窗口期来了",
+          "url": "https://www.cls.cn/detail/2449206",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "欧菲光澄清媒体报道： 不存在人为压低公司零部件售价、向实控人控制公司转移利润的行为",
+          "url": "https://wallstreetcn.com/livenews/3147098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "一线豪华品牌卖车也到了亏损边缘",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E5%8D%96%E8%BD%A6%E4%B9%9F%E5%88%B0%E4%BA%86%E4%BA%8F%E6%8D%9F%E8%BE%B9%E7%BC%98",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时50分"
+        },
+        {
+          "title": "宇树科技上市",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "油价刺激通胀、就业削弱加息--黄金“双面得利”",
@@ -1067,6 +1362,17 @@
           "time_info": "[12时26分 ~ 13时53分]"
         },
         {
+          "title": "7月CPI预期小幅回落，花旗与美银对9月加息前景存在分歧",
+          "url": "https://flash.jin10.com/detail/20260809210310076800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "助学贷款有“代办捷径”系谣言",
           "url": "https://www.baidu.com/s?wd=%E5%8A%A9%E5%AD%A6%E8%B4%B7%E6%AC%BE%E6%9C%89%E2%80%9C%E4%BB%A3%E5%8A%9E%E6%8D%B7%E5%BE%84%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
@@ -1081,7 +1387,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -1091,8 +1397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 21时07分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时43分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -1143,6 +1449,18 @@
           "time_info": "[00时43分 ~ 12时26分]"
         },
         {
+          "title": "中信证券：利空出尽或支撑港股行情延续",
+          "url": "https://flash.jin10.com/detail/20260809195949389800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时07分 ~ 22时43分]"
+        },
+        {
           "title": "银河证券：A股市场正从“预期博弈”转向“现实验证”",
           "url": "https://flash.jin10.com/detail/20260809172523933800",
           "source": "金十数据",
@@ -1167,24 +1485,24 @@
           "time_info": "[17时50分 ~ 18时43分]"
         },
         {
+          "title": "A股科技反弹是否一蹴而就？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2449376",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "中东股市收盘播报｜周日（8月9日），沙特证交所全股指数收涨0.05%，报10817.01点。 沙特阿美收涨0.38%，报26.60沙特里亚尔，此前连续三个交易日下跌。 在沙特上市的Albilad南方东英MSCI香港中国股票ETF收涨1.71%，报11.32沙特里亚尔，逼近5月13日收盘位11.43里亚尔。 埃及证交所EGX 30指数收涨0.82%，报55125.43点，8月4日突破5月10日所创收盘历史最高位以来、连续第四个交易日走高。 阿曼MSM 30指数收涨0.26%，报7387.16点，7月20日跳水出现的失地几乎完全收复、不断逼近7月19日收盘位7407.09点。 卡塔尔证交所指数收跌0.12%，报10100.11点。 科威特证交所超级市场价格回报指数收涨0.12%，报9307.48点，7月23日以来呈现出持续反弹趋势、最近数日高位持稳——8月5日收报9319.89点。",
           "url": "https://wallstreetcn.com/livenews/3147084",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        },
-        {
-          "title": "中信证券：利空出尽或支撑港股行情延续",
-          "url": "https://flash.jin10.com/detail/20260809195949389800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
@@ -1206,152 +1524,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "几元成本的AI广告导致千万市值蒸发",
-          "url": "https://www.baidu.com/s?wd=%E5%87%A0%E5%85%83%E6%88%90%E6%9C%AC%E7%9A%84AI%E5%B9%BF%E5%91%8A%E5%AF%BC%E8%87%B4%E5%8D%83%E4%B8%87%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 06时38分]"
-        },
-        {
-          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778993",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 21时07分]"
-        },
-        {
-          "title": "我国多家上市公司宣布收到美国关税退税",
-          "url": "https://wallstreetcn.com/livenews/3147014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11,
-            12,
-            21,
-            23,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时44分 ~ 15时08分]"
-        },
-        {
-          "title": "摩尔线程：上半年净亏损1156.3万元，较上年同期收窄2.59亿元",
-          "url": "https://wallstreetcn.com/livenews/3147054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            16,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 21时07分]"
-        },
-        {
-          "title": "北京君正通过港交所上市聆讯",
-          "url": "https://flash.jin10.com/detail/20260809202735385800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "21时07分"
         },
         {
-          "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
-          "url": "https://www.cls.cn/detail/2449266",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 21时07分]"
-        },
-        {
-          "title": "力源信息：上半年净利润2.98亿元 同比增长209.5%",
-          "url": "https://flash.jin10.com/detail/20260809155757290800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时54分 ~ 18时43分]"
-        },
-        {
-          "title": "摩尔线程上半年营收大幅增长147.42%，S5000智算集群实现规模化销售",
-          "url": "https://flash.jin10.com/detail/20260809154347647800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时54分 ~ 17时50分]"
-        },
-        {
-          "title": "一线豪华品牌卖车也到了亏损边缘",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E5%8D%96%E8%BD%A6%E4%B9%9F%E5%88%B0%E4%BA%86%E4%BA%8F%E6%8D%9F%E8%BE%B9%E7%BC%98",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时50分"
-        },
-        {
-          "title": "宇树科技上市",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E4%B8%8A%E5%B8%82%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "中东股市收盘播报｜埃及股市涨超0.8%，连续四天创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/3147084",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时19分"
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美国就业市场意外“熄火”：7月非农负增长 劳动参与率跌至5年来新低",
@@ -1375,8 +1567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时43分 ~ 21时07分]"
+          "appearance_count": 19,
+          "time_info": "[00时43分 ~ 22时43分]"
         },
         {
           "title": "外设想赚钱,键盘鼠标排队涨价",
@@ -1390,6 +1582,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时43分 ~ 10时19分]"
+        },
+        {
+          "title": "如何看待当前物价运行态势",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BD%93%E5%89%8D%E7%89%A9%E4%BB%B7%E8%BF%90%E8%A1%8C%E6%80%81%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "iPhone18Pro 涨价",
