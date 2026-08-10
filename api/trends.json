@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T12:47:04.844866+08:00",
-  "total_titles_processed": 844,
+  "generated_at": "2026-08-10T14:17:21.344830+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
         {
           "title": "多家A股公司：收到美国关税退税",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时47分]"
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时17分]"
         },
         {
           "title": "A股造纸板短线拉升，宜宾纸业触及涨停，齐峰新材、恒丰纸业、森林包装、民丰特纸、恒达新材跟涨。",
@@ -50,7 +50,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -117,11 +117,12 @@
           "url": "https://www.toutiao.com/trending/7672233159576014346/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
         },
         {
           "title": "现货黄金周一开盘上涨0.2%，现报4349美元/盎司。",
@@ -148,6 +149,42 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
+          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
+          "url": "https://wallstreetcn.com/livenews/3147268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 14时17分]"
+        },
+        {
+          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
+          "url": "https://wallstreetcn.com/livenews/3147267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 14时17分]"
+        },
+        {
+          "title": "国债期货早盘收盘，30年期主力合约涨0.16%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
+          "url": "https://wallstreetcn.com/livenews/3147265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 14时17分]"
+        },
+        {
           "title": "A股",
           "url": "https://s.weibo.com/weibo?q=A%E8%82%A1&t=31&band_rank=30&Refer=top",
           "source": "微博",
@@ -157,6 +194,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3147307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "A股食品饮料行业板块持续走强，香飘飘、金达威、一鸣食品涨停，品渥食品、东鹏饮料、迎驾贡酒、仲景食品、会稽山、立高食品等跟涨。",
@@ -170,17 +218,6 @@
           "time_info": "10时24分"
         },
         {
-          "title": "上证指数早盘收报3947.91点，涨0.20%。 深证成指早盘收报14148.86点，跌1.13%。 创业板指早盘收报3485.44点，跌2.18%。 沪深300早盘收报4670.05点，跌0.52%。 科创50早盘收报1716.69点，跌1.57%。 中证500早盘收报7942.84点，跌0.47%。 中证1000早盘收报7647.01点，跌0.42%。",
-          "url": "https://wallstreetcn.com/livenews/3147268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "A股军工板块异动拉升，长城军工直线涨停，北方长龙涨超10%，湖南天雁、建设工业、东安动力、内蒙一机纷纷冲高。",
           "url": "https://wallstreetcn.com/livenews/3147217",
           "source": "华尔街见闻-快讯",
@@ -192,15 +229,15 @@
           "time_info": "10时24分"
         },
         {
-          "title": "8月10日午间收评：创业板指半日跌超2%，医药、消费股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/3147267",
-          "source": "华尔街见闻-快讯",
+          "title": "港股内房股震荡走强，金辉控股(09993.HK)一度涨逾50%，世茂集团(00813.HK)、碧桂园(02007.HK)涨超10%，融创中国(01918.HK)、中国金茂(00817.HK)等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810135705547800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "14时17分"
         },
         {
           "title": "A股养殖板块震荡拉升，益生股份涨停，大禹生物涨超10%，立华股份、牧原股份、温氏股份、湘佳股份跟涨。",
@@ -214,24 +251,13 @@
           "time_info": "10时24分"
         },
         {
-          "title": "国债期货早盘收盘，30年期主力合约涨0.16%，10年期主力合约涨0.02%，5年期主力合约涨0.01%，2年期主力合约跌0.00%。",
-          "url": "https://wallstreetcn.com/livenews/3147265",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "港股午评：恒指水上震荡收涨0.72% 创新药、养殖板块领涨大盘",
           "url": "https://flash.jin10.com/detail/20260810121220166800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -258,6 +284,28 @@
           "time_info": "10时24分"
         },
         {
+          "title": "A股影视股午后再度拉升，儒意电影快速涨停，北京文化此前封板，华智数媒涨超15%，幸福蓝海、中国电影、金逸影视涨幅居前。",
+          "url": "https://wallstreetcn.com/livenews/3147294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "宇树科技今日申购 今年新股火热行情下 中一签能盈利多少？",
+          "url": "https://www.cls.cn/detail/2449548",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "A股有色板块震荡拉升，鹏欣资源涨停，寒锐钴业、腾远钴业涨超10%，华友钴业、东方锆业、金钼股份涨幅居前。",
           "url": "https://wallstreetcn.com/livenews/3147203",
           "source": "华尔街见闻-快讯",
@@ -267,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "A股存储芯片概念午后持续下挫，普冉股份跌超10%，北京君正、兆易创新、长信科技、恒烁股份、大普微等跟跌。",
+          "url": "https://wallstreetcn.com/livenews/3147290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "A股黄金概念持续走强，潮宏基、宝鼎科技涨停，山金国际、招金黄金、菜百股份、西部黄金等跟涨。",
@@ -319,7 +378,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -344,6 +403,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "A股寒武纪成交额超200亿元，现跌逾6%。",
+          "url": "https://flash.jin10.com/detail/20260810134908516800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "国债期货开盘，30年期主力合约涨0.03%，10年期主力合约跌0.00%，5年期主力合约跌0.01%，2年期主力合约涨0.01%。",
@@ -412,6 +482,17 @@
           "time_info": "10时24分"
         },
         {
+          "title": "A股黄金珠宝概念股午后持续走强，招金黄金涨超9%，曼卡龙、西部黄金、湖南黄金等上涨。",
+          "url": "https://flash.jin10.com/detail/20260810134701533800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "A股早盘钴矿概念再度活跃，寒锐钴业涨超10%，此前鹏欣资源涨停，腾远钴业、华友钴业、中矿资源、格林美、盛屯矿业跟涨。",
           "url": "https://flash.jin10.com/detail/20260810094642129800",
           "source": "金十数据",
@@ -423,13 +504,24 @@
           "time_info": "10时24分"
         },
         {
+          "title": "A股午后MLCC概念震荡反弹，昀冢科技、龙鑫智能涨超10%，风华高科逼近涨停，国瓷材料、博迁新材、洁美科技等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260810134351393800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "创业板指跌超2%，沪指涨0.29%，深成指跌0.93%，CPO、玻璃基板、PCB、6G等方向跌幅居前，沪深京三市下跌个股超1900只。",
           "url": "https://wallstreetcn.com/livenews/3147245",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -451,7 +543,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -473,7 +565,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -492,7 +584,7 @@
     },
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
         {
           "title": "韩媒：SK海力士拟推710亿美元股东回报方案，40%用于回购股票，相当于美股发行规模",
@@ -619,6 +711,39 @@
           "time_info": "07时40分"
         },
         {
+          "title": "印尼盾兑美元涨幅扩大至0.5%，在亚洲货币中表现最佳。",
+          "url": "https://wallstreetcn.com/livenews/3147316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "基金公司因产品风格漂移、无资质大V带货被追责",
+          "url": "https://wallstreetcn.com/livenews/3147313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "现货黄金向上触及4350美元/盎司，日内上涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3147312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "绿色金融债券成本走低，释放银行绿色信贷空间",
           "url": "https://wallstreetcn.com/livenews/3147139",
           "source": "华尔街见闻-快讯",
@@ -677,6 +802,18 @@
           "time_info": "[05时41分 ~ 06时40分]"
         },
         {
+          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
+          "url": "https://wallstreetcn.com/livenews/3147274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 14时17分]"
+        },
+        {
           "title": "老人买200万保险退保只退108万",
           "url": "https://www.toutiao.com/trending/7671263736380145718/",
           "source": "今日头条",
@@ -713,15 +850,15 @@
           "time_info": "[06时40分 ~ 07时40分]"
         },
         {
-          "title": "Jefferies把特斯拉目标价从400美元下调至350美元。",
-          "url": "https://wallstreetcn.com/livenews/3147274",
-          "source": "华尔街见闻-快讯",
+          "title": "退出欧佩克后第一把火！阿联酋能源巨头豪掷80亿美元扩产天然气",
+          "url": "https://flash.jin10.com/detail/20260810135736561800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时47分"
+          "time_info": "14时17分"
         },
         {
           "title": "据英国金融时报：英国国防集团Cambridge Aerospace已筹集3亿美元，用于开发其导弹和无人机拦截系统。此次交易的估值达34亿美元，进一步巩固了其作为英国最有价值初创企业之一的地位。",
@@ -730,7 +867,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -744,6 +881,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "期货热点追踪",
+          "url": "https://flash.jin10.com/detail/20260810135401469800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报64.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810135116934800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报64.17美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260810134828684800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "人民币兑美元中间价创2023年2月10日以来新高",
@@ -763,7 +933,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
@@ -785,6 +955,20 @@
           "time_info": "[00时45分 ~ 07时40分]"
         },
         {
+          "title": "本轮通胀拐点已至",
+          "url": "https://wallstreetcn.com/articles/3779008",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时17分]"
+        },
+        {
           "title": "下周重磅日程：美国CPI，宇树科技打新，腾讯、京东、茅台、中芯国际财报",
           "url": "https://wallstreetcn.com/articles/3778910",
           "source": "华尔街见闻",
@@ -796,19 +980,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时45分 ~ 07时40分]"
-        },
-        {
-          "title": "本轮通胀拐点已至",
-          "url": "https://wallstreetcn.com/articles/3779008",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时47分]"
         },
         {
           "title": "国家统计局：7月份CPI同比上涨0.5% PPI同比上涨3.5%",
@@ -967,11 +1138,12 @@
           "url": "https://wallstreetcn.com/articles/3779009",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
         },
         {
           "title": "美国以经济施压替代对伊军事行动",
@@ -1002,7 +1174,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -1013,185 +1185,15 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         }
       ]
     },
     {
-      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时45分 ~ 10时24分]"
-        },
-        {
-          "title": "新能源充电站一辆SUV突然起火爆燃",
-          "url": "https://www.toutiao.com/trending/7671198968541921289/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            6,
-            7,
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时40分]"
-        },
-        {
-          "title": "“禁止对华出口光刻机，美欧将成最大输家”",
-          "url": "https://news.ifeng.com/c/8vReIAxZdCZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时40分]"
-        },
-        {
-          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时45分 ~ 12时47分]"
-        },
-        {
-          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
-          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时40分]"
-        },
-        {
-          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
-          "url": "https://wallstreetcn.com/livenews/3147106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时40分]"
-        },
-        {
-          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
-          "url": "https://wallstreetcn.com/livenews/3147094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
-          "url": "https://wallstreetcn.com/livenews/3147092",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时45分 ~ 05时41分]"
-        },
-        {
-          "title": "马斯克凭什么建全球最大的芯片厂",
-          "url": "https://www.toutiao.com/trending/7671960489291382810/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时40分]"
-        },
-        {
-          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
-          "url": "https://www.cls.cn/detail/2449544",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "马斯克的8000亿芯片梦会是灾难吗",
-          "url": "https://www.toutiao.com/trending/7672219771949026870/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "影院变身消费综合体",
-          "url": "https://www.toutiao.com/trending/7671861365849489462/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "上半年全球新能源乘用车销量1122万台",
-          "url": "https://www.toutiao.com/trending/7672092424042348563/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
-        {
-          "title": "小朋友不小心启动电动车直接骑走",
-          "url": "https://www.toutiao.com/trending/7671870653464707126/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "周末要闻汇总：北京购房政策调整，宇树科技10日开启IPO申购",
@@ -1244,27 +1246,29 @@
           "time_info": "[00时45分 ~ 05时41分]"
         },
         {
-          "title": "海南：支持上市公司依托海南自贸港政策优势优化产业发展布局",
-          "url": "https://wallstreetcn.com/livenews/3147280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时47分"
-        },
-        {
           "title": "摩尔线程：上半年营收激增147%，净亏损大幅收窄，筹划发行H股赴港上市",
           "url": "https://wallstreetcn.com/articles/3779010",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 14时17分]"
+        },
+        {
+          "title": "海南：支持上市公司依托海南自贸港政策优势优化产业发展布局",
+          "url": "https://wallstreetcn.com/livenews/3147280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时47分 ~ 14时17分]"
         },
         {
           "title": "【数读IPO】宇树科技今日申购",
@@ -1272,11 +1276,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时24分 ~ 12时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时24分 ~ 14时17分]"
         },
         {
           "title": "寒武纪跌超5%，此前发布财报。",
@@ -1288,6 +1293,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "台积电7月营收同比增长44.7％",
+          "url": "https://wallstreetcn.com/livenews/3147299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "欧菲光回应\"实控人掏空上市公司\"举报：不存在利益输送或技术无偿转让 已报案追责",
+          "url": "https://www.cls.cn/detail/2449518",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "大疆错失宇树科技数十亿市值",
@@ -1307,7 +1334,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -1321,6 +1348,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "台积电：7月营收4675.8亿新台币 同比增44.7%",
+          "url": "https://flash.jin10.com/detail/20260810133836048800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "台积电(TSM.N)：2026年1至7月营收28720.64亿新台币，同比增长37%。",
+          "url": "https://flash.jin10.com/detail/20260810133556915800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "摩根士丹利：上调智谱目标价近72%，算力获取和新融资等支持强劲增长",
@@ -1348,19 +1397,8 @@
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "多地银行上调存款利率",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
-        },
         {
           "title": "内蒙古发行10年期一般债地方债，规模41.7053亿元，发行利率1.7600%，边际倍数1.63倍，倍数预期1.77； 内蒙古发行15年期普通专项地方债，规模8.8428亿元，发行利率2.1000%，边际倍数1.46倍，倍数预期2.08。",
           "url": "https://wallstreetcn.com/livenews/3147231",
@@ -1371,6 +1409,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时24分"
+        },
+        {
+          "title": "多地银行上调存款利率",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E5%9C%B0%E9%93%B6%E8%A1%8C%E4%B8%8A%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87",
+          "source": "百度热搜",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
         },
         {
           "title": "匈牙利央行官员盛赞加入欧元区的好处",
@@ -1446,13 +1496,24 @@
           "time_info": "[12时46分 ~ 12时47分]"
         },
         {
+          "title": "印尼官员表示，印尼总统提名现任央行临时行长德斯特里为央行行长唯一候选人。",
+          "url": "https://flash.jin10.com/detail/20260810135629429800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "新疆发行15年期市政基建专项地方债，规模3.1000亿元，发行利率2.1000%，边际倍数2.77倍，倍数预期2.10。",
           "url": "https://wallstreetcn.com/livenews/3147260",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -1463,9 +1524,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
+        },
+        {
+          "title": "交易员：印度央行可能在出售美元以支持卢比。",
+          "url": "https://wallstreetcn.com/livenews/3147289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "部分银行上调存款利率",
+          "url": "https://www.toutiao.com/trending/7672008281125208074/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "华尔街分析师：美国CPI数据滞后，美联储的天平正向降息倾斜",
@@ -1479,11 +1562,215 @@
           "time_info": "10时24分"
         },
         {
+          "title": "多地中小银行下调存款利率，国有四大行重启大额存单，存款市场为何两极分化？",
+          "url": "https://www.zhihu.com/question/2069887477947672165",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
           "title": "中国央行公开市场开展180亿元7天期逆回购操作，操作利率1.40%，持平上次。今日630亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3147182",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时45分 ~ 10时24分]"
+        },
+        {
+          "title": "新能源充电站一辆SUV突然起火爆燃",
+          "url": "https://www.toutiao.com/trending/7671198968541921289/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            6,
+            7,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时40分]"
+        },
+        {
+          "title": "“禁止对华出口光刻机，美欧将成最大输家”",
+          "url": "https://news.ifeng.com/c/8vReIAxZdCZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时40分]"
+        },
+        {
+          "title": "4.2平卫生间补漏注胶花1.55万，消费者称陷“天价注胶补漏”套路",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33748209",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时45分 ~ 14时17分]"
+        },
+        {
+          "title": "日媒关注：中国对日美稀土出口大幅下降，6月对日钇出口降至零",
+          "url": "https://news.ifeng.com/c/8vS9gp8GIry",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时40分]"
+        },
+        {
+          "title": "报道：苹果测试长鑫科技存储芯片，用于iPhone和MacBook",
+          "url": "https://wallstreetcn.com/livenews/3147106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "五粮液：公司持续关注低度酒、轻饮酒类的市场消费趋势",
+          "url": "https://wallstreetcn.com/livenews/3147094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "61%！7月挖掘机出口占比再破纪录，出海持续释放增长动能",
+          "url": "https://wallstreetcn.com/livenews/3147092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时45分 ~ 05时41分]"
+        },
+        {
+          "title": "如何看待钟睒睒称电商平台把城市的很多零售商都「杀」光了，并呼吁限制其能力？电商平台究竟带来了哪些影响？",
+          "url": "https://www.zhihu.com/question/2070052893034373687",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "马斯克凭什么建全球最大的芯片厂",
+          "url": "https://www.toutiao.com/trending/7671960489291382810/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时40分]"
+        },
+        {
+          "title": "苹果被曝正测试长鑫存储芯片 用于在中国市场销售的设备",
+          "url": "https://www.cls.cn/detail/2449544",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
+        },
+        {
+          "title": "马斯克的8000亿芯片梦会是灾难吗",
+          "url": "https://www.toutiao.com/trending/7672219771949026870/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "影院变身消费综合体",
+          "url": "https://www.toutiao.com/trending/7671861365849489462/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "上半年全球新能源乘用车销量1122万台",
+          "url": "https://www.toutiao.com/trending/7672092424042348563/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 12时47分]"
+        },
+        {
+          "title": "通用汽车中国：雪佛兰未来将继续在中国生产，出口全球",
+          "url": "https://wallstreetcn.com/livenews/3147287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "小朋友不小心启动电动车直接骑走",
+          "url": "https://www.toutiao.com/trending/7671870653464707126/",
+          "source": "今日头条",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1551,8 +1838,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
         },
         {
           "title": "健世科技：预计中期收入同比增加385%至400%",
@@ -1561,7 +1848,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时47分"
         },
@@ -1583,11 +1870,12 @@
           "url": "https://www.toutiao.com/trending/7671621686164340755/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 12时47分]"
+          "appearance_count": 3,
+          "time_info": "[12时46分 ~ 14时17分]"
         }
       ]
     }
