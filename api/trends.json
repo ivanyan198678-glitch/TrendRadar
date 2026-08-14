@@ -1,12 +1,48 @@
 {
-  "generated_at": "2026-08-15T06:32:53.032012+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2026-08-15T07:30:58.912374+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
+          "url": "https://wallstreetcn.com/livenews/3149893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "Jane Street 7月遭遇约150亿美元巨亏",
+          "url": "https://wallstreetcn.com/livenews/3149892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://wallstreetcn.com/livenews/3149891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
         {
           "title": "恒指期货夜盘收涨0.61%，报25247点，高水130点。",
           "url": "https://flash.jin10.com/detail/20260815030125037800",
@@ -19,15 +55,27 @@
           "time_info": "03时06分"
         },
         {
-          "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
-          "url": "https://wallstreetcn.com/livenews/3149893",
+          "title": "近日，富国基金旗下全资子公司富国资产管理（香港）有限公司获银河国际证券（新加坡）有限公司委任为投资顾问，为一只聚焦新加坡本地中小市值股票的主动管理型权益ETF提供选股支持。该产品已启动发行，预计后续将在新加坡交易所主板挂牌。 富国香港依托富国基金基本面与AI双轮驱动的量化模型体系，为该ETF提供选股决策支持。本次合作是公募基金“出海”模式升级的具体体现，表明中资资管机构在境外市场正逐步向能力端的投研服务者延伸。（证券日报）",
+          "url": "https://wallstreetcn.com/livenews/3149895",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时32分"
+          "time_info": "07时30分"
+        },
+        {
+          "title": "一步到位,银行能领结婚证",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
@@ -52,17 +100,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "Jane Street 7月遭遇约150亿美元巨亏",
-          "url": "https://wallstreetcn.com/livenews/3149892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "上期所原油期货主力合约夜盘收涨2.60%，报569.30元人民币/桶。 沪银2609合约夜盘收涨0.68%，报15820元/千克。 沪金2609合约夜盘收涨0.63%，报949.66元/克。",
           "url": "https://wallstreetcn.com/livenews/3149853",
           "source": "华尔街见闻-快讯",
@@ -72,17 +109,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
-        },
-        {
-          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
-          "url": "https://wallstreetcn.com/livenews/3149891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "据华尔街日报：摩根大通(JPM.N)因监管问题终止了与Polymarket的银行业务关系。",
@@ -96,38 +122,15 @@
           "time_info": "03时06分"
         },
         {
-          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260815053953991800",
-          "source": "金十数据",
+          "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
+          "url": "https://wallstreetcn.com/articles/3779440",
+          "source": "华尔街见闻",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
-          "url": "https://wallstreetcn.com/livenews/3149889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "一步到位,银行能领结婚证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "time_info": "[00时04分 ~ 07时30分]"
         },
         {
           "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
@@ -143,6 +146,30 @@
           "time_info": "[00时03分 ~ 06时32分]"
         },
         {
+          "title": "据美国证券交易委员会文件显示： THIRD POINT LLC已出售其持有的全部英伟达股份。同时将其持有的亚马逊公司股份减持9.8%，减持后持股数为180万股。",
+          "url": "https://wallstreetcn.com/livenews/3149889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "巴克莱：维持2026年布伦特原油价格预测为96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260815053953991800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
           "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
           "url": "https://wallstreetcn.com/livenews/3149816",
           "source": "华尔街见闻-快讯",
@@ -155,17 +182,6 @@
           "time_info": "[00时04分 ~ 01时57分]"
         },
         {
-          "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
-          "url": "https://wallstreetcn.com/articles/3779440",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时32分]"
-        },
-        {
           "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
           "url": "https://m.thepaper.cn/newsDetail_forward_33785137",
           "source": "澎湃新闻",
@@ -175,6 +191,54 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时03分 ~ 03时06分]"
+        },
+        {
+          "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
+          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
+          "url": "https://flash.jin10.com/detail/20260815053103557800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
+          "url": "https://flash.jin10.com/detail/20260815051457331800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
@@ -201,6 +265,18 @@
           "time_info": "[01时57分 ~ 03时06分]"
         },
         {
+          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3149881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
           "title": "CAPRICORN INVESTMENT持有SpaceX 1.208亿股股份， 价值206.4亿美元。",
           "url": "https://wallstreetcn.com/livenews/3149830",
           "source": "华尔街见闻-快讯",
@@ -211,6 +287,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时06分]"
+        },
+        {
+          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
+          "url": "https://wallstreetcn.com/livenews/3149879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
+          "url": "https://wallstreetcn.com/livenews/3149878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
@@ -225,26 +325,40 @@
           "time_info": "[01时57分 ~ 03时06分]"
         },
         {
-          "title": "Anthropic公司在IPO前夕，初步预测2026年第二季度营收将超过115亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149888",
+          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149875",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
-          "title": "据英国金融时报：简街（JaneStreet）在七月份录得约150亿美元的亏损。",
-          "url": "https://flash.jin10.com/detail/20260815053237241800",
+          "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
+          "url": "https://flash.jin10.com/detail/20260815045930926800",
           "source": "金十数据",
           "ranks": [
-            7
+            19,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "美国证券交易委员会文件显示，AMD(AMD.O)持有330万股SpaceX(SPCX.O)A类股份。",
+          "url": "https://flash.jin10.com/detail/20260815044509711800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "美国原油期货结算价为每桶82.40美元，上涨1.15美元，涨幅1.42%。",
@@ -269,28 +383,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "Anthropic二季度营收超115亿美元 较去年同期增长至少14倍",
-          "url": "https://flash.jin10.com/detail/20260815053103557800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "市场消息：Anthropic在2026年第二季度初步营收超过115亿美元，较上年同期至少增长了14倍，同时报告实现调整后营业利润为正。",
-          "url": "https://flash.jin10.com/detail/20260815051457331800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
           "url": "https://flash.jin10.com/detail/20260814232559287800",
           "source": "金十数据",
@@ -300,17 +392,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "布伦特原油日内涨2%，现报88.89美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3149881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "软银Q2大幅减持台积电 套现近2.7亿美元",
@@ -335,50 +416,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "哈佛大学披露持有SpaceX价值22亿美元的股权。",
-          "url": "https://wallstreetcn.com/livenews/3149879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美国证券交易委员会文件显示，英特尔(INTC.O)CEO陈立武于8月11日在公开市场以平均每股95美元的价格购买了105,263股英特尔股票。",
-          "url": "https://wallstreetcn.com/livenews/3149878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "美国证券交易委员会文件显示，英伟达持有SpaceX1.228亿股A类普通股，估值约为210亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3149875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "索罗斯基金管理公司披露增持29,004股苹果(AAPL.O)股份，持仓升至529,538股。",
-          "url": "https://flash.jin10.com/detail/20260815045930926800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.7093。",
           "url": "https://flash.jin10.com/detail/20260814230439834800",
           "source": "金十数据",
@@ -401,24 +438,13 @@
           "time_info": "01时57分"
         },
         {
-          "title": "美国证券交易委员会文件显示，AMD(AMD.O)持有330万股SpaceX(SPCX.O)A类股份。",
-          "url": "https://flash.jin10.com/detail/20260815044509711800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "哈佛大学披露持有价值22亿美元的SpaceX(SPCX.O)股份。",
           "url": "https://flash.jin10.com/detail/20260815043928709800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -429,7 +455,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -451,7 +477,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -473,7 +499,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         },
@@ -484,7 +510,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
         }
@@ -494,6 +520,17 @@
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
       "match_count": 24,
       "titles": [
+        {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
+        },
         {
           "title": "英国长期国债收益率上升至三周高点，20年和30年期收益率当天均上涨10个基点。",
           "url": "https://flash.jin10.com/detail/20260814235600359800",
@@ -517,28 +554,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
-          "url": "https://wallstreetcn.com/livenews/3149890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "马科斯：没想疏远中国，看好经济合作",
-          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
           "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
           "url": "https://wallstreetcn.com/livenews/3149851",
           "source": "华尔街见闻-快讯",
@@ -548,6 +563,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "法国10年期国债收益率上升10个基点至4.04%，创2009年以来新高。",
@@ -586,6 +613,30 @@
           "time_info": "[01时57分 ~ 03时06分]"
         },
         {
+          "title": "惠誉：预计英国政府总体赤字将持续收窄，2028年降至GDP的4.2%。英国政府总体债务占GDP比重到2028年底将升至106%。",
+          "url": "https://wallstreetcn.com/livenews/3149883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "惠誉确认英国评级为“AA-”，展望稳定。预计今年因能源进口增加，经常项目赤字将温和扩大。",
+          "url": "https://wallstreetcn.com/livenews/3149882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
           "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3149832",
           "source": "华尔街见闻-快讯",
@@ -596,6 +647,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时06分]"
+        },
+        {
+          "title": "惠誉：英国政府总体债务占GDP比重到2028年底将升至106%。",
+          "url": "https://flash.jin10.com/detail/20260815050517907800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "惠誉：受能源进口增加影响，预计英国今年经常账户赤字将适度扩大。",
+          "url": "https://flash.jin10.com/detail/20260815050448923800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "惠誉：预计英国政府总体赤字将持续收窄，2028年降至GDP的4.2%",
+          "url": "https://flash.jin10.com/detail/20260815050356459800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "马科斯：没想疏远中国 看好经济合作",
@@ -632,28 +719,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "惠誉：预计英国政府总体赤字将持续收窄，2028年降至GDP的4.2%。英国政府总体债务占GDP比重到2028年底将升至106%。",
-          "url": "https://wallstreetcn.com/livenews/3149883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "惠誉确认英国评级为“AA-”，展望稳定。预计今年因能源进口增加，经常项目赤字将温和扩大。",
-          "url": "https://wallstreetcn.com/livenews/3149882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
           "url": "https://flash.jin10.com/detail/20260815021403053800",
           "source": "金十数据",
@@ -674,39 +739,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "惠誉：英国政府总体债务占GDP比重到2028年底将升至106%。",
-          "url": "https://flash.jin10.com/detail/20260815050517907800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "惠誉：受能源进口增加影响，预计英国今年经常账户赤字将适度扩大。",
-          "url": "https://flash.jin10.com/detail/20260815050448923800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "惠誉：预计英国政府总体赤字将持续收窄，2028年降至GDP的4.2%",
-          "url": "https://flash.jin10.com/detail/20260815050356459800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "美联储古尔斯比：仍需更多证据确认通胀回落",
@@ -767,8 +799,19 @@
     },
     {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
         {
           "title": "你愿意为电动车智能服务“续费”吗",
           "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97",
@@ -778,19 +821,32 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 03时06分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 07时30分]"
         },
         {
           "title": "消息人士：加拿大对美贸易部长告知咨询委员会，加美双方距离达成协议“相当遥远”。",
           "url": "https://flash.jin10.com/detail/20260815053153644800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "市场消息：加拿大对美贸易负责人及首席谈判代表本周末将继续留在华盛顿进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260815044645813800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
@@ -914,17 +970,6 @@
           "time_info": "03时06分"
         },
         {
-          "title": "市场消息：加拿大对美贸易负责人及首席谈判代表本周末将继续留在华盛顿进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260815044645813800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
           "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
           "url": "https://wallstreetcn.com/livenews/3149801",
           "source": "华尔街见闻-快讯",
@@ -961,7 +1006,7 @@
     },
     {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "4家A股公司公告：终止资产重组事项",
@@ -971,8 +1016,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
@@ -983,8 +1028,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -1009,28 +1076,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
-          "url": "https://www.cls.cn/detail/2454593",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
           "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
           "url": "https://wallstreetcn.com/livenews/3149842",
           "source": "华尔街见闻-快讯",
@@ -1043,6 +1088,18 @@
           "time_info": "[01时57分 ~ 03时06分]"
         },
         {
+          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
+          "url": "https://wallstreetcn.com/livenews/3149887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
           "title": "国内商品期货夜盘收盘，合成橡胶、对二甲苯、乙二醇、PTA、低硫燃油、纯苯、苯乙烯涨超2%，焦炭、瓶片、豆一涨超1%。胶版纸、铁矿石小幅下跌。",
           "url": "https://wallstreetcn.com/livenews/3149814",
           "source": "华尔街见闻-快讯",
@@ -1053,17 +1110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时57分]"
-        },
-        {
-          "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
-          "url": "https://wallstreetcn.com/livenews/3149887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
         },
         {
           "title": "夜盘主力合约收盘",
@@ -1086,6 +1132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
+          "url": "https://www.cls.cn/detail/2455043",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "欧洲斯托克50指数收盘跌0.1%，德国DAX指数涨0.5%，英国富时100指数跌0.3%，法国CAC 40指数跌0.2%。",
@@ -1112,8 +1169,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
@@ -1123,8 +1180,34 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 07时30分]"
+        },
+        {
+          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2454866",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
+        },
+        {
+          "title": "对着别人手机念数字就可能背上贷款",
+          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            18,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -1140,32 +1223,6 @@
           "time_info": "[00时04分 ~ 06时32分]"
         },
         {
-          "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2454866",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
-          "title": "对着别人手机念数字就可能背上贷款",
-          "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            18,
-            24,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
-        },
-        {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
@@ -1174,8 +1231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 07时30分]"
         },
         {
           "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
@@ -1186,8 +1243,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 06时32分]"
+          "appearance_count": 5,
+          "time_info": "[00时04分 ~ 07时30分]"
         },
         {
           "title": "5年定期存款利率为何逆势上升",
@@ -1195,11 +1252,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时06分 ~ 06时32分]"
+          "appearance_count": 3,
+          "time_info": "[03时06分 ~ 07时30分]"
         },
         {
           "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
@@ -1249,41 +1307,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
           "url": "https://flash.jin10.com/detail/20260815055326004800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
-          "url": "https://flash.jin10.com/detail/20260815055128918800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
-          "url": "https://flash.jin10.com/detail/20260815054957553800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
@@ -1294,8 +1331,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
+        },
+        {
+          "title": "市场消息：简街（Jane Street）表示，7月业绩表现不佳，交易收入自2016年以来首次出现月度亏损。",
+          "url": "https://flash.jin10.com/detail/20260815055128918800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
+          "url": "https://flash.jin10.com/detail/20260815054957553800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
         },
         {
           "title": "中创新航预计上半年净利润至少翻倍：得益于新客户、新应用场景拓展",
@@ -1331,11 +1392,12 @@
           "source": "微博",
           "ranks": [
             26,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 4,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "公司该缴的社保 个人承担",
@@ -1374,8 +1436,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时03分 ~ 06时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 07时30分]"
         },
         {
           "title": "秘鲁总统：燃料补贴将持续三个月。",
