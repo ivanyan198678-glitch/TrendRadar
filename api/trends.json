@@ -1,171 +1,47 @@
 {
-  "generated_at": "2026-08-15T00:04:14.259479+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-15T01:57:51.400024+08:00",
+  "total_titles_processed": 409,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "英国长期国债收益率上升至三周高点，20年和30年期收益率当天均上涨10个基点。",
-          "url": "https://flash.jin10.com/detail/20260814235600359800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "法国10年期国债收益率上升10个基点至4.04%，创2009年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3149820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "德国30年期国债收益率上升8个基点至3.72%，创2011年以来新高。",
-          "url": "https://wallstreetcn.com/livenews/3149819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "马科斯：没想疏远中国，看好经济合作",
-          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "法国10年期国债收益率上升10个基点，达到4.04%，为2009年以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260814233116960800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "秘鲁经济部长：燃料补贴将于周六开始，适用于特定区域和类型的驾驶员。",
-          "url": "https://flash.jin10.com/detail/20260814232634703800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "德国30年期国债收益率上升8个基点，达到3.72%，为2011年以来最高水平。",
-          "url": "https://flash.jin10.com/detail/20260814232029967800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国消费者信心指数三个月来首次下降 对通胀担忧略有升温",
-          "url": "https://wallstreetcn.com/livenews/3149805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国8月密歇根大学5年通胀预期初值 3.3，预期 3.3，前值 3.3。",
-          "url": "https://wallstreetcn.com/livenews/3149802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国8月密歇根大学1年通胀预期初值 4.3，预期 4.2，前值 4.2。",
-          "url": "https://wallstreetcn.com/livenews/3149800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "提醒：北京时间22:00，将公布美国8月密歇根大学消费者信心指数初值、美国8月密歇根大学1年通胀预期初值、美国8月密歇根大学5年通胀预期初值。",
-          "url": "https://wallstreetcn.com/livenews/3149795",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "沙特主权基金PIF披露美股持仓，SpaceX、艺电等为主要投资标的",
           "url": "https://wallstreetcn.com/livenews/3149816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
         },
         {
           "title": "一步到位,银行能领结婚证",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
           "url": "https://www.zhihu.com/question/2071536115983410411",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
@@ -175,8 +51,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
@@ -185,9 +61,31 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "市场消息：美国司法部和商品期货交易委员会正在调查铁矿石交易商Radiant World的交易。",
+          "url": "https://flash.jin10.com/detail/20260815011017096800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国司法部与商品期货交易委员会正在对铁矿石交易商Radiant World的交易活动展开调查。",
+          "url": "https://wallstreetcn.com/livenews/3149840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
@@ -196,9 +94,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "LME期铜收涨12美元，报14160美元/吨。 LME期铝收跌6美元，报3252美元/吨。 LME期锌收涨5美元，报3756美元/吨。 LME期铅收涨8美元，报1895美元/吨。 LME期镍收涨39美元，报16815美元/吨。 LME期锡收涨340美元，报56194美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3149833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "路易吉·曼乔内在法庭听证会上表示，他打算就杀害联合健康保险公司CEO一案认罪。",
@@ -207,9 +116,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "CAPRICORN INVESTMENT持有SpaceX 1.208亿股股份， 价值206.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3149830",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团将其在台积电(TSM.N)的股份减少71.5%，降至56.5万份存托凭证。",
+          "url": "https://wallstreetcn.com/livenews/3149828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.7093。",
@@ -218,9 +149,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，软银集团增持美国第一资本金融公司(COF.N)股份，持股量为276,811股。",
+          "url": "https://flash.jin10.com/detail/20260815004108454800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "德国债券跌幅扩大，10年期国债收益率上升5个基点至3.18%。",
@@ -229,7 +171,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -240,7 +182,180 @@
           "ranks": [
             28
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "英国长期国债收益率上升至三周高点，20年和30年期收益率当天均上涨10个基点。",
+          "url": "https://flash.jin10.com/detail/20260814235600359800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国总统特朗普：经济表现好得令人难以置信。",
+          "url": "https://flash.jin10.com/detail/20260815012708562800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "法国10年期国债收益率上升10个基点至4.04%，创2009年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3149820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "德国30年期国债收益率上升8个基点至3.72%，创2011年以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3149819",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "马科斯：没想疏远中国，看好经济合作",
+          "url": "https://news.ifeng.com/c/8vaSjYUOLg5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "法国国债大跌，领跌欧元区债市",
+          "url": "https://wallstreetcn.com/livenews/3149837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "法国10年期国债收益率上升10个基点，达到4.04%，为2009年以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260814233116960800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "秘鲁经济部长：燃料补贴将于周六开始，适用于特定区域和类型的驾驶员。",
+          "url": "https://flash.jin10.com/detail/20260814232634703800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3149832",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "德国30年期国债收益率上升8个基点，达到3.72%，为2011年以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260814232029967800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美联储古尔斯比：仍需更多证据确认通胀回落",
+          "url": "https://flash.jin10.com/detail/20260815005829227800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美国消费者信心指数三个月来首次下降 对通胀担忧略有升温",
+          "url": "https://wallstreetcn.com/livenews/3149805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国8月密歇根大学5年通胀预期初值 3.3，预期 3.3，前值 3.3。",
+          "url": "https://wallstreetcn.com/livenews/3149802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国8月密歇根大学1年通胀预期初值 4.3，预期 4.2，前值 4.2。",
+          "url": "https://wallstreetcn.com/livenews/3149800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "提醒：北京时间22:00，将公布美国8月密歇根大学消费者信心指数初值、美国8月密歇根大学1年通胀预期初值、美国8月密歇根大学5年通胀预期初值。",
+          "url": "https://wallstreetcn.com/livenews/3149795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         }
@@ -248,7 +363,7 @@
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "央行将发行江泽民诞辰100周年纪念币",
@@ -258,8 +373,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
@@ -268,31 +383,33 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
         },
         {
           "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
           "url": "https://www.cls.cn/detail/2454866",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "对着别人手机念数字就可能背上贷款",
           "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E7%9D%80%E5%88%AB%E4%BA%BA%E6%89%8B%E6%9C%BA%E5%BF%B5%E6%95%B0%E5%AD%97%E5%B0%B1%E5%8F%AF%E8%83%BD%E8%83%8C%E4%B8%8A%E8%B4%B7%E6%AC%BE",
           "source": "百度热搜",
           "ranks": [
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
@@ -301,31 +418,55 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
         },
         {
           "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
           "url": "https://wallstreetcn.com/articles/3779446",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
           "url": "https://wallstreetcn.com/articles/3779437",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了1个对手方的2.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260815011624416800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "美联储古尔斯比表示，支持7月维持利率不变的决定。他指出，近期两次生产率数据表现不理想，若生产率继续走低，美联储可能需要重新审视市场对人工智能（AI）的预期。 古尔斯比表示，最新CPI数据令人鼓舞，但仍需观察更多数据才能作出判断；持续的消费疲软令人担忧，不过零售销售疲弱目前仅是单月表现。与此同时，美国GDP和劳动力市场整体保持基本稳定。",
+          "url": "https://wallstreetcn.com/livenews/3149829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "一周热榜精选：美联储加息预期骤降，通胀降温为何救不了长债？",
@@ -334,15 +475,121 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         }
       ]
     },
     {
+      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "4家A股公司公告：终止资产重组事项",
+          "url": "https://www.cls.cn/detail/2454846",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
+          "url": "https://www.cls.cn/detail/2454642",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
+          "url": "https://wallstreetcn.com/livenews/3149842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260815011957438800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260815011719410800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
+          "url": "https://www.cls.cn/detail/2454593",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
+          "url": "https://www.cls.cn/detail/2454650",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
+        },
+        {
+          "title": "国内商品期货夜盘收盘，合成橡胶、对二甲苯、乙二醇、PTA、低硫燃油、纯苯、苯乙烯涨超2%，焦炭、瓶片、豆一涨超1%。胶版纸、铁矿石小幅下跌。",
+          "url": "https://wallstreetcn.com/livenews/3149814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "欧洲斯托克50指数收盘跌0.1%，德国DAX指数涨0.5%，英国富时100指数跌0.3%，法国CAC 40指数跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3149822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "报道：理想再自研芯片，仍采用数据流架构",
@@ -351,7 +598,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -362,7 +609,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -373,7 +620,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -384,9 +631,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260815005008415800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "美国8月密歇根大学消费者信心指数初值 51，预期 55，前值 55.2。",
@@ -395,9 +653,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "你愿意为电动车智能服务“续费”吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
           "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
@@ -406,7 +675,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -417,70 +686,60 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         }
       ]
     },
     {
-      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 5,
+      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
+      "match_count": 4,
       "titles": [
         {
-          "title": "4家A股公司公告：终止资产重组事项",
-          "url": "https://www.cls.cn/detail/2454846",
-          "source": "财联社热门",
+          "title": "旺旺净利润暴跌,情怀卖不动了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            1
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
-          "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
-          "url": "https://www.cls.cn/detail/2454642",
+          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
+          "url": "https://www.cls.cn/detail/2454635",
           "source": "财联社热门",
           "ranks": [
-            4
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
-          "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
-          "url": "https://www.cls.cn/detail/2454593",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
-          "url": "https://www.cls.cn/detail/2454650",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "国内商品期货夜盘收盘，合成橡胶、对二甲苯、乙二醇、PTA、低硫燃油、纯苯、苯乙烯涨超2%，焦炭、瓶片、豆一涨超1%。胶版纸、铁矿石小幅下跌。",
-          "url": "https://wallstreetcn.com/livenews/3149814",
+          "title": "中创新航预计上半年净利润至少翻倍：得益于新客户、新应用场景拓展",
+          "url": "https://wallstreetcn.com/livenews/3149824",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "01时57分"
+        },
+        {
+          "title": "贵州茅台上半年净利润同比降1.95%",
+          "url": "https://www.toutiao.com/trending/7673354130521456681/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时57分"
         }
       ]
     },
@@ -517,7 +776,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         }
@@ -532,11 +791,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
+          "appearance_count": 3,
+          "time_info": "[00时03分 ~ 01时57分]"
         },
         {
           "title": "秘鲁总统：燃料补贴将持续三个月。",
@@ -545,7 +805,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
         },
@@ -556,37 +816,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "旺旺净利润暴跌,情怀卖不动了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
-        },
-        {
-          "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
-          "url": "https://www.cls.cn/detail/2454635",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时03分 ~ 00时04分]"
         }
       ]
     }
