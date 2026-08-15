@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T12:40:07.098811+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-08-15T14:52:41.645814+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 55,
+      "match_count": 57,
       "titles": [
         {
           "title": "段永平抛出1亿元“十年之约”：重仓茅台挑战国内基金",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 14时52分]"
         },
         {
           "title": "一步到位,银行能领结婚证",
@@ -27,11 +27,12 @@
             10,
             12,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "中国人民银行定于2026年8月17日起陆续发行江泽民诞辰100周年纪念币",
@@ -43,8 +44,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "巴克莱：维持2026年布伦特原油价格预测为每桶96美元。",
@@ -111,6 +112,17 @@
           "time_info": "07时30分"
         },
         {
+          "title": "团伙用假骨折片子骗了保险公司30多万",
+          "url": "https://news.ifeng.com/c/8vbZuawKQ2j",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 14时52分]"
+        },
+        {
           "title": "布伦特原油期货结算价为每桶88.52美元，上涨1.45美元，涨幅1.67%。",
           "url": "https://flash.jin10.com/detail/20260815025857317800",
           "source": "金十数据",
@@ -167,17 +179,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时42分 ~ 12时40分]"
-        },
-        {
-          "title": "团伙用假骨折片子骗了保险公司30多万",
-          "url": "https://news.ifeng.com/c/8vbZuawKQ2j",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时40分]"
         },
         {
           "title": "如何看待段永平「我敢抱着茅台跟任何基金赌一个亿」的言论？",
@@ -271,6 +272,19 @@
           "time_info": "[00时04分 ~ 01时57分]"
         },
         {
+          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
+          "url": "https://www.cls.cn/detail/2455019",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 14时52分]"
+        },
+        {
           "title": "消息人士：Anthropic预计2028年收入将达到1900亿至2000亿美元",
           "url": "https://flash.jin10.com/detail/20260815083816255800",
           "source": "金十数据",
@@ -323,18 +337,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时42分]"
-        },
-        {
-          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
-          "url": "https://www.cls.cn/detail/2455019",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时40分]"
         },
         {
           "title": "据悉英伟达缩减为OpenAI数据中心提供2500亿美元担保的计划",
@@ -539,6 +541,28 @@
           "time_info": "01时57分"
         },
         {
+          "title": "8月14日芝加哥商业交易所（CME）外汇类商品成交量报告已在金十数据中心更新！欢迎点击查看",
+          "url": "https://flash.jin10.com/detail/20260815133141016800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
+          "url": "https://www.cls.cn/detail/2455064",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
           "title": "美国司法部：亚马逊同意支付225万美元和解金，并接受禁令，以解决涉嫌违反《公平信用报告法》的问题。",
           "url": "https://flash.jin10.com/detail/20260814232559287800",
           "source": "金十数据",
@@ -673,6 +697,357 @@
       ]
     },
     {
+      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
+      "match_count": 30,
+      "titles": [
+        {
+          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
+          "url": "https://www.zhihu.com/question/2071487809492456110",
+          "source": "知乎",
+          "ranks": [
+            8,
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时42分 ~ 12时40分]"
+        },
+        {
+          "title": "意外转负！美国7月零售销售环比下降0.6%，创逾一年最大降幅",
+          "url": "https://wallstreetcn.com/articles/3779468",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时52分]"
+        },
+        {
+          "title": "海湾产油国斥巨资“改道”石油出口，霍尔木兹海峡真会变得无关紧要？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33783908",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时59分 ~ 14时52分]"
+        },
+        {
+          "title": "英国海事贸易组织：未报告损害评估，环境影响未知。",
+          "url": "https://flash.jin10.com/detail/20260815135700856800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "英国海事贸易行动办公室（UKMTO）：英国海军收到8月15日发生于霍尔木兹海峡的事件报告，一艘散货船被发射物击中。",
+          "url": "https://wallstreetcn.com/livenews/3149946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "英国海事贸易组织：弹丸击中船体，船员报告安全。",
+          "url": "https://flash.jin10.com/detail/20260815135656459800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "英国海事贸易组织：我们已收到报告，周五在霍尔木兹海峡一艘散货船遭到不明物体袭击。",
+          "url": "https://flash.jin10.com/detail/20260815135651095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "印度总理莫迪：决心在2047年前将印度建设成为发达国家。 未来7-8年内印度将新建多达8座芯片工厂。 预计到2047年印度核能发电量达到100吉瓦，印度计划启动5座核反应堆。 印度必须寻求替代能源。",
+          "url": "https://wallstreetcn.com/livenews/3149921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时52分]"
+        },
+        {
+          "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
+          "url": "https://flash.jin10.com/detail/20260815100258090800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 12时40分]"
+        },
+        {
+          "title": "中消协发布绿色消费指南，涵盖四大领域50条行动建议",
+          "url": "https://wallstreetcn.com/livenews/3149918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时52分]"
+        },
+        {
+          "title": "你愿意为电动车智能服务“续费”吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 14时52分]"
+        },
+        {
+          "title": "消息人士：加拿大对美贸易部长告知咨询委员会，加美双方距离达成协议“相当遥远”。",
+          "url": "https://flash.jin10.com/detail/20260815053153644800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "市场消息：加拿大对美贸易负责人及首席谈判代表本周末将继续留在华盛顿进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260815044645813800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时30分]"
+        },
+        {
+          "title": "海关总署发布关于进口泰国食用水生动物检疫和卫生要求的公告",
+          "url": "https://flash.jin10.com/detail/20260815133324625800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
+          "url": "https://wallstreetcn.com/livenews/3149847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "韩国政府解雇负责美韩贸易谈判的首席贸易代表",
+          "url": "https://flash.jin10.com/detail/20260815131848473800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "美被曝对古巴策略转向强化制裁 军事选项淡出",
+          "url": "https://wallstreetcn.com/livenews/3149845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "报道：理想再自研芯片，仍采用数据流架构",
+          "url": "https://wallstreetcn.com/livenews/3149806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国贸易代表格里尔：加拿大对美国酒类的禁令必须得到解决。",
+          "url": "https://flash.jin10.com/detail/20260814231332310800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国贸易代表格里尔：加拿大希望采取更具和解性的方式。",
+          "url": "https://flash.jin10.com/detail/20260814231214926800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者预期指数初值 50.6，预期 55.2，前值 55.4。",
+          "url": "https://wallstreetcn.com/livenews/3149803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260815005008415800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "据印度官方命令：印度将柴油出口暴利税从每升25.5卢比下调至每升24卢比，自8月15日起生效。",
+          "url": "https://flash.jin10.com/detail/20260815015322412800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "据印度官方命令：印度将航空涡轮燃料出口暴利税从每升22卢比下调至每升19.5卢比，自8月15日起生效。",
+          "url": "https://flash.jin10.com/detail/20260815015311453800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者信心指数初值 51，预期 55，前值 55.2。",
+          "url": "https://wallstreetcn.com/livenews/3149799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "据印度官方命令：印度将汽油出口暴利税从每升3.5卢比降至零，自8月15日起生效。",
+          "url": "https://flash.jin10.com/detail/20260815015224216800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
+          "url": "https://wallstreetcn.com/livenews/3149801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        },
+        {
+          "title": "美被曝对古巴策略转向强化制裁 军事选项淡出",
+          "url": "https://flash.jin10.com/detail/20260815014653836800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时06分"
+        },
+        {
+          "title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。",
+          "url": "https://flash.jin10.com/detail/20260814230112609800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "通胀 CPI PPI GDP 经济 财政 赤字 国债 地方债 企业债 违约 暴雷 重组",
       "match_count": 27,
       "titles": [
@@ -710,17 +1085,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "印度总理莫迪：部分国家对资源和战略海路的武器化对印度经济安全构成风险，呼吁在能源方面实现更大自给自足，以降低国家对海外供应的脆弱性。",
-          "url": "https://flash.jin10.com/detail/20260815114335998800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时40分"
-        },
-        {
           "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
           "url": "https://wallstreetcn.com/livenews/3149851",
           "source": "华尔街见闻-快讯",
@@ -730,6 +1094,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时06分"
+        },
+        {
+          "title": "内蒙古自治区人大财政经济委员会主任委员冯玉臻接受审查调查",
+          "url": "https://wallstreetcn.com/livenews/3149926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时00分 ~ 14时52分]"
         },
         {
           "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
@@ -745,17 +1123,16 @@
           "time_info": "[06时32分 ~ 09时42分]"
         },
         {
-          "title": "内蒙古自治区人大财政经济委员会主任委员冯玉臻接受审查调查",
-          "url": "https://wallstreetcn.com/livenews/3149926",
-          "source": "华尔街见闻-快讯",
+          "title": "印度总理莫迪：部分国家对资源和战略海路的武器化对印度经济安全构成风险，呼吁在能源方面实现更大自给自足，以降低国家对海外供应的脆弱性。",
+          "url": "https://flash.jin10.com/detail/20260815114335998800",
+          "source": "金十数据",
           "ranks": [
-            1,
-            13,
-            14
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时40分]"
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 14时52分]"
         },
         {
           "title": "法国10年期国债收益率上升10个基点至4.04%，创2009年以来新高。",
@@ -780,6 +1157,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时57分]"
+        },
+        {
+          "title": "古巴外长谴责美国对古实施极限施压和经济扼杀政策",
+          "url": "https://wallstreetcn.com/livenews/3149931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 14时52分]"
         },
         {
           "title": "惠誉：预计英国政府总体赤字将持续收窄，2028年降至GDP的4.2%。英国政府总体债务占GDP比重到2028年底将升至106%。",
@@ -818,18 +1208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 03时06分]"
-        },
-        {
-          "title": "古巴外长谴责美国对古实施极限施压和经济扼杀政策",
-          "url": "https://wallstreetcn.com/livenews/3149931",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 12时40分]"
         },
         {
           "title": "美国据称更倾向于对古巴施加经济压力，而不是动用军事手段。（彭博）",
@@ -993,290 +1371,8 @@
       ]
     },
     {
-      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 24,
-      "titles": [
-        {
-          "title": "美国将对进口无人机及零部件征收最高 100% 关税，将如何影响全球产业？",
-          "url": "https://www.zhihu.com/question/2071487809492456110",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时40分]"
-        },
-        {
-          "title": "意外转负！美国7月零售销售环比下降0.6%，创逾一年最大降幅",
-          "url": "https://wallstreetcn.com/articles/3779468",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时40分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时30分"
-        },
-        {
-          "title": "海湾产油国斥巨资“改道”石油出口，霍尔木兹海峡真会变得无关紧要？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33783908",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时40分]"
-        },
-        {
-          "title": "中消协发布绿色消费指南 涵盖四大领域50条行动建议",
-          "url": "https://flash.jin10.com/detail/20260815100258090800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
-          "title": "印度总理莫迪：决心在2047年前将印度建设成为发达国家。 未来7-8年内印度将新建多达8座芯片工厂。 预计到2047年印度核能发电量达到100吉瓦，印度计划启动5座核反应堆。 印度必须寻求替代能源。",
-          "url": "https://wallstreetcn.com/livenews/3149921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
-          "title": "中消协发布绿色消费指南，涵盖四大领域50条行动建议",
-          "url": "https://wallstreetcn.com/livenews/3149918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时00分 ~ 12时40分]"
-        },
-        {
-          "title": "你愿意为电动车智能服务“续费”吗",
-          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E6%84%BF%E6%84%8F%E4%B8%BA%E7%94%B5%E5%8A%A8%E8%BD%A6%E6%99%BA%E8%83%BD%E6%9C%8D%E5%8A%A1%E2%80%9C%E7%BB%AD%E8%B4%B9%E2%80%9D%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 07时30分]"
-        },
-        {
-          "title": "消息人士：加拿大对美贸易部长告知咨询委员会，加美双方距离达成协议“相当遥远”。",
-          "url": "https://flash.jin10.com/detail/20260815053153644800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时30分]"
-        },
-        {
-          "title": "市场消息：加拿大对美贸易负责人及首席谈判代表本周末将继续留在华盛顿进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260815044645813800",
-          "source": "金十数据",
-          "ranks": [
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时30分]"
-        },
-        {
-          "title": "印度自8月15日起将汽油出口暴利税从每升3.5卢比降至零，将航空涡轮燃料出口暴利税从每升22卢比下调至19.5卢比，将柴油出口暴利税从每升25.5卢比下调至24卢比。",
-          "url": "https://wallstreetcn.com/livenews/3149847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美被曝对古巴策略转向强化制裁 军事选项淡出",
-          "url": "https://wallstreetcn.com/livenews/3149845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "报道：理想再自研芯片，仍采用数据流架构",
-          "url": "https://wallstreetcn.com/livenews/3149806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国贸易代表格里尔：加拿大对美国酒类的禁令必须得到解决。",
-          "url": "https://flash.jin10.com/detail/20260814231332310800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国贸易代表格里尔：加拿大希望采取更具和解性的方式。",
-          "url": "https://flash.jin10.com/detail/20260814231214926800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美国8月密歇根大学消费者预期指数初值 50.6，预期 55.2，前值 55.4。",
-          "url": "https://wallstreetcn.com/livenews/3149803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
-          "url": "https://flash.jin10.com/detail/20260815005008415800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "据印度官方命令：印度将柴油出口暴利税从每升25.5卢比下调至每升24卢比，自8月15日起生效。",
-          "url": "https://flash.jin10.com/detail/20260815015322412800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "据印度官方命令：印度将航空涡轮燃料出口暴利税从每升22卢比下调至每升19.5卢比，自8月15日起生效。",
-          "url": "https://flash.jin10.com/detail/20260815015311453800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国8月密歇根大学消费者信心指数初值 51，预期 55，前值 55.2。",
-          "url": "https://wallstreetcn.com/livenews/3149799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "据印度官方命令：印度将汽油出口暴利税从每升3.5卢比降至零，自8月15日起生效。",
-          "url": "https://flash.jin10.com/detail/20260815015224216800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "美国8月密歇根大学消费者现况指数初值 51.8，预期 54.8，前值 54.8。",
-          "url": "https://wallstreetcn.com/livenews/3149801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        },
-        {
-          "title": "美被曝对古巴策略转向强化制裁 军事选项淡出",
-          "url": "https://flash.jin10.com/detail/20260815014653836800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时06分"
-        },
-        {
-          "title": "韩国海关数据显示，7月份进口原油1220万桶，去年同期为1130万桶。",
-          "url": "https://flash.jin10.com/detail/20260814230112609800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时04分"
-        }
-      ]
-    },
-    {
       "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "4家A股公司公告：终止资产重组事项",
@@ -1286,8 +1382,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "一图看懂 | 半年报“报喜”，已有9家A股公司净利暴增超10倍",
@@ -1309,11 +1405,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时30分 ~ 12时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时30分 ~ 14时52分]"
         },
         {
           "title": "【焦点复盘】创业板指强势收复30日线，算力租赁概念再度爆发，光通信人气股录得20cm五连板",
@@ -1324,20 +1421,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
-          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
-          "url": "https://wallstreetcn.com/articles/3779421",
-          "source": "华尔街见闻",
+          "title": "CRO八月跑赢CPO，“光宗”之后是“药祖”行情？",
+          "url": "https://www.cls.cn/detail/2454492",
+          "source": "财联社热门",
           "ranks": [
+            10,
             7,
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "time_info": "[10时59分 ~ 14时52分]"
         },
         {
           "title": "中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年",
@@ -1345,11 +1443,40 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时52分]"
+        },
+        {
+          "title": "创业板缩量涨超1%，算力硬件集体拉升，恒科指跌近2%，京东大跌10%、华虹宏力跌12%",
+          "url": "https://wallstreetcn.com/articles/3779421",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时52分]"
+        },
+        {
+          "title": "本周机构扎堆调研，A股六家公司接待超百家机构",
+          "url": "https://wallstreetcn.com/livenews/3149915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            21,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时52分]"
         },
         {
           "title": "【每日收评】三大指数探底回升全线收红，两市成交额萎缩超4000亿，高位人气股批量跌停",
@@ -1363,6 +1490,21 @@
           "time_info": "[00时03分 ~ 07时30分]"
         },
         {
+          "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
+          "url": "https://wallstreetcn.com/livenews/3149912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            22,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时52分]"
+        },
+        {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260815011957438800",
           "source": "金十数据",
@@ -1374,18 +1516,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "本周机构扎堆调研，A股六家公司接待超百家机构",
-          "url": "https://wallstreetcn.com/livenews/3149915",
-          "source": "华尔街见闻-快讯",
+          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
+          "url": "https://wallstreetcn.com/articles/3779498",
+          "source": "华尔街见闻",
           "ranks": [
-            1,
-            9,
-            21,
-            22
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         },
         {
           "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
@@ -1397,32 +1536,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "CRO八月跑赢CPO，“光宗”之后是“药祖”行情？",
-          "url": "https://www.cls.cn/detail/2454492",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时59分 ~ 12时40分]"
-        },
-        {
-          "title": "上百家A股公司计划半年度现金分红，总额超900亿元",
-          "url": "https://wallstreetcn.com/livenews/3149912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时40分]"
         },
         {
           "title": "特朗普：美国经济表现“难以置信地好” 盛赞股市",
@@ -1523,7 +1636,7 @@
     },
     {
       "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "央行将发行江泽民诞辰100周年纪念币",
@@ -1533,8 +1646,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "中国7月新增社融1.41万亿元，人民币贷款减少3400亿，M2同比增长7.7%",
@@ -1546,8 +1659,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 12时40分]"
+          "appearance_count": 12,
+          "time_info": "[00时04分 ~ 14时52分]"
         },
         {
           "title": "美联储加息前景愈发渺茫 存储妖股继续走强 | 今夜看点",
@@ -1560,8 +1673,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "美PPI数据再缓加息压力，标普新高，美存储股大涨，闪迪飙涨近14%，原油结束连涨",
@@ -1609,11 +1722,12 @@
           "ranks": [
             16,
             2,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 12时40分]"
+          "appearance_count": 4,
+          "time_info": "[00时04分 ~ 14时52分]"
         },
         {
           "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
@@ -1699,6 +1813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260815120116376800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
         }
       ]
     },
@@ -1713,22 +1838,12 @@
           "ranks": [
             3,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
-        },
-        {
-          "title": "茅台上半年营收微增1.47%，净利润下滑1.95%，经营现金流暴增近五倍 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3779470",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时42分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "7月金融数据出炉：社融规模存量同比增长7.4% 直接融资对市场支持作用继续加强",
@@ -1741,6 +1856,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时03分 ~ 11时00分]"
+        },
+        {
+          "title": "茅台上半年营收微增1.47%，净利润下滑1.95%，经营现金流暴增近五倍 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779470",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时42分 ~ 14时52分]"
         },
         {
           "title": "市场消息：简街（Jane Street）称近期亏损促使公司对风险更加审慎，已关闭7月出现亏损的特定领域中的大部分风险头寸。",
@@ -1771,6 +1898,21 @@
           "time_info": "[06时32分 ~ 11时00分]"
         },
         {
+          "title": "今年以来港股IPO基石投资额同比增长158.3%",
+          "url": "https://wallstreetcn.com/livenews/3149902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            7,
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时42分 ~ 14时52分]"
+        },
+        {
           "title": "市场消息：简街（JaneStreet）在周五致员工的一份备忘录中表示，2026年营收“较6月底峰值下降了约25%”。",
           "url": "https://flash.jin10.com/detail/20260815054957553800",
           "source": "金十数据",
@@ -1782,20 +1924,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时32分 ~ 09时42分]"
-        },
-        {
-          "title": "今年以来港股IPO基石投资额同比增长158.3%",
-          "url": "https://wallstreetcn.com/livenews/3149902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            7,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时42分 ~ 12时40分]"
         },
         {
           "title": "中创新航预计上半年净利润至少翻倍：得益于新客户、新应用场景拓展",
@@ -1833,11 +1961,12 @@
             6,
             8,
             10,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 12时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 14时52分]"
         },
         {
           "title": "大规模涨价 手机快买不起了",
