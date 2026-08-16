@@ -1,1021 +1,215 @@
 {
-  "generated_at": "2026-08-16T19:28:46.708972+08:00",
-  "total_titles_processed": 984,
+  "generated_at": "2026-08-17T00:35:26.605828+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "银行 理财 基金 股票 债券 保险 信托 证券 期货 外汇 人民币 美元 汇率",
-      "match_count": 23,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
-          "url": "https://www.cls.cn/detail/2455237",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时49分 ~ 19时28分]"
-        },
-        {
-          "title": "太炸裂！Anthropic二季度营收达逾115亿美元 同比实现14倍暴涨",
-          "url": "https://www.cls.cn/detail/2455064",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时28分]"
-        },
         {
           "title": "AI债务狂潮背后：700亿美元表外隐性负债引发债券投资者担忧",
           "url": "https://wallstreetcn.com/articles/3779518",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
-            5
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时44分 ~ 19时28分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "“AI版金融创新”：英伟达的“5000亿美元大算盘”",
-          "url": "https://wallstreetcn.com/articles/3779503",
-          "source": "华尔街见闻",
+          "title": "【早报】英伟达缩减对OpenAI数据中心项目提供2500亿美元担保的计划；伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
+          "url": "https://www.cls.cn/detail/2455237",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 11时08分]"
-        },
-        {
-          "title": "英伟达拟投资SB Energy 30亿美元，布局OpenAI数据中心",
-          "url": "https://wallstreetcn.com/livenews/3150021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            9,
-            19,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 17时36分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "英伟达悄然缩减OpenAI数据中心担保规模，从2500亿美元降至1200亿美元以下",
           "url": "https://wallstreetcn.com/articles/3779526",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            8,
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时28分]"
-        },
-        {
-          "title": "Anthropic Q2 营收逾 115 亿美元，同比增 14 倍，是何引爆了其业绩，大模型商业化成功了？",
-          "url": "https://www.zhihu.com/question/2071916942760342436",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时28分]"
-        },
-        {
-          "title": "伊朗陆军总司令：俘获或击毙美军可获3万美元悬赏",
-          "url": "https://flash.jin10.com/detail/20260816190924554800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "600亿美元科技收购落地 马斯克正式杀入“Vibe Coding”战场",
-          "url": "https://www.cls.cn/detail/2455019",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时28分]"
-        },
-        {
-          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
-          "url": "https://wallstreetcn.com/livenews/3150057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
-          "url": "https://flash.jin10.com/detail/20260816184629113800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
-          "url": "https://wallstreetcn.com/livenews/3150056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "广东上线「Token 贷」，银行以企业 Token 消耗、业务订单等作为授信核心依据，如何看待这一创新模式？",
-          "url": "https://www.zhihu.com/question/2071648717074069267",
-          "source": "知乎",
-          "ranks": [
-            8,
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 15时39分]"
-        },
-        {
-          "title": "一步到位,银行能领结婚证",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357454&amp;topic_name=%E4%B8%80%E6%AD%A5%E5%88%B0%E4%BD%8D%2C%E9%93%B6%E8%A1%8C%E8%83%BD%E9%A2%86%E7%BB%93%E5%A9%9A%E8%AF%81",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时44分]"
-        },
-        {
-          "title": "法巴银行：欧洲汽车股被低估，AI受益逻辑需等待市场共识形成",
-          "url": "https://flash.jin10.com/detail/20260816151639180800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 17时36分]"
-        },
-        {
-          "title": "哈佛对SpaceX进行了高达22亿美元的重大投资。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3150015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            11,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时49分 ~ 15时39分]"
-        },
-        {
-          "title": "厄尔尼诺致糖期货大涨价",
-          "url": "https://wallstreetcn.com/livenews/3150031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 19时28分]"
+          "time_info": "00时35分"
         },
         {
           "title": "AI打破存储盛衰周期！美光目标价迎大幅上调 市值看向3万亿美元",
           "url": "https://www.cls.cn/detail/2455252",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时28分]"
-        },
-        {
-          "title": "哈佛大学重仓SpaceX，22亿美元投资彰显长期布局",
-          "url": "https://flash.jin10.com/detail/20260816090116800800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时44分]"
-        },
-        {
-          "title": "据福克斯新闻：哈佛对SpaceX(SPCX.O)进行了高达22亿美元的重大投资。",
-          "url": "https://flash.jin10.com/detail/20260816083421189800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时44分]"
-        },
-        {
-          "title": "英伟达持仓股票曝光 位列SpaceX第六大股东",
-          "url": "https://flash.jin10.com/detail/20260816110258986800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "00时35分"
         },
         {
-          "title": "机构：债券交易员正为AI企业的“影子信贷”担保而忧心忡忡",
-          "url": "https://flash.jin10.com/detail/20260816034637477800",
-          "source": "金十数据",
+          "title": "多家银行竞推“算力贷”",
+          "url": "https://wallstreetcn.com/livenews/3150065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "30美元1小时 机器人上门做保洁",
+          "url": "https://www.baidu.com/s?wd=30%E7%BE%8E%E5%85%831%E5%B0%8F%E6%97%B6+%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8A%E9%97%A8%E5%81%9A%E4%BF%9D%E6%B4%81",
+          "source": "百度热搜",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "00时35分"
         },
         {
-          "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
-          "url": "https://flash.jin10.com/detail/20260816031526828800",
+          "title": "富国银行：摩根大通有望成首家“万亿美元银行”",
+          "url": "https://flash.jin10.com/detail/20260816222531840800",
           "source": "金十数据",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "00时35分"
+        },
+        {
+          "title": "紫金黄金国际：上半年母公司拥有人应占溢利约14.5亿美元 同比增长179%",
+          "url": "https://wallstreetcn.com/livenews/3150057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "中信证券：恒生科技指数的调整具有显著事件效应",
+          "url": "https://wallstreetcn.com/livenews/3150056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "营收 利润 亏损 财报 上市 IPO 融资 创投 独角兽 市值",
-      "match_count": 18,
+      "match_count": 9,
       "titles": [
         {
-          "title": "博通一夜跌6%：AI的下一道坎，是融资成本",
-          "url": "https://wallstreetcn.com/articles/3779512",
-          "source": "华尔街见闻",
+          "title": "问界儿童车即将上市",
+          "url": "https://www.toutiao.com/trending/7674162628880518699/",
+          "source": "今日头条",
           "ranks": [
-            4,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 17时36分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
-          "title": "旺旺净利润暴跌,情怀卖不动了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357488&amp;topic_name=%E6%97%BA%E6%97%BA%E5%87%80%E5%88%A9%E6%B6%A6%E6%9A%B4%E8%B7%8C%2C%E6%83%85%E6%80%80%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86",
-          "source": "贴吧",
+          "title": "问界儿童车即将上市 网友：M0.9来了",
+          "url": "https://www.baidu.com/s?wd=%E9%97%AE%E7%95%8C%E5%84%BF%E7%AB%A5%E8%BD%A6%E5%8D%B3%E5%B0%86%E4%B8%8A%E5%B8%82+%E7%BD%91%E5%8F%8B%EF%BC%9AM0.9%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            18,
-            17,
-            22,
-            26,
-            27,
-            28
+            2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时28分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "宇树科技IPO热下的噪音：“暗盘交易”传闻实为捕风捉影 背后风险不容小觑",
+          "url": "https://www.cls.cn/detail/2455292",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "环球下周看点：美联储会议纪要来袭 阿里百度等中概股发布财报",
+          "url": "https://www.cls.cn/detail/2455230",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "商汤：预计2026年上半年录得期内利润约5亿元至7亿元",
+          "url": "https://wallstreetcn.com/livenews/3150061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "中石化炼化工程：股东应占利润11.37亿元 同比减少18%",
           "url": "https://wallstreetcn.com/livenews/3150055",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "00时35分"
+        },
+        {
+          "title": "昔日空城满血复活 曾亏损超10亿",
+          "url": "https://www.baidu.com/s?wd=%E6%98%94%E6%97%A5%E7%A9%BA%E5%9F%8E%E6%BB%A1%E8%A1%80%E5%A4%8D%E6%B4%BB+%E6%9B%BE%E4%BA%8F%E6%8D%9F%E8%B6%8510%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "兆威机电：2026年上半年净利润7464.57万元，同比减少34.10%",
           "url": "https://wallstreetcn.com/livenews/3150054",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "岚图追光S上市，限时权益价22.39万起",
-          "url": "https://wallstreetcn.com/livenews/3150006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时28分 ~ 12时44分]"
-        },
-        {
-          "title": "锦龙股份：2026年上半年净利润1424.89万元，同比下降88.59%",
-          "url": "https://wallstreetcn.com/livenews/3150044",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 19时28分]"
-        },
-        {
-          "title": "荐股骗局调查②丨一条炒股亏损帖发布之后！社交平台、股吧“同路人”设下陷阱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33711980",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 11时08分]"
-        },
-        {
-          "title": "Anthropic二季度营收同比暴涨1400%",
-          "url": "https://www.toutiao.com/trending/7674506368329453102/",
-          "source": "今日头条",
-          "ranks": [
-            22,
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 16时39分]"
-        },
-        {
-          "title": "频准激光：将于8月18日科创板上市",
-          "url": "https://wallstreetcn.com/livenews/3150042",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 19时28分]"
-        },
-        {
-          "title": "520元/股！宇树科技，未上市先疯抢！场外“暗盘”兴起，谁在豪赌？",
-          "url": "https://wallstreetcn.com/articles/3779509",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时44分]"
-        },
-        {
-          "title": "中微半导：2026年上半年净利润1.72亿元 同比增98.48%",
-          "url": "https://wallstreetcn.com/livenews/3150041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 19时28分]"
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "梭子蟹大量上市 中医提醒",
           "url": "https://www.toutiao.com/trending/7674237819607121929/",
           "source": "今日头条",
           "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时28分]"
-        },
-        {
-          "title": "年内最贵新股频准激光：将于8月18日科创板上市",
-          "url": "https://flash.jin10.com/detail/20260816153519640800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "中微半导：2026年上半年净利润1.72亿元 同比增98.48%",
-          "url": "https://flash.jin10.com/detail/20260816153302447800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "一个49人的上市公司等待沈腾“救援”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E4%B8%AA49%E4%BA%BA%E7%9A%84%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E7%AD%89%E5%BE%85%E6%B2%88%E8%85%BE%E2%80%9C%E6%95%91%E6%8F%B4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "贵州茅台上半年归母净利润同比下降 1.95%，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2071716274892191308",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "梭子蟹大量上市 中医提醒",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%AD%E5%AD%90%E8%9F%B9%E5%A4%A7%E9%87%8F%E4%B8%8A%E5%B8%82+%E4%B8%AD%E5%8C%BB%E6%8F%90%E9%86%92",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "宇树科技IPO：暗盘交易系捕风捉影，背后风险不容小觑",
-          "url": "https://wallstreetcn.com/livenews/3149984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "暑期服务消费潜能加速释放",
-          "url": "https://www.douyin.com/hot/2611399",
-          "source": "抖音",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时08分 ~ 15时39分]"
-        },
-        {
-          "title": "于东来打卡小饭店消费380硬要付600",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E6%89%93%E5%8D%A1%E5%B0%8F%E9%A5%AD%E5%BA%97%E6%B6%88%E8%B4%B9380%E7%A1%AC%E8%A6%81%E4%BB%98600",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            10,
-            30,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 17时36分]"
-        },
-        {
-          "title": "于东来打卡小饭店消费380硬要付600",
-          "url": "https://www.toutiao.com/trending/7673321999443443748/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时44分]"
-        },
-        {
-          "title": "国家发展改革委：抓紧制定风电光伏设备回收利用管理办法",
-          "url": "https://wallstreetcn.com/livenews/3150023",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            17,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 17时36分]"
-        },
-        {
-          "title": "国家叫停「速成车」，新国标落地将如何影响消费者购车？",
-          "url": "https://www.zhihu.com/question/2071168780798055732",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时44分]"
-        },
-        {
-          "title": "盛科通信：签订超1亿元以太网交换芯片销售合同",
-          "url": "https://flash.jin10.com/detail/20260816155301812800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
-        },
-        {
-          "title": "因地震影响，哥伦比亚请求美国暂停征收关税",
-          "url": "https://flash.jin10.com/detail/20260816120655503800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "“AI版金融创新”：博通大跌背后的AI芯片“卖方担保”模式",
-          "url": "https://wallstreetcn.com/articles/3779508",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时49分 ~ 12时44分]"
-        },
-        {
-          "title": "SK 集团崔泰源警告 2027 年大概率会是存储芯片供应缺口最大的一年，内存、硬盘还要持续涨价吗？",
-          "url": "https://www.zhihu.com/question/2071746265390506374",
-          "source": "知乎",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 09时49分]"
-        },
-        {
-          "title": "芯片股反弹难消忧虑，韩国市场做空规模持续攀升",
-          "url": "https://flash.jin10.com/detail/20260816100530763800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
-        },
-        {
-          "title": "哥伦比亚总统：因地震影响，在与美国总统特朗普的电话中请求美国暂时暂停对哥伦比亚产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260816080613858800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 11时08分]"
-        },
-        {
-          "title": "周鸿祎：美芯片禁令反给中国AI开扇门",
-          "url": "https://www.toutiao.com/trending/7674482791823707698/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
-          "url": "https://www.cls.cn/detail/2455354",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "情绪有出口那一定是登机口",
-          "url": "https://www.douyin.com/hot/2611576",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时38分 ~ 19时28分]"
-        },
-        {
-          "title": "手机涨价何时是个头",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            21,
-            19,
             28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时36分]"
-        },
-        {
-          "title": "俱往矣!DeepSeek大幅涨价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357395&amp;topic_name=%E4%BF%B1%E5%BE%80%E7%9F%A3%21DeepSeek%E5%A4%A7%E5%B9%85%E6%B6%A8%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时27分 ~ 11时08分]"
-        },
-        {
-          "title": "未来5年就业优先怎么干",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%B0%B1%E4%B8%9A%E4%BC%98%E5%85%88%E6%80%8E%E4%B9%88%E5%B9%B2",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "手机涨价何时是个头",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%B6%A8%E4%BB%B7%E4%BD%95%E6%97%B6%E6%98%AF%E4%B8%AA%E5%A4%B4%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "肖战后援会收入",
-          "url": "https://s.weibo.com/weibo?q=%E8%82%96%E6%88%98%E5%90%8E%E6%8F%B4%E4%BC%9A%E6%94%B6%E5%85%A5&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
-        },
-        {
-          "title": "如何看待「大学新生三件套」涨价近五成，如果只给 5000 元预算配齐「开学三件套」，你会怎么分配？",
-          "url": "https://www.zhihu.com/question/2061220785021268499",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "牛来是为拿百万补贴吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%9B%E6%9D%A5%E6%98%AF%E4%B8%BA%E6%8B%BF%E7%99%BE%E4%B8%87%E8%A1%A5%E8%B4%B4%E5%90%97%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时38分 ~ 15时39分]"
-        },
-        {
-          "title": "广州 11 岁男孩暑假在景点为游客拍照，月收入一千多，直言「拍照比刷题好玩」，这种暑假实践适合孩子吗？",
-          "url": "https://www.zhihu.com/question/2070926273820489019",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "群演待遇 8小时后1.5倍工资",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%A4%E6%BC%94%E5%BE%85%E9%81%87%208%E5%B0%8F%E6%97%B6%E5%90%8E1.5%E5%80%8D%E5%B7%A5%E8%B5%84&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "未来5年就业优先怎么干？",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%AA%E6%9D%A55%E5%B9%B4%E5%B0%B1%E4%B8%9A%E4%BC%98%E5%85%88%E6%80%8E%E4%B9%88%E5%B9%B2%EF%BC%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "CRO八月跑赢CPO，“光宗”之后是“药祖”行情？",
-          "url": "https://www.cls.cn/detail/2454492",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
-          "url": "https://www.cls.cn/detail/2455043",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时27分 ~ 19时28分]"
-        },
-        {
-          "title": "4家A股公司公告：终止资产重组事项",
-          "url": "https://www.cls.cn/detail/2454846",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时44分]"
-        },
-        {
-          "title": "A股牛市第三阶段的新叙事",
-          "url": "https://wallstreetcn.com/articles/3779505",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时44分]"
-        },
-        {
-          "title": "8月，华尔街的“牛市”又回来了，“赌性”也回来了",
-          "url": "https://wallstreetcn.com/articles/3779498",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "预告：国新办将于8月17日举行新闻发布会 介绍2026年7月份国民经济运行情况",
-          "url": "https://wallstreetcn.com/livenews/3150024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            16,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时08分 ~ 17时36分]"
-        },
-        {
-          "title": "预告：国新办17日下午3时举行新闻发布会 介绍2026年7月份国民经济运行情况",
-          "url": "https://flash.jin10.com/detail/20260816124337792800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 16时39分]"
-        },
-        {
-          "title": "专家：下半年股市四条主线已清晰",
-          "url": "https://www.toutiao.com/trending/7673737893919637513/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        },
-        {
-          "title": "A股反弹还能走多远",
-          "url": "https://www.toutiao.com/trending/7674559573931331126/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "本周市场的“核心逻辑”：美联储9月不加息了？",
-          "url": "https://wallstreetcn.com/articles/3779497",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "央行将发行江泽民诞辰100周年纪念币",
-          "url": "https://www.cls.cn/detail/2454813",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
-        },
-        {
-          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
-          "url": "https://flash.jin10.com/detail/20260816120240152800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "阿富汗民众呼吁美国应尽快归还阿央行资产",
-          "url": "https://flash.jin10.com/detail/20260816115612857800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 15时39分]"
-        },
-        {
-          "title": "耐普矿机：海外毛利率未来预计将进一步提升",
-          "url": "https://flash.jin10.com/detail/20260816152240555800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时39分 ~ 17时36分]"
+          "time_info": "00时35分"
         }
       ]
     },
@@ -1024,102 +218,210 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "通胀预期锚定上行空间，空头退潮助力金银携手突围",
-          "url": "https://flash.jin10.com/detail/20260816104416878800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时08分 ~ 12时44分]"
-        },
-        {
           "title": "下周重磅日程：中国7月经济数据，阿里、小米、天孚通信、兆易创新、长飞光纤财报，宇树科技上市在即",
           "url": "https://wallstreetcn.com/articles/3779445",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时28分"
-        },
-        {
-          "title": "伊朗商会会长：伊朗经济已走出战争冲击",
-          "url": "https://flash.jin10.com/detail/20260816161606856800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时36分"
+          "time_info": "00时35分"
         },
         {
-          "title": "机构：AI“芯片通胀”正冲击英国经济",
-          "url": "https://flash.jin10.com/detail/20260816045317873800",
-          "source": "金十数据",
+          "title": "一组数据看中国经济的澎湃动能",
+          "url": "https://www.toutiao.com/trending/7674370501220991012/",
+          "source": "今日头条",
           "ranks": [
-            13
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时28分"
+          "time_info": "00时35分"
+        },
+        {
+          "title": "张柏芝有种经济上行的美",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%9C%89%E7%A7%8D%E7%BB%8F%E6%B5%8E%E4%B8%8A%E8%A1%8C%E7%9A%84%E7%BE%8E&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
         },
         {
           "title": "经济日报：“龙餐馆”从容迎战“奥德赛”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33791727",
           "source": "澎湃新闻",
           "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "金十整理：下周重要事件与数据预告——中国7月经济“成绩单”；阿里、百度等多家公司财报；美联储会议纪要来袭；美预告对伊进行“史无前例”的经济打击",
+          "url": "https://flash.jin10.com/detail/20260816213008775800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "消费 零售 出口 进口 贸易 关税 制裁 供应链 芯片 半导体 新能源 电动车 光伏",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "存储超级周期下半场：长协封顶消费承压 2027或现分水岭",
+          "url": "https://www.cls.cn/detail/2455354",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "新能源冷藏车销量快速增长，冷链绿色转型提速",
+          "url": "https://wallstreetcn.com/livenews/3150076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "中国工程机械5年出口规模3倍增长",
+          "url": "https://www.douyin.com/hot/2612202",
+          "source": "抖音",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "情绪有出口那一定是登机口",
+          "url": "https://www.douyin.com/hot/2611576",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "A股 沪指 深成指 创业板 股市 大盘 涨停 跌停 牛市 熊市 震荡 行情 收盘 开盘",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "A股将逐步迎来“金秋行情”？投资主线有哪些？十大券商策略来了",
+          "url": "https://www.cls.cn/detail/2455399",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "中信建投：当前算力产业链需求仍具韧性，A股科技修复尚未结束",
+          "url": "https://wallstreetcn.com/livenews/3150060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "国泰海通：中国股市将逐步迎来“金秋行情” 积极部署",
+          "url": "https://wallstreetcn.com/livenews/3150059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "失业 就业 工资 收入 物价 涨价 降价 补贴 发钱",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么越南和印度也开始发钱「催生」了？此举能有效解决人口问题带来的挑战吗？",
+          "url": "https://www.zhihu.com/question/2070635312297121770",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "降价未能换来销量、市场份额跌至两成，合资汽车品牌出路何在？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33785629",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房贷 利率 LPR 降息 加息 降准 存款 贷款 央行 货币政策 流动性",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "居民存款7月又少了6300亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%AD%98%E6%AC%BE7%E6%9C%88%E5%8F%88%E5%B0%91%E4%BA%866300%E4%BA%BF%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时28分"
+          "time_info": "00时35分"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产 调控 首付 按揭 公积金 社保 养老金 医保 税收 个税 增值税",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "非沪籍居民及境外人士置换性购房政策微调？上海房地产交易中心热线回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33788970",
-          "source": "澎湃新闻",
+          "title": "韩国总统李在明称房地产泡沫已不容忽视，韩国楼市现在泡沫严重吗？",
+          "url": "https://www.zhihu.com/question/2071334965493682184",
+          "source": "知乎",
           "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时27分 ~ 17时36分]"
-        },
-        {
-          "title": "事业编三甲医生没全额缴社保",
-          "url": "https://s.weibo.com/weibo?q=%E4%BA%8B%E4%B8%9A%E7%BC%96%E4%B8%89%E7%94%B2%E5%8C%BB%E7%94%9F%E6%B2%A1%E5%85%A8%E9%A2%9D%E7%BC%B4%E7%A4%BE%E4%BF%9D&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时38分 ~ 17时36分]"
-        },
-        {
-          "title": "严查社保实缴会逼企业裁员吗",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A5%E6%9F%A5%E7%A4%BE%E4%BF%9D%E5%AE%9E%E7%BC%B4%E4%BC%9A%E9%80%BC%E4%BC%81%E4%B8%9A%E8%A3%81%E5%91%98%E5%90%97&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时44分"
+          "time_info": "00时35分"
         }
       ]
     }
